@@ -1,0 +1,193 @@
+ 
+/* Mrs Eaves - Headings*/
+ @font-face {
+     font-family: "NodestoCaps";
+     src: url("https://dnd-fonts.herokuapp.com/fonts/Nodesto Caps Condensed.otf") ;
+}
+ .page .cover-header{
+     position:absolute;
+     font-family:NodestoCaps,nodesto,sans-serif;
+     transform:scale(2, 2) !important;
+     font-weight:normal;
+     font-size:36px;
+     color:white;
+     width:700px;
+     text-shadow:1px 1px 2px #000000,-1px 1px 2px #000000,1px -1px 2px #000000,-1px -1px 2px #000000;
+     transform:scaleY(3) scaleX(1);
+     top:75px;
+     text-align:center 
+}
+ .page .cover-image{
+     position:absolute;
+     top:0;
+     left:0;
+     width:100% 
+}
+ .page .cover-diamond{
+     background-image:url('https://www.gmbinder.com/assets/img/DiamondDD.png');
+     background-size:400px;
+     background-repeat:no-repeat;
+     position:absolute;
+     left:210px;
+     top:115px;
+     width:400px;
+     height:12px 
+}
+ .page .cover-splotch{
+     background-image:url('https://i.imgur.com/MvDNxV0.png');
+     background-size:350px;
+     position:absolute;
+     left:0;
+     bottom:180px;
+     width:345px;
+     height:56px;
+     font-family:NodestoCaps;
+    /* splotch content */
+     text-align:left;
+     padding-bottom:10px;
+     font-size:27px;
+     vertical-align:auto;
+     padding-top: 15px;
+     padding-left: 12px;
+     color:white;
+}
+ .page .cover-footer{
+     position:absolute;
+     font-family:ScalySansRemake;
+     font-size:20px;
+     color:white;
+     bottom:50px;
+     right:55px;
+     width:700px;
+     text-shadow:1px 1px 2px #000000,-1px 1px 2px #000000,1px -1px 2px #000000,-1px -1px 2px #000000;
+     filter:opacity(100%);
+     text-align:center 
+}
+ .page h1, .page h2, .page h3, .page h4{
+     margin-top: .2em;
+     margin-bottom: .2em;
+     font-family: MrEavesRemake;
+     font-weight: 800;
+     color: #58180D;
+}
+
+/*strahd css */
+ .page h1+p::first-letter {
+     float: left;
+     font-size: 11em;
+     color: #222;
+     line-height: 1em;
+}
+ .page{
+     width : 210mm;
+     height : 297mm;
+     padding: 1cm 1cm;
+     padding-bottom: 1.3cm;
+}
+
+/***** Fix toc ******/
+.page .toc a {
+    display: inline; 
+}
+
+/***** Background ******/
+ .page{
+     background-image: url('https://www.gmbinder.com/images/Cheefop.jpg');
+}
+ .page{
+     background-size: cover 
+}
+
+/****** Notes *******/
+ .page .note {
+    background-color: #dadae0
+}
+ .page hr + section blockquote tr:nth-child(odd) td {
+    background-color: transparent;
+}
+ .page .descriptive{
+     border-image: url('https://www.gmbinder.com/images/adgrVwx.png') ;
+     border-image-slice: 12;
+     border-image-width: 1;
+     border-image-outset: 4px;
+     border-image-repeat: stretch;
+     background-color: #e7e6ea;
+}
+/* Tables */
+ table tbody tr:nth-child(odd) td {
+    background-color: #dfe2e0
+}
+ .monster table tbody tr:nth-child(odd) td {
+    background-color: #dfe2e000
+}
+/* Footer */
+ .page:nth-child(odd):after{
+     content : '';
+     background-image : url('https://www.gmbinder.com/images/z7DiaQi.png');
+     background-size:816px 55px, 120px 120px;
+     background-repeat:no-repeat;
+     background-position:bottom, bottom right;
+}
+ .page:nth-child(even):after{
+     content : '';
+     background-image : url('https://www.gmbinder.com/images/z7DiaQi.png');
+     -webkit- transform:scaleX(-1);
+     background-size:816px 55px, 120px 120px;
+     background-repeat:no-repeat;
+     background-position:bottom, bottom right;
+}
+/* Footnote */
+ .page .footnote{
+     position : absolute;
+     color : #858484;
+     bottom: 36px;
+}
+ .page:nth-child(even) .footnote {
+     left: 65px;
+     text-align: left;
+}
+ .page:nth-child(odd) .footnote {
+     right: 65px;
+     text-align: right;
+}
+ .page:nth-child(odd) .footnote:after{
+     content: 'Strahd';
+     line-height: 1.3em;
+     font-size: 100%;
+}
+ .page:nth-child(even) .footnote:after {
+     content: 'Homebrew';
+     line-height: 1.3em;
+     font-size: 100%;
+}
+/* Page Number */
+ .page .pageNumber{
+     position : absolute;
+     color : #858484;
+}
+ .page .pageNumber.auto{
+     position : absolute;
+     bottom : 30px;
+     color : #858484;
+}
+ .page#p2 {
+    counter-reset: phb-page-numbers 0;
+}
+ .page#p1:after {
+     display:none;
+}
+
+.page .credits {
+    font-family: ScalySansRemake;
+    font-size: .318cm;
+    line-height: 1.2em;
+    background-color: #faf7eab3;
+    border-style: solid;
+    border-width: 1px;
+    border-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAA8CAMAAADG+c2+AAAANlBMVEX///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABHL6OuAAAAEXRSTlMABAwYJDRIXHSLo7fL2+fz+6go4VUAAAB6SURBVHgB7dg5DsJQAANRZ9+Xuf9lQUKKEHT5LlL4HWB6W5d61m1zrT/dhm5j6/RjPCkJco761ixQFoSl0aXfKQ+y9/qoJnAEYar01q64gqytNBz4ghyDMPMHnyYiIiIiIgIzYeYfj/Z56x3g7ovAf2L4bxb/EWS/ql7LZCDx/Ry3RwAAAABJRU5ErkJggg==) 11 stretch;
+    border-image-outset: 9px 0px;
+    border-image-width: 11px;
+    padding: 0.13cm 0.16cm;
+    filter: drop-shadow(1px 4px 6px #888);
+}
+ 
