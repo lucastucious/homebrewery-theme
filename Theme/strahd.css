@@ -84,6 +84,10 @@
      padding: 1cm 1cm;
      padding-bottom: 1.3cm;
 }
+
+a {
+    color: #AC8F66;
+}
 /*** statblocks ***/
 .page .monster.frame {
     background-color: #f3ead2;
