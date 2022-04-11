@@ -1,4 +1,22 @@
- 
+
+/***** V3 *********/
+
+/*bugfix*/
+.page .note {
+	filter:initial;
+ box-shadow: 1px 4px 14px #888;
+}
+
+.page .descriptive {
+    filter:initial;
+    box-shadow : 0px 0px 3px #faf7ea;
+}
+
+.page .monster {
+    filter:initial !important;
+    box-shadow			  : 1px 4px 6px #888;
+}
+
 /* Mrs Eaves - Headings*/
  @font-face {
      font-family: "NodestoCaps";
