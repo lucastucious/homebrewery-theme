@@ -214,4 +214,61 @@ border-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAyAAAAFKCAMAAAD
     padding: 0.13cm 0.16cm;
     filter: drop-shadow(1px 4px 6px #888);
 }
- 
+/* Handwritten notes */
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&family=Nanum+Pen+Script&display=swap');
+
+  :root {
+      --base-text-color:maroon;
+      --greeting-color:inherit;
+      --note-color:inherit;
+      --signature-color:inherit;
+
+      --base-text-font:'rock salt';
+      --greeting-font:inherit;
+      --note-font:inherit;
+      --signature-font:inherit;
+
+    --base-text-size:12px;
+  }
+
+  .flavor {
+      font-family:var(--base-text-font);
+      color:var(--base-text-color);
+      margin-bottom:10px;
+    font-size:var(--base-text-size);
+  }
+
+  .flavor p {
+      text-align:center;
+      font-family:var(--note-font);
+      transform:rotate(0deg);
+      color:var(--note-color);
+      font-size:inherit;
+  }
+
+  .flavor.greeting p:first-child {
+      font-family:var(--greeting-font);
+      text-align:left;
+      transform:rotate(0deg);
+      font-size:inherit;
+      padding-top:0;
+      height:auto;
+      color:var(--greeting-color);
+      font-weight:unset;
+  }
+
+  .flavor.sig p:last-child {
+      font-family:var(--signature-font);
+      text-align:right;
+      transform:rotate(-4deg);
+      font-size:inherit;
+      padding-top:0;
+      height:auto;
+      font-weight:unset;
+      border:none;
+      color:var(--signature-color);
+  }
+
+  .flavor.sig.wide p:last-child {
+      margin-top:8px
+  }
