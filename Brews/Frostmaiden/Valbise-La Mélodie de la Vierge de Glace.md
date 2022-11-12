@@ -7145,7 +7145,7 @@ Wyrm
 \column
 
 ![Targos](https://5e.tools/img/adventure/IDRotF/117-map-2.8-jarlmoot.jpg) {width:110%,margin-left:-5%,margin-top:%}
-{{sidenote,top:530px Map 2.8 :  Jarlmoot}}
+{{sidenote,top:550px Map 2.8 :  Jarlmoot}}
 {{artist Stacy Allan and Will doyle}}
 ::
 
@@ -9654,7 +9654,7 @@ Chaque fois que les personnages engagent le dragon, ils gagnent du temps pour qu
 {{footnote Chapitre 4 | Lumière de Destruction}}
 \page
 ![](https://5e.tools/img/adventure/IDRotF/156-04-001.dragon.png) {position:absolute,width:100%,left:0,top:-0px}
-{{margin-top:430px,wide}}
+{{margin-top:435px,wide}}
 {{sidenote,top:480px,left:570px,color:white
 Les héros sont tout ce qui se tient entre les  
 Dix-Cités et une destruction certaine.
