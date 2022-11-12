@@ -11520,7 +11520,7 @@ La recherche d'un lieu non numéroté prend 30 minutes et nécessite un test pou
 | 11 | 1d4 objets d'art néthérisses (250 po chaque) |
 | 12-14 | 1d4 bijoux (100 po chacun) |
 | 15 | Un globe flottant (ou un autre objet magique commun de ton choix) |
-| 16-20 | Une frise qui révèle un élément du savoir d'Ythryn (déterminé en lançant un d20 et en consultant la table des traditions d'Ythryn ci-dessous) |
+| 16-20 | Une frise qui révèle un élément du savoir d'Ythryn (voir table des Savoirs d'Ythryn ci-dessous) |
 :
 }}
 
@@ -12626,8 +12626,7 @@ Si elle apprend la présence de Vellynne à Ythryn, Avarice utilise son familier
 #### Avarice en tant qu'alliée
 Avarice est assez intelligente pour s'allier aux personnages si cela peut l'aider à conquérir Ythryn, mais elle ne veut pas s'allier tant que Vellynne Harpell est avec eux - elle exige qu'ils chassent sa rivale détestée. Si les personnages s'exécutent et bannissent Vellynne de leurs rangs, Avarice leur rend la pareille en partageant 1d4 éléments du savoir d'Ythryn qu'elle a appris (déterminez chaque élément en faisant un jet sur la table du savoir d'Ythryn).
 
-Contrairement à Vellynne, qui accompagne les personnages, Avarice préfère rester dans sa chambre de verre au sommet de la flèche de Port-Ciel et rester en contact avec les personnages à distance en utilisant le sort *Lien télépathique de Rary
-*. Une fois que les personnages ont trouvé toutes les inscriptions dont ils ont besoin pour contourner le champ de force autour de la flèche d'Iriolarthas, Avarice sort de sa base et les accompagne dans la tour, impatiente de réclamer les trésors qu'elle contient.
+Contrairement à Vellynne, qui accompagne les personnages, Avarice préfère rester dans sa chambre de verre au sommet de la flèche de Port-Ciel et rester en contact avec les personnages à distance en utilisant le sort *Lien télépathique de Rary*. Une fois que les personnages ont trouvé toutes les inscriptions dont ils ont besoin pour contourner le champ de force autour de la flèche d'Iriolarthas, Avarice sort de sa base et les accompagne dans la tour, impatiente de réclamer les trésors qu'elle contient.
 
 ## La colère d'Auril
 La Vierge de Glace aime préserver la beauté des choses en les figeant dans la glace. Si les personnages n'ont pas réussi à vaincre Auril au chapitre 5, elle prend en grippe tous ceux qui ouvrent et pillent la nécropole d'Ythryn. Après que le groupe a passé une journée dans la ville, Auril se rend à Ythryn.
