@@ -767,7 +767,7 @@ Pour mener à bien cette aventure, vous aurez besoin des livres de règles de ba
 Le texte qui apparaît dans une case comme celle-ci est destiné à être lu à haute voix ou paraphrasé pour les joueurs lorsque leurs personnages arrivent pour la première fois à un endroit ou dans une circonstance spécifique, comme décrit dans le texte.
 }}
 
-{{img-desc,color:white,position:absolute,right:-450px,top:420px
+{{img-desc,right:-450px,top:420px
 
 Des fragments de chardalyn - les restes d'un artefact maléfique -  
 sont éparpillés à travers Valbise.
@@ -971,6 +971,11 @@ Les blizzards qui ravagent Valbise et harcèlent les voyageurs sur le col de la 
 Le vent hurlant d'un blizzard limite l'audition à une portée de 30 mètres et impose un désavantage aux jets d'attaque des armes à distance. Il impose également un désavantage aux tests de Sagesse (Perception) qui reposent sur l'audition. Le vent éteint les flammes nues, disperse le brouillard, efface les traces dans la neige et rend le vol par des moyens non magiques presque impossible. Une créature tombe à la fin de son tour si elle vole par des moyens non magiques et ne peut pas faire du surplace.
 
 La visibilité dans un blizzard est réduite à 9 mètres. Les créatures sans lunettes ou autre protection oculaire ont un désavantage sur les tests de Sagesse (Perception) qui reposent sur la vue à cause de la poudrerie.
+
+{{img-desc,black,left:130px,top:450px
+Les Yétis du Valbise aiment espionner  
+leurs proie dans le blizzard
+}}
 {{pageNumber,auto}}
 {{footnote Bienvenue au Grand Nord}}
 
@@ -1244,7 +1249,10 @@ des Ours-hibou** : Si le personnage utilise ce secret pour rendre un ours-hibou 
 
 \page
 ![homebrew mug](https://5e.tools/img/adventure/IDRotF/005-00-005.red-slaad-surprise.png) {position:absolute,top:-120px,left:0px,width:100%}
-
+{{img-desc,top:300px,left:70px,
+Garder un secret trop longtemps  
+peut être dangereux pour la santé.
+}}
 {{artist
 Mark Behm
 }}
