@@ -156,7 +156,7 @@ ___
 
 ![](https://sm.ign.com/ign_me/gallery/d/dd-rime-of/dd-rime-of-the-frostmaiden-art-accessories_zj89.jpg) {width:250px,display:block,margin-left:auto,margin-right:auto}
 
-![](https://cdn.shopify.com/s/files/1/0396/7320/0807/products/407e658bc9c0873f7557baefffbaecc7.png?v=1609977589) {height:200px,display:block,margin-left:auto,margin-right:auto}
+![](https://cdn.shopify.com/s/files/1/0258/3137/4897/products/icewind-dale-alt-cover-small_1200x1200.png?v=1600183152) {height:200px,display:block,margin-left:auto,margin-right:auto}
 
 
 }}
@@ -3044,7 +3044,7 @@ Ce piège est conçu pour isoler un seul ennemi dans la partie ouest de la pièc
 
 
 ![](https://5e.tools/img/adventure/IDRotF/035-map-1.6-duergar-outpost.jpg) {position:absolute,width:95%,right:2.5%,top:13px}
-{{sidenote,top:530px Map 1.6 : Duergar Outpost}}
+{{sidenote,top:530px Map 1.6 : Avant-poste Duergar}}
 ::
 {{margin-top:495px,wide}}
 {{artist Stacey Allan and Will Doyle}}
@@ -3833,7 +3833,7 @@ Les lieux suivants sont associés à la carte 1.11.
 
 ![](https://5e.tools/img/adventure/IDRotF/055-map-1.11-easthaven-town-hall.jpg) {position:absolute,width:90%,left:5%,top:2%}
 {{margin-top:500px,wide}}
-{{sidenote,top:520px,left:50px Map 1.11 : Havre-du-Levant Town Hall}}
+{{sidenote,top:520px,left:50px Map 1.11 : Hôtel de ville d'Havre-du-Levant}}
 
 {{artist Stacey Allan and Will doyle}}
 :
@@ -5726,7 +5726,7 @@ Si un ou deux lions des neiges sont rencontrés, ils traquent les personnages ma
 Si trois ou quatre lions des neiges sont rencontrés, leur nombre les enhardit. Ils attaquent le groupe d'aventuriers comme une meute bien coordonnée, en concentrant leurs attaques sur le membre du groupe qui semble le plus faible et le moins bien armé. Si deux lions des neiges ou plus meurent, les autres battent en retraite.
 #### Druide du givre et ses amis
 
-Un druide du froid (voir annexe C) s'approche des personnages sous la forme d'une chèvre de montagne ou d'un harfang des neiges. Le druide du givre, qui est humain et peut être de n'importe quel sexe, est rejoint par trois créatures qui sont les bénéficiaires du sort d'éveil du druide. Ces bêtes et plantes éveillées servent de compagnons et d'espions au druide, et partagent son caractère maléfique. Lancez un d4 et consultez la table Amis du druide givré pour déterminer chaque créature, ou lancez un seul jet et supposez que toutes les créatures sont du même type de bête ou de plante. (Il n'y a pas de problème si plusieurs créatures du même type sont présentes, car le druide peut favoriser un certain type de bête ou de plante).
+Un **druide du givre** (voir annexe C) s'approche des personnages sous la forme d'une chèvre de montagne ou d'un harfang des neiges. Le druide du givre, qui est humain et peut être de n'importe quel sexe, est rejoint par trois créatures qui sont les bénéficiaires du sort de druide *éveil* . Ces bêtes et plantes éveillées servent de compagnons et d'espions au druide, et partagent son caractère maléfique. Lancez un d4 et consultez la table Amis du druide givré pour déterminer chaque créature, ou lancez un seul jet et supposez que toutes les créatures sont du même type de bête ou de plante. (Il n'y a pas de problème si plusieurs créatures du même type sont présentes, car le druide peut favoriser un certain type de bête ou de plante).
 
 ***Déroulement de la rencontre*** Le druide du givre a pour objectif de tuer les personnages ou de les renvoyer en courant aux Dix-Cités. Si le druide est tué ou capturé, ses compagnons éveillés se comportent comme des humains intelligents face à la perte de leur chef : soit ils perdent le moral et fuient, soit ils deviennent enragés et se battent jusqu'au bout.
 L'un des sorts préparés du druide de givre est Rayon de lune, qui peut révéler la véritable forme de tout personnage possédant le secret du Doppelganger (voir annexe B).
