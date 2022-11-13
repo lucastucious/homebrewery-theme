@@ -769,8 +769,8 @@ Le texte qui apparaît dans une case comme celle-ci est destiné à être lu à 
 
 {{img-desc,right:-450px,top:420px
 
-Des fragments de chardalyn - les restes d'un artefact maléfique -  
-sont éparpillés à travers Valbise.
+Des fragments de chardalyn - les restes d'un artefact  
+maléfique - sont éparpillés à travers Valbise.
 }}
 
 Le manuel des monstres contient des blocs de statistiques pour la plupart des créatures rencontrées dans cette aventure. Les autres se trouvent en annexe C.
@@ -2164,9 +2164,9 @@ Trois personnages trapus, emmitouflés dans leurs vêtements de froid, s'approch
 Les trois nains travaillent dans une mine située dans la vallée au pied du Cairn de Kelvin. Cette mine appartient au Clan des Marteaudeguerre, qui l'exploite, et fournit la plupart du fer aux forges de Dix-Cités.
 
 Les nains portent des vêtements pour le froid. Seuls leurs yeux sont visibles. Traitez-les comme des roturiers qui parlent le commun et le nain ; en tant que nains, ils ont une vision dans le noir jusqu'à une portée de 18 mètres et une résistance aux dégâts du poison. Ils portent des pics à glace (1d4 dégâts perforants) à la place des massues. 
-![cat warrior](https://i.imgur.com/iwJ5g1t.jpg) {height:50%,position:absolute,top:15px,left:0.5%}
+![cat warrior](https://i.imgur.com/iwJ5g1t.jpg) {height:45%,position:absolute,top:15px,left:5%}
 
-{{sidenote,top:565px,left:50px Map 1.2 : Bryn Shander }}
+{{sidenote,top:545px,left:50px Map 1.2 : Bryn Shander }}
 
 
 
@@ -2861,8 +2861,8 @@ Lorsqu'il retire l'écharpe qui couvre son visage, vous voyez qu'il s'agit d'un 
 
 Trovus (vétéran Drakéïde argenté neutre bon) passe la plupart de ses journées à boire et à se remémorer les jours 
 
-![Caer-Konig](https://i.imgur.com/Xjz9eCF.jpg) {width:336px,top:1cm,right:1.8cm,position:absolute}
-{{sidenote,top:520px Carte 1.5 : Caer-Konig}}
+![Caer-Konig](https://i.imgur.com/Xjz9eCF.jpg) {width:336px,top:1.8cm,right:1.8cm,position:absolute}
+{{sidenote,top:530px Carte 1.5 : Caer-Konig}}
 {{artist Mike Schley}}
 {{margin-top:490px}}
 ::
@@ -3309,10 +3309,10 @@ glacées de cette hutte de géant des glaces.
 {{footnote Chapitre 1 | Dix-Cités}}
 \page
 
-![](https://5e.tools/img/adventure/IDRotF/043-map-1.8-frost-giant.jpg) {position:absolute,width:95%,right:2.5%,top:13px}
-{{sidenote,top:530px Map 1.8 : Pavillon du Géant du Givre}}
+![](https://5e.tools/img/adventure/IDRotF/043-map-1.8-frost-giant.jpg) {position:absolute,width:85%,right:7%,top:33px}
+{{sidenote,top:500px Map 1.8 : Pavillon du Géant du Givre}}
 ::
-{{margin-top:470px,wide}}
+{{margin-top:450px,wide}}
 {{artist Stacey Allan and Will Doyle}}
 
 #### L4. Couloir d'entrée
@@ -3510,7 +3510,7 @@ Bien qu'il soit bien informé, Scython ne sait pas que le duergar s'est embarqu�
 \page
 
 ![](https://i.imgur.com/LxZvLuZ.jpg) {position:absolute,width:90%,left:5%,top:3%}
-{{margin-top:530px,wide}}
+{{margin-top:520px,wide}}
 {{sidenote,top:550px,left:50px Map 1.9 : Havre-du-Levant}}
 
 {{artist Shawn Wood (L), Mike Schley (R)}}
@@ -4822,10 +4822,10 @@ Keegan n'a pas rencontré les aventuriers qui ont engagé Garret, il ne sait don
 
 \column
 
-{{descriptive,margin-top:-10px,position:absolute,display:flex,width:360px
+{{descriptive,margin-top:-10px,position:absolute,display:flex,width:320px
 " C'est beaucoup demander, mais pourrais-je vous persuader d'aller là-haut et de retrouver Garret et ses compagnons ? Je n'ai pas d'argent, mais le propriétaire des bras de Luskan est un de mes amis. Je pourrais vous obtenir des chambres gratuites à l'auberge. Je suis aussi un graveur d'os et je peux vous donner certaines de mes œuvres d'art. Ça ne vaut pas grand-chose, je l'avoue."
 }}
-{{margin-top:120px}}
+{{margin-top:135px}}
 Keegan a une grande confiance dans les capacités de survie de Garret, c'est pourquoi il croit sincèrement que Garret est peut-être encore en vie. Si les personnages acceptent cette quête, Keegan leur suggère de visiter les Expéditions Gelointain à Caer-Konig (voir ["Expéditions Gelointain"](#frozenfar)), qui est probablement le dernier endroit où quelqu'un aurait vu Garret avant qu'il n'escalade la montagne. Si les personnages veulent emmener Garçon avec eux, Keegan ne protestera pas.
 
 ### Voyage vers le Cairn de Kelvin
@@ -6386,9 +6386,9 @@ Des gnolls décharnés et frissonnants se blottissent autour d'un feu qui crépi
 La nuit, cette grotte contient douze gnolls. Ce nombre tombe à six pendant la journée, car la moitié des gnolls quittent l'abîme pour chercher de la nourriture. Les gnolls se serrent les uns contre les autres pour se réchauffer. Ils sont tous affamés et émaciés.
 
 ![Targos](https://5e.tools/img/adventure/IDRotF/105-map-2.4-cackling-chasm.jpg) {width:100%,margin-left:%,margin-top:-0%}
-{{sidenote,top:500px Map 2.4 : Abîme Caquetant}}
+{{sidenote,top:480px Map 2.4 : Abîme Caquetant}}
 {{artist stacey allan and Will Doyle}}
-:
+::
 #### Z7. Magasin
 
 {{descriptive
@@ -7150,7 +7150,7 @@ Wyrm
 \column
 
 ![Targos](https://5e.tools/img/adventure/IDRotF/117-map-2.8-jarlmoot.jpg) {width:110%,margin-left:-5%,margin-top:%}
-{{sidenote,top:550px Map 2.8 :  Jarlmoot}}
+{{sidenote,top:520px Map 2.8 :  Jarlmoot}}
 {{artist Stacy Allan and Will doyle}}
 ::
 
@@ -9474,7 +9474,7 @@ Passez en revue le bloc de statistiques et la description du Dragon de Chardalyn
 Dès qu'il quitte la forteresse, le dragon de Chardalyn commence à mettre en œuvre le plan de Xardorok, qui consiste à raser les Dix-Cités les unes après les autres. Les personnages peuvent intervenir en réussissant à prédire où le dragon frappera la prochaine fois et en l'affrontant. La section "Retour aux Dix-Cités" permet aux personnages de trouver un allié indispensable et de rentrer rapidement aux Dix-Cités en traîneau à chiens. La section "le Fléau Dragon" décrit le temps qu'il faut au dragon pour atteindre chaque ville, les défenses que chaque village doit mettre en place contre lui, et l'issue probable si aucune aide des personnages n'est apportée. La section " Affrontement ! " vous aide à organiser une rencontre entre les personnages et le dragon. 
 
 Indépendamment de ce qui arrive aux Dix-Cités, la section "La Quête de Vellynne" prépare les trois derniers chapitres de l'aventure.
-
+\column
 ### Progression des personnages
 
 Les personnages gagnent un niveau s'ils contribuent à la destruction du dragon. S'ils n'ont pas atteint le 7e niveau à la fin de ce chapitre, attirez-les vers certains des lieux du chapitre 2 afin qu'ils puissent gagner suffisamment de niveaux avant de poursuivre avec les chapitres suivants.
@@ -10346,6 +10346,7 @@ Le géant du givre enterré dans le bloc de glace est la reine Vassavicken. Les 
 {{descriptive
 Appuyée contre le mur du fond de cette pièce se trouve une arme redoutable : une Hache à deux mains géante, dont la tête d'acier repose sur le sol glacé.
 }}
+:
 ***Trésor.*** La Hache à deux mains est la hache berserker de Vassavicken, dont la taille s'adapte à la personne qui s'y accorde. Lorsqu'elle est trouvée, elle mesure 5 mètres de haut et pèse 300 kg. Si un personnage s'accorde avec la hache, elle rétrécit à une taille adaptée à son nouveau porteur.
 
 #### G15. Épreuves de la Vierge de Glace
@@ -10364,7 +10365,7 @@ Le mot gravé au-dessus de la porte dépend de la zone qui se trouve de l'autre 
 **Porte de la zone G18.**:: Le mot "Isolement" est gravé en commun sur le linteau au-dessus de cette porte.
 
 **Porte de la zone G19.**:: Le linteau au-dessus de cette porte s'est partiellement brisé, détruisant une partie de l'inscription qui y était gravée. Ce qui reste indique "--ervation" en commun.
-
+:
 {{frosttest,wide,margin-top:20px
 ## Tableau des épreuves de la Vierge de Glace 
 {{title
@@ -10810,7 +10811,7 @@ Le tunnel qui mène à la zone H5 comporte une chute glissante de 6 mètres de h
 
 #### H3. Crânefeu
 Ces deux grottes et passages de 6 mètres de haut sont occupés par quatre Crânefeu - deux dans les grottes à l'ouest de la zone H2 et deux dans les grottes au nord-est de la zone H2. Ils attaquent les intrus à vue. Les grottes sont vides du reste.
-
+\column
 #### H4.  Vampirien Kobold 
 Les personnages venant de la zone H2 doivent descendre un escalier de glace naturel pour atteindre cette grotte.
 
@@ -11795,7 +11796,7 @@ Huit vitraux surplombent un auditorium en ruine. Des bancs scintillants de givre
 {{footnote Chapitre 7 | La Chute d'Ythryn}}
 \page
 ![](https://5e.tools/img/adventure/IDRotF/181-07-002.png) {position:absolute,width:100%,left:0%,top:-30px}
-{{margin-top:420px,wide}}
+{{margin-top:410px,wide}}
 {{sidenote,top:420px,left:50px,color:white
 Tatie Piqûre, Tatie Saccage et Tatie Rapine  
 sont ouvertes aux affaires.
@@ -13594,7 +13595,7 @@ La troisième forme d'Auril, appelée le Ventre de l'Hiver ou la Reine des Larme
 ![](https://i.imgur.com/d4Ja2B0.png) {position:absolute,width:31%,top:-20px,left:40%,z-index:0,mix-blend-mode:darken}
 ![](https://i.imgur.com/CvYLWT7.png) {position:absolute,width:31%,top:-20px,left:40%,z-index:1}
 {{artist Richard Whitters}}
-{{sidenote,top:220px,left:270px
+{{sidenote,top:210px,left:270px
 Méphite de Glace
 }}
 {{watercolor6,top:20px,left:30px,width:600px,background-color:lightblue,opacity:90%}}
