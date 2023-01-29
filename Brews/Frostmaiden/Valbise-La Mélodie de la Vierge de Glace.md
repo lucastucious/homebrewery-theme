@@ -21,7 +21,7 @@ TOC :
 --->
 
 
-<!--
+<!---
 
 {{hc-wrapper
 {{hardcover
@@ -66,7 +66,7 @@ ___
 {{artist [April Prime](https://www.artstation.com/april-prime) }}
 
 
-[v1.2](https://homebrewery.naturalcrit.com/share/m3ThO0MdueDL#p336) {text-align:center,display:flex,margin:auto,align-content:center,justify-content:center,font-family:NodestoCaps,font-size:3em}
+[v1.3](https://homebrewery.naturalcrit.com/share/m3ThO0MdueDL#p336) {text-align:center,display:flex,margin:auto,align-content:center,justify-content:center,font-family:NodestoCaps,font-size:3em}
 
 
 
@@ -156,7 +156,7 @@ ___
 
 ![](https://sm.ign.com/ign_me/gallery/d/dd-rime-of/dd-rime-of-the-frostmaiden-art-accessories_zj89.jpg) {width:250px,display:block,margin-left:auto,margin-right:auto}
 
-![](https://cdn.shopify.com/s/files/1/0258/3137/4897/products/icewind-dale-alt-cover-small_1200x1200.png?v=1600183152) {height:200px,display:block,margin-left:auto,margin-right:auto}
+![](https://www.enworld.org/attachments/icewind-dale-hydro47-front-and-back-covers-jpg.126482/) {height:200px,display:block,margin-left:auto,margin-right:auto}
 
 
 }}
@@ -184,7 +184,7 @@ the Coast.
 
 
 
-{{toc,wide,column-count:3,height:1060px
+{{toc,wide,column-count:3
 
 # Sommaire
 
@@ -197,82 +197,30 @@ the Coast.
   - [{{ Survie en milieu sauvage}}{{ 12}}](#p12)
   - [{{ Guide des prononciations}}{{ 15}}](#p15)
   - #### [{{ Création de personnage}}{{ 15}}](#p15)
-
-
-
-
 - ### [{{ Chapitre 1 : Dix-Cités}}{{ 19}}](#p19)
   - #### [{{ Comment aborder ce chapitre}}{{ 19}}](#p19)
-
-
-
   - #### [{{ Présentation de Dix-Cités}}{{ 21}}](#p21)
-
-
-
-
-
-
   - #### [{{ Ouverture à froid}}{{ 24}}](#p24)
-
   - #### [{{ Quête de départ : Le tueur au cœur de glace}}{{ 24}}](#p24)
-
-
   - #### [{{ Quête de départ : Les esprits de la nature}}{{ 27}}](#p27)
   - #### [{{ Bremen}}{{ 29}}](#p29)
   - - #### [{{ Monstre du Lac}}{{ 30}}](#p30)
   - #### [{{ Bryn Shander}}{{ 34}}](#p34)
-
-
-
   - - #### [{{ Chopes Moussantes}}{{ 36}}](#p36)
-
-
-
   - #### [{{ Caer-Dineval}}{{ 39}}](#p39)
-
-
-
   - - #### [{{ Épées noires}}{{ 40}}](#p40)
-
-
-
-
-
   - #### [{{ Caer-Konig}}{{ 49}}](#p49)
-
-
-
   - - #### [{{ Invisibles }}{{ 50}}](#p50)
-
-
-
-
-
-
   - #### [{{ Brèche de Dougan}}{{ 56}}](#p56)
 
 
 
   - - #### [{{ Coincé}}{{ 56}}](#p56)
-
-
-
-
-
-
-
   - #### [{{ Havre-du-Levant}}{{ 62}}](#p62)
 
 
 
   - - #### [{{ Peines et Problèmes}}{{ 65}}](#p65)
-
-
-
-
-
-
   - - #### [{{ Affaires à l'Hôtel de Ville}}{{ 70}}](#p70)
 
 
@@ -309,11 +257,6 @@ the Coast.
 
 
   - - #### [{{ Une Belle Mine}}{{ 97}}](#p97)
-
-
-
-
-
 - ### [{{ Chapitre 2 : Valbise}}{{ 104}}](#p104)
   - #### [{{ Exploiter ce chapitre}}{{ 104}}](#p104)
 
@@ -631,10 +574,10 @@ Salvatore, R.A., Jeffrey Ludwig, James Wyatt, and Matthew Sernett.:: *Legacy of 
 slade with Jim Butler.:: *Netheril: Empire of Magic*. 1996.
 
 }}
---!>
+
 
 }}
-
+-->
 
 
 
@@ -720,22 +663,14 @@ Les sorciers de Nétheril d'autrefois possédaient une magie capable de remodele
 
 
 
-{{note
-##### Chardalyn
 
-Plus de cent ans avant cette aventure, un sorcier nommé Akar Kessel a trouvé un artefact imprégné de magie démoniaque appelé Crenshinibon (mieux connu sous le nom d'Éclat de Cristal) et l'a utilisé pour ériger une grande tour noire au Valbise. Lorsque cette tour fut détruite, la magie utilisée pour la créer fusionna avec la glace environnante pour former ce qui est maintenant connu sous le nom de chardalyn : une substance cristalline non magique aussi solide que le métal, mais beaucoup plus facile à travailler que l'acier. Au cours des années qui ont suivi, d'autres gisements de chardalyn ont été découverts à travers Valbise. Comme l'éclat de cristal, ces dépôts ont tendance à être imprégnés de magie démoniaque. Un contact prolongé avec du chardalyn imprégné de magie démoniaque peut déformer l'esprit d'une créature et provoquer une folie qui disparaît généralement lorsque le contact est rompu.
 
-Le chardalyn est froid au toucher et accepte facilement les enchantements magiques, ce qui en fait une substance idéale pour les baguettes, les bâtons et autres objets magiques. Un objet en chardalyn imprégné de la magie des Plans Supérieurs est considéré comme un objet consacré, tandis qu'un objet en chardalyn imprégné de la magie des Plans Inférieurs est considéré comme un objet profané ; les deux peuvent être identifiés comme tels à l'aide d'un sort de détection du mal et du bien ou d'une magie similaire.
-
-Bien avant qu'Akar Kessel ne laisse son empreinte sur Valbise, les sorciers Nétherisses ont créé leur propre chardalyn. De nombreux objets fabriqués à partir de ce cristal de couleur sombre peuvent être trouvés dans les ruines des anciennes enclaves Nétherisses.
-}}
-\column
 La ville d'Ythryn était l'une de ces merveilles. Elle s'est effondrée il y a longtemps mais existe toujours, enfouie sous le Glacier Regh, à l'est du Valbise.
 
 Cette nécropole gelée contient les restes de certains des plus puissants lanceurs de sorts de l'histoire des royaumes, dont une demiliche Nétherisse. Elle contient également un mythallar (décrit en annexe D), un objet magique capable de soulever une ville entière dans les airs et de modifier le temps dans un rayon de 80 km. Les personnages peuvent utiliser cet objet pour contrer le sort d'Auril et libérer Valbise de sa Mélodie Éternelle.
 
 Quatre membres de la Confrérie des Arcanes (une cabale de sorciers qui se comportent comme des pistoleros du Far West) sont venus au Valbise à la recherche de l'enclave perdue de Néthéril, dans l'espoir de découvrir ses secrets. Les personnages peuvent choisir d'aider ou de s'opposer à ces sorciers, mais une chose est sûre : la Confrérie des Arcanes ne laissera pas un groupe d'aventuriers se mettre entre eux et la magie qui attend d'être découverte dans la ruine sépulcrale condamnée.
-
+\column
 #### La Mélodie Éternelle d'Auril
 
 La décision d'Auril de vivre parmi les mortels est expliquée dans l'annexe C. Ce que les personnages découvrent au cours de l'aventure, c'est qu'elle est malheureuse et a envie de s'isoler. Sa quête nocturne pour tenir le soleil à distance découle d'un besoin de préserver la beauté des choses en les gelant. Il est impossible de raisonner un être aussi dépourvu de compassion qu'Auril, mais dans son état de faiblesse, il est possible de la vaincre ou de la forcer à prendre conscience de sa cruelle indifférence envers la vie.
@@ -751,15 +686,22 @@ Dans le chapitre 1, les aventuriers entreprennent des quêtes qui les mènent d'
 
 Dans le chapitre 2, des rumeurs incitent les aventuriers à quitter le froid confort des Dix-Cités et à explorer les confins du Valbise, où règnent les dangers.
 
+{{note
+##### Chardalyn
 
+Plus de cent ans avant cette aventure, un sorcier nommé Akar Kessel a trouvé un artefact imprégné de magie démoniaque appelé Crenshinibon (mieux connu sous le nom d'Éclat de Cristal) et l'a utilisé pour ériger une grande tour noire au Valbise. Lorsque cette tour fut détruite, la magie utilisée pour la créer fusionna avec la glace environnante pour former ce qui est maintenant connu sous le nom de chardalyn : une substance cristalline non magique aussi solide que le métal, mais beaucoup plus facile à travailler que l'acier. Au cours des années qui ont suivi, d'autres gisements de chardalyn ont été découverts à travers Valbise. Comme l'éclat de cristal, ces dépôts ont tendance à être imprégnés de magie démoniaque. Un contact prolongé avec du chardalyn imprégné de magie démoniaque peut déformer l'esprit d'une créature et provoquer une folie qui disparaît généralement lorsque le contact est rompu.
+
+Le chardalyn est froid au toucher et accepte facilement les enchantements magiques, ce qui en fait une substance idéale pour les baguettes, les bâtons et autres objets magiques. Un objet en chardalyn imprégné de la magie des Plans Supérieurs est considéré comme un objet consacré, tandis qu'un objet en chardalyn imprégné de la magie des Plans Inférieurs est considéré comme un objet profané ; les deux peuvent être identifiés comme tels à l'aide d'un sort de détection du mal et du bien ou d'une magie similaire.
+
+Bien avant qu'Akar Kessel ne laisse son empreinte sur Valbise, les sorciers Nétherisses ont créé leur propre chardalyn. De nombreux objets fabriqués à partir de ce cristal de couleur sombre peuvent être trouvés dans les ruines des anciennes enclaves Nétherisses.
+}}
 
 
 {{pageNumber,auto}}
 {{footnote Bienvenue au Grand Nord}}
 \page
-:
 ![](https://5e.tools/img/adventure/IDRotF/001-00-001.png) {position:absolute,top:0,left:0,width:100%}
-{{margin-top:470px,wide}}
+{{margin-top:68%,wide}}
 ## Organiser l'aventure
 
 Pour mener à bien cette aventure, vous aurez besoin des livres de règles de base de la cinquième édition (Manuel du joueur, Guide du maître du donjon et Manuel des monstres).
@@ -767,11 +709,12 @@ Pour mener à bien cette aventure, vous aurez besoin des livres de règles de ba
 Le texte qui apparaît dans une case comme celle-ci est destiné à être lu à haute voix ou paraphrasé pour les joueurs lorsque leurs personnages arrivent pour la première fois à un endroit ou dans une circonstance spécifique, comme décrit dans le texte.
 }}
 
-{{img-desc,right:-450px,top:420px
+{{img-desc,right:20mm,top:420px,text-align:end
 
 Des fragments de chardalyn - les restes d'un artefact  
 maléfique - sont éparpillés à travers Valbise.
 }}
+
 
 Le manuel des monstres contient des blocs de statistiques pour la plupart des créatures rencontrées dans cette aventure. Les autres se trouvent en annexe C.
 
@@ -851,7 +794,7 @@ Avant de lancer l'aventure, ayez une conversation franche avec vos joueurs sur l
 
 }}
 
-![](https://i.imgur.com/8AoIQ2i.png) {position:absolute,bottom:0,left:0,width:120%}
+![](https://i.imgur.com/8AoIQ2i.png) {position:absolute,bottom:0,left:0,width:115%}
 
 
 \page
@@ -866,7 +809,7 @@ Avant de lancer l'aventure, ayez une conversation franche avec vos joueurs sur l
   margin-top:-10px !important;
   margin-bottom:-8px;
 	text-align:center;
-	width:320px !important;
+	width:390px !important;
 }
 
 </style>
@@ -934,7 +877,7 @@ Après avoir survécu aux Cavernes de la Faim, les personnages pénètrent dans 
 
 }}
 
-![homebrew mug](https://i.imgur.com/Z5Ybkm8.png) {position:absolute,top:0px,left:-20px,width:280px}
+![homebrew mug](https://i.imgur.com/Z5Ybkm8.png) {position:absolute,top:25px,left:-40px,width:280px}
 ![homebrew mug](https://i.imgur.com/N23OZli.png) {position:absolute,bottom:120px,right:-40px,width:280px,z-index:5}
 
 
@@ -948,8 +891,7 @@ Après avoir survécu aux Cavernes de la Faim, les personnages pénètrent dans 
 ![homebrew mug](https://5e.tools/img/adventure/IDRotF/004-00-004.yeti-splash.png) {position:absolute,top:0px,right:0px,width:100%}
 
 {{artist [Irina Nordsol](https://www.artstation.com/nordsol) }}
-{{wide,margin-top:480px}}
-:
+{{wide,margin-top:67%}}
 
 ### Survie en milieu sauvage
 Les règles suivantes entrent en jeu lorsque les personnages explorent les Dix-Cités et s'embarquent pour des aventures dans les contrées glacées, venteuses et glaciales du Valbise.
@@ -1030,13 +972,13 @@ La traversée de L'échine du monde ou des pentes du Cairn de Kelvin est particu
 {{footnote Bienvenue au Grand Nord}}
 
 \page
+{{wide
 ##### Lexique 
-
+}}
 Certains termes n'ont pas de traductions officielles par WotC, aussi certains choix ont du etre fait. Ici vous trouverez un lexique des termes qui ont été traduit, parfois en s'appuyant sur des traductions de précendentes éditions, parfois en s'appuyant simplement sur les descriptions fournies.
 
 Gardez en tete qui si une traduction officielle arrive un jour, comme des monstres apparaissaiant dans une prochaines campagne ou supplément, ce lexique sera mis à jour.
-::::::::::::::::
-
+::::
 {{wide,column-count:2
 
 
@@ -1141,31 +1083,23 @@ Gardez en tete qui si une traduction officielle arrive un jour, comme des monstr
 {{footnote Bienvenue au Grand Nord}}
 \page
 
- Si le test échoue par 5 ou plus, le groupe est pris dans une avalanche alors qu'il fait marche arrière. L'avalanche commence 2d6 × 30 mètres au-dessus des personnages (voir "Avalanches").
-
-La table Voyage en montagne indique la vitesse à laquelle les personnages peuvent se déplacer dans les montagnes à pied ou en traîneau à chiens. Même dans le meilleur des cas, un voyage en montagne prend deux fois plus de temps qu'un voyage de même distance dans la toundra.
-
-##### Voyage en montagne
+ ##### Voyage en montagne
 Méthode de déplacement| Distance par heure
 |-|-|
 En traîneau à chiens| 0.8km
 A pied, avec des raquettes à neige| 0.4km
 A pied, sans raquettes |200 m
 
-### Guide des prononciations
+Si le test échoue par 5 ou plus, le groupe est pris dans une avalanche alors qu'il fait marche arrière. L'avalanche commence 2d6 × 30 mètres au-dessus des personnages (voir "Avalanches").
 
-Le tableau des prononciations de la page précedente indique comment prononcer de nombreux noms non-anglais qui apparaissent dans cette aventure.
-
-
+La table Voyage en montagne indique la vitesse à laquelle les personnages peuvent se déplacer dans les montagnes à pied ou en traîneau à chiens. Même dans le meilleur des cas, un voyage en montagne prend deux fois plus de temps qu'un voyage de même distance dans la toundra.
+\column
 ## Création de personnage
 
 Avant de commencer l'aventure, pensez à passer votre première session de jeu à aider vos joueurs à créer des personnages. Les personnages sont-ils nés et ont-ils grandi au Valbise, ou viennent-ils de terres lointaines ? Depuis combien de temps se connaissent-ils ? Quels secrets cachent-ils ? Les sections suivantes peuvent vous aider à répondre à ces questions.
 
-### Origine des personnages
 
-Le Manuel du joueur contient des origines de personnages qui conviennent bien à cette aventure. Si vos joueurs ont du mal à étoffer le background de leurs personnages avec des détails sur Valbise, partagez avec eux les suggestions de la table Accroches de personnage liées aux backgrounds.
-
-{{wide,margin-top:10px
+{{wide,margin-top:3%
 
 | Background | Accroche de personnage |
 |-------|-----------------|
@@ -1186,10 +1120,18 @@ Le Manuel du joueur contient des origines de personnages qui conviennent bien à
 
 }}
 
+
+
+
 {{pageNumber,auto}}
 {{footnote Bienvenue au Grand Nord}}
 \page
 
+
+
+### Origine des personnages
+
+Le Manuel du joueur contient des origines de personnages qui conviennent bien à cette aventure. Si vos joueurs ont du mal à étoffer le background de leurs personnages avec des détails sur Valbise, partagez avec eux les suggestions de la table Accroches de personnage liées aux backgrounds.
 
 ### Personnage Goliath
 
@@ -1212,6 +1154,17 @@ Déterminez le secret de chaque personnage en demandant au joueur de ce personna
 Si vous organisez l'aventure pour un groupe qui aime l'idée de personnages qui ont des secrets, vous pouvez permettre à chaque joueur de tirer deux fois au lieu d'une, créant ainsi un groupe avec un nombre inquiétant de squelettes dans leurs placards. Si vous voulez permettre à plusieurs personnages d'avoir le même secret, remplacez chaque carte de la pioche avant que le joueur suivant ne tire.
 
 Certains joueurs garderont les secrets de leurs personnages pendant toute la campagne, sans jamais les partager. D'autres joueurs attendront l'occasion idéale pour révéler les secrets de leurs personnages. Ne soyez pas surpris si un joueur décide de révéler le secret de son personnage tout de suite.
+\column
+##### Races des Royaumes oubliés
+
+Race| Version des royaumes
+|-|-|
+Nain, colline| Nain, or
+Nain, montagne| Nain d'Écu
+Elfe, haut| Elfe, lune ou soleil
+Elfe des bois| Elfe sauvage ou des bois
+Halfelin, robuste| Halfelin Cœur-Vaillant
+
 
 #### Utilisation des secrets
 
@@ -1233,7 +1186,6 @@ Les suggestions suivantes sont proposées pour vous aider à tirer le meilleur p
 
 **Ancienne conquête.** Ce secret est révélé lorsque le joueur choisit l'amant secret de son personnage. Comme c'est au joueur de choisir ce PNJ, l'amant peut changer à chaque fois que vous jouez cette aventure avec un groupe de personnages différent. Ce secret peut également être utilisé pour transformer un PNJ ennemi en un allié potentiel, à votre discrétion.
 
-**Pierre orque.** L'esprit invoqué par la pierre appartient à un féroce chef de guerre orc nommé Vokarr l'Oculaire, qui a été tué par des nains. Cet esprit ressemble à un orc vivant et respirant. Il parle le commun et l'orque.
 
 **L’homme qui
 murmurait à l’oreille
@@ -1241,15 +1193,15 @@ des Ours-hibou** : Si le personnage utilise ce secret pour rendre un ours-hibou 
 
 **Pirate Cannibal.** Le personnage avec ce secret connaît l'emplacement de la duchesse noire dans le chapitre 2 et peut y conduire le groupe. Le personnage connaît également la disposition du navire.
 
-**Héritier Regh** De plus amples informations sur la Reine Bjornhild Solvigsdottir et la Tribu du Tigre se trouvent dans l'annexe C. Bjornhild reconnaîtrait difficilement sa progéniture rejetée, mais tout personnage qui se présente comme tel sera attaqué immédiatement. Bjornhild n'a aucun amour pour son héritier potentiel, ne voyant en lui qu'un rival et un sacrifice pour Auril.
+
 
 
 {{pageNumber,auto}}
 {{footnote Bienvenue au Grand Nord}}
 
 \page
-![homebrew mug](https://5e.tools/img/adventure/IDRotF/005-00-005.red-slaad-surprise.png) {position:absolute,top:-120px,left:0px,width:100%}
-{{img-desc,top:300px,left:70px,
+![homebrew mug](https://5e.tools/img/adventure/IDRotF/005-00-005.red-slaad-surprise.png) {position:absolute,top:-170px,left:0px,width:100%}
+{{img-desc,top:300px,left:2.7cm,
 Garder un secret trop longtemps  
 peut être dangereux pour la santé.
 }}
@@ -1257,21 +1209,26 @@ peut être dangereux pour la santé.
 Mark Behm
 }}
 
-{{wide,margin-top:330px}}
-::
-##### Races des Royaumes oubliés
+{{wide,margin-top:41%}}
+:
 
-Race| Version des royaumes
-|-|-|
-Nain, colline| Nain, or
-Nain, montagne| Nain d'Écu
-Elfe, haut| Elfe, lune ou soleil
-Elfe des bois| Elfe sauvage ou des bois
-Halfelin, robuste| Halfelin Cœur-Vaillant
+**Pierre orque.** L'esprit invoqué par la pierre appartient à un féroce chef de guerre orc nommé Vokarr l'Oculaire, qui a été tué par des nains. Cet esprit ressemble à un orc vivant et respirant. Il parle le commun et l'orque.
 
+
+
+**Héritier Regh** De plus amples informations sur la Reine Bjornhild Solvigsdottir et la Tribu du Tigre se trouvent dans l'annexe C. Bjornhild reconnaîtrait difficilement sa progéniture rejetée, mais tout personnage qui se présente comme tel sera attaqué immédiatement. Bjornhild n'a aucun amour pour son héritier potentiel, ne voyant en lui qu'un rival et un sacrifice pour Auril.
+
+
+**Réincarnation.** Permettez au joueur d'étoffer les détails de la vie du personnage avant sa réincarnation, et essayez d'imaginer comment cette histoire pourrait être liée à une partie de l'aventure. Certaines des races listées dans la table du sort de réincarnation portent des noms différents dans les royaumes, comme indiqué dans la table des races des royaumes oubliés. Si le joueur veut déterminer de façon aléatoire la cause de la mort du personnage, laissez-le faire un jet sur la table Comment je suis mort.
+
+
+**Chasseur d'anneau.** Vous pouvez décider que l'anneau perdu recherché par ce personnage est logé dans L'Vieux Mordeur (voir ["L'Vieux Mordeur"](#ol-bitey)). Sinon, le personnage peut essayer de le pêcher dans Maer Dualdon (voir "Pêcher la truite à tête de nœud"). Chaque fois qu'un membre du groupe ouvre une truite tirée de ce lac, il y a 1 % de chances que la chevalière soit logée dans le poisson.
+
+**Auteur en fuite** Les adorateurs d'Asmodée envoient trois démons barbus (dont les traits diaboliques sont masqués par des vêtements couvrant le froid) pour tuer le personnage qui détient ce secret. Si les personnages se rendent à Caer-Dineval, les Chevaliers de l'Épée Noire (voir "Chevaliers de l'Épée Noire"), en tant que disciples de Levistus plutôt que d'Asmodeus, peuvent avertir les personnages qu'une attaque contre l'un d'entre eux est imminente et même leur offrir l'asile dans le donjon de Caer-Dineval.
+{{
 ##### Comment je suis mort
-d20| Comment je suis mort
-|-|-|
+d20    | Comment je suis mort
+|:-:|:-:|
 1-3| J'ai été tué dans une avalanche.
 4-5| J'ai été tué par des gobelins dans les montagnes après avoir tendu une embuscade à ma caravane.
 6-8| J'ai été déchiqueté à mort par un yéti.
@@ -1280,15 +1237,7 @@ d20| Comment je suis mort
 14-16| Une loterie a été organisée récemment à Targos pour savoir qui serait sacrifié à la Vierge de Glace. J'étais le malchanceux. Je suis mort de froid après avoir été déshabillé et jeté dans une tempête de neige.
 17-18| J'ai été tué à Dix-Cités par un sosie, un doppelganger, je présume.
 19-20| J'ai été tué par un élan blanc en dehors de Dix-Cités.
-
-
-**Réincarnation.** Permettez au joueur d'étoffer les détails de la vie du personnage avant sa réincarnation, et essayez d'imaginer comment cette histoire pourrait être liée à une partie de l'aventure. Certaines des races listées dans la table du sort de réincarnation portent des noms différents dans les royaumes, comme indiqué dans la table des races des royaumes oubliés. Si le joueur veut déterminer de façon aléatoire la cause de la mort du personnage, laissez-le faire un jet sur la table Comment je suis mort.
-\column
-:
-**Chasseur d'anneau.** Vous pouvez décider que l'anneau perdu recherché par ce personnage est logé dans L'Vieux Mordeur (voir ["L'Vieux Mordeur"](#ol-bitey)). Sinon, le personnage peut essayer de le pêcher dans Maer Dualdon (voir "Pêcher la truite à tête de nœud"). Chaque fois qu'un membre du groupe ouvre une truite tirée de ce lac, il y a 1 % de chances que la chevalière soit logée dans le poisson.
-
-**Auteur en fuite** Les adorateurs d'Asmodée envoient trois démons barbus (dont les traits diaboliques sont masqués par des vêtements couvrant le froid) pour tuer le personnage qui détient ce secret. Si les personnages se rendent à Caer-Dineval, les Chevaliers de l'Épée Noire (voir "Chevaliers de l'Épée Noire"), en tant que disciples de Levistus plutôt que d'Asmodeus, peuvent avertir les personnages qu'une attaque contre l'un d'entre eux est imminente et même leur offrir l'asile dans le donjon de Caer-Dineval.
-
+}}
 **Hôte de slaad.** Le moment exact de la naissance du têtard slaadi est délibérément laissé vague, bien qu'il y ait quelques endroits dans l'aventure où le texte suggère que l'émergence pourrait se produire à ce moment précis. Voir l'entrée slaadi dans le Manuel des Monstres pour plus d'informations sur les œufs de slaad rouge et les têtards de slaad. Toute magie permettant de guérir une maladie peut mettre fin à cette menace, à condition que le remède soit administré avant que le têtard slaad n'éclate de la poitrine du personnage.
 
 **Espion.** Les harpistes affectés au Valbise ne peuvent pas compter sur un grand soutien de la part de l'organisation, ils doivent donc se débrouiller seuls. Beldora, le contact Harper du personnage à Bryn Shander, est un bon espion humain chaotique qui peut aider à diriger l'aventure en partageant des rumeurs et en fournissant des conseils utiles.
@@ -1301,7 +1250,7 @@ d20| Comment je suis mort
 
 ![](https://5e.tools/img/adventure/IDRotF/006-01-000.chapter-splash.jpg)
 
-{{sidenote,bottom:60px,left:70px
+{{sidenote,bottom:65px,left:70px
 Le ferry d'Havre-du-Levant est pris dans les glaces.  
 tout comme le reste de Dix-Cités...
 }}
@@ -1322,7 +1271,7 @@ Comme le célèbre drow Drizzt Do'Urden, de nombreuses personnes qui viennent à
 Valbise a peu d'arbres, le bois est donc coupé sur les pentes de l'épine dorsale du monde ou dans les profondeurs de la forêt de Bois-Solitaire. La pierre des collines et des vallées entourant le Cairn de Kelvin complète le bois comme matériau de construction à Dix-Cités. Les maisons ont des toits à forte pente pour empêcher la neige de s'y accumuler.
 
 Les habitants des Dix-Cités portent plusieurs couches de vêtements en laine, souvent complétées par des manteaux en fourrure. Sous ces vêtements lourds et ces manteaux, les habitants se ressemblent beaucoup. À l'extérieur, il est difficile de distinguer les habitants des Dix-Cités, et facile pour les monstres malins de se cacher parmi eux.
-
+\column
 ## Comment aborder ce chapitre
 
 Il est important de partir du bon pied. Si vous suivez ces étapes, tout devrait bien se passer :
@@ -1336,7 +1285,7 @@ Il est important de partir du bon pied. Si vous suivez ces étapes, tout devrait
 
 
 
-{{wide,margin-top:20px,#starting-town
+{{wide,margin-top:10px,#starting-town
 ##### Ville de départ
 d10| Ville| Quête de départ de la ville
 |:-:|-|-|
@@ -1362,22 +1311,8 @@ Choisissez l'une des dix villes comme point de départ de l'aventure. Peu import
 
 
 
-{{#ten-town-rumors
-##### Rumeurs des Dix-Cités
-d10| Rumeur
-|-|-|
-1 |À Bremen, les pêcheurs sont terrorisés par un monstre qui vit à Maer Dualdon. Il est étrange qu'aucune des autres villes situées sur ce lac n'ait été harcelée par ce monstre.
-2| A Bryn Shander, des nains sont prêts à payer cher quiconque peut retrouver une cargaison perdue pour eux.
-3|À Caer-Dineval, personne n'a vu l'orateur de la ville depuis longtemps. Les habitants disent que l'orateur Crannoc est tombé malade, mais de sinistres personnages ont été vus entrant et sortant du château à des heures indues.
-4 | A Caer-Konig, les établissements locaux sont assaillis par des vandales et des voleurs qui rôdent sans être vus. L'orateur de la ville, un drakéïde nommé Trovus, aurait bien besoin d'aide pour attraper ces intrus.
-5 |Dans la Brèche de Dougan, les gens vivent dans la peur des loups arctiques qui hantent la périphérie de la ville. Ils sont aussi gros que des chevaux, et plus intelligents que les loups normaux.
-6| A Havre-du-Levant, on a capturé un sorcier maléfique qui a tué des aventuriers. La milice de la ville prévoit de brûler le sorcier sur le bûcher. J'ai entendu dire que le capitaine de la garde cherche des aventuriers pour l'aider dans une autre tâche qui pourrait ou non être liée.
-7| A Bon Hydromel, l'orateur de la ville a récemment été tué par un géant de neuf pieds de haut. La rumeur veut que le géant ait volé une cargaison d'hydromel, sans lequel une poignée de tavernes de Dix-Cités pourraient se retrouver à sec !
-8| A Bois Isolé, méfiez-vous du redoutable élan blanc ! Il attaque les bûcherons et les trappeurs à vue, et les meilleurs chasseurs de la ville ne semblent pas pouvoir attraper ou tuer la bête. Ils auraient bien besoin d'aide.
-9| A Targos, une bande d'aventuriers prépare une expédition sur le flanc du Cairn de Kelvin, dans l'espoir de trouver Oyaminartok, un goliath qui peut se transformer en ours polaire. Si vous vous dépêchez, vous pourrez peut-être vous joindre à l'expédition !
-10| À Termalaine, l'orateur Masthew a fermé l'une des mines de pierres précieuses lucratives de la ville. Apparemment, une bande de kobolds s'est glissée dans la mine et a mis en danger certains mineurs. Quiconque nettoie la mine peut s'attendre à être bien indemnisé.
-}}
-\column
+
+
 ### Quêtes de Dix-Cités
 
 Ce chapitre présente deux quêtes de départ ("Tueur au cœur froid" et "Esprits de la nature") que les personnages peuvent obtenir au début de l'aventure, quelle que soit la ville qui leur sert de point de départ. Chaque ville a également sa propre quête, comme indiqué dans le tableau des villes de départ. Une fois que vous avez choisi une quête de départ, les autres quêtes de départ ne sont plus utilisées. Le "Tueur au cœur froid" offre un potentiel de combat, tandis que "Esprits de la nature" est une quête amusante sans danger.
@@ -1403,7 +1338,21 @@ Une fois que les personnages ont atteint le 4ème niveau, ils ne gagnent plus de
 
 Au fur et à mesure que les personnages accomplissent les quêtes de ce chapitre, leur réputation dans Dix-Cités commence à s'étendre. Pour le meilleur ou pour le pire, ils deviennent connus des habitants de Dix-Cités - certains les considèrent comme des sauveurs, tandis que d'autres craignent leur audace, envient leur pouvoir ou convoitent les richesses qu'ils ont amassées. La célébrité au Valbise est toujours une épée à double tranchant.
 
-
+{{#ten-town-rumors
+##### Rumeurs des Dix-Cités
+d10| Rumeur
+|-|-|
+1 |À Bremen, les pêcheurs sont terrorisés par un monstre qui vit à Maer Dualdon. Il est étrange qu'aucune des autres villes situées sur ce lac n'ait été harcelée par ce monstre.
+2| A Bryn Shander, des nains sont prêts à payer cher quiconque peut retrouver une cargaison perdue pour eux.
+3|À Caer-Dineval, personne n'a vu l'orateur de la ville depuis longtemps. Les habitants disent que l'orateur Crannoc est tombé malade, mais de sinistres personnages ont été vus entrant et sortant du château à des heures indues.
+4 | A Caer-Konig, les établissements locaux sont assaillis par des vandales et des voleurs qui rôdent sans être vus. L'orateur de la ville, un drakéïde nommé Trovus, aurait bien besoin d'aide pour attraper ces intrus.
+5 |Dans la Brèche de Dougan, les gens vivent dans la peur des loups arctiques qui hantent la périphérie de la ville. Ils sont aussi gros que des chevaux, et plus intelligents que les loups normaux.
+6| A Havre-du-Levant, on a capturé un sorcier maléfique qui a tué des aventuriers. La milice de la ville prévoit de brûler le sorcier sur le bûcher. J'ai entendu dire que le capitaine de la garde cherche des aventuriers pour l'aider dans une autre tâche qui pourrait ou non être liée.
+7| A Bon Hydromel, l'orateur de la ville a récemment été tué par un géant de neuf pieds de haut. La rumeur veut que le géant ait volé une cargaison d'hydromel, sans lequel une poignée de tavernes de Dix-Cités pourraient se retrouver à sec !
+8| A Bois Isolé, méfiez-vous du redoutable élan blanc ! Il attaque les bûcherons et les trappeurs à vue, et les meilleurs chasseurs de la ville ne semblent pas pouvoir attraper ou tuer la bête. Ils auraient bien besoin d'aide.
+9| A Targos, une bande d'aventuriers prépare une expédition sur le flanc du Cairn de Kelvin, dans l'espoir de trouver Oyaminartok, un goliath qui peut se transformer en ours polaire. Si vous vous dépêchez, vous pourrez peut-être vous joindre à l'expédition !
+10| À Termalaine, l'orateur Masthew a fermé l'une des mines de pierres précieuses lucratives de la ville. Apparemment, une bande de kobolds s'est glissée dans la mine et a mis en danger certains mineurs. Quiconque nettoie la mine peut s'attendre à être bien indemnisé.
+}}
 {{pageNumber,auto}}
 {{footnote Chapitre 1 | Dix-Cités}}
 
@@ -1414,11 +1363,11 @@ Au fur et à mesure que les personnages accomplissent les quêtes de ce chapitre
 ![](https://5e.tools/img/adventure/IDRotF/007-01-001.easthaven.png) {top:-50px,left:0,position:absolute,width:100%}
 
 
-{{sidenote,color:white,top:390px
+{{img-desc,color:white,top:390px
 L'aurore de la Vierge de Glace balaie  
 le ciel nocturne d'Havre-du-Levant  
 }}
-{{margin-top:425px,wide}}
+{{margin-top:60%,wide}}
 
 La réputation du groupe d'aventuriers à Dix-Cités s'améliore à mesure que les personnages gagnent des niveaux, avec les résultats suivants :
 * Lorsque les personnages atteignent le 3ème niveau, ils commencent à gagner un certain respect de la part des Dix-Cités qui sont au courant de leurs exploits.
@@ -1450,7 +1399,7 @@ Les bateaux de pêche des Dix-Cités sont des embarcations simples. Les plus pet
 {{footnote Chapitre 1 | Dix-Cités}}
 \page
 
-![cat warrior](https://5e.tools/img/adventure/IDRotF/008-01-002.axe-beak.png) {width:445px,margin-left:-70px,position:absolute,top:1cm}
+![cat warrior](https://5e.tools/img/adventure/IDRotF/008-01-002.axe-beak.png) {width:455px,margin-left:-100px,position:absolute,top:-00px}
 
 {{watercolor8,top:-80px,left:-50px,width:500px,background-color:lightblue,opacity:100%}}
 
@@ -1460,7 +1409,7 @@ Les bateaux de pêche des Dix-Cités sont des embarcations simples. Les plus pet
 Stephen oakley
 }}
 
-{{margin-top:480px}}
+{{margin-top:135%}}
 
 Lorsque la glace épaisse recouvre les lacs, de nombreux pêcheurs restent à l'abri de leur maison et de leur foyer, mais les plus dévoués ou désespérés font des trous dans la glace et y suspendent leur ligne dans l'espoir d'attirer des truites affamées.
 {{note
@@ -1476,20 +1425,22 @@ Tous les objets répertoriés dans le chapitre sur l'équipement du Manuel du jo
 
 Le tableau des équipements de survie en hiver indique le coût des vêtements pour le froid, des crampons et des raquettes, qui peuvent être ajoutés à la liste des objets que les personnages peuvent acheter à Dix-Cités.
 
-{{
+
+
+:::::
 ##### Équipement de survie en hiver
 Article| Coût| Poids
 |-|-|-|
 Vêtements, temps froid| 10 po| 2kg.
 Crampons (2)| 2 po| 100g.
 Raquettes à neige| 2 po| 1.8 kg.
-}}
 :
 
 #### Vêtements pour temps froid
 Cette tenue se compose d'un manteau ou d'une cape en fourrure épaisse par-dessus des couches de vêtements en laine, ainsi que d'un chapeau ou d'une capuche doublés de fourrure, de lunettes, et de bottes et gants en cuir doublés de fourrure.
 
 Tant que la tenue de froid reste sèche, son porteur réussit automatiquement ses jets de sauvegarde contre les effets du froid extrême (voir "Froid extrême").
+
 
 #### Crampons
 Un crampon est une plaque métallique munie de pointes qui est attachée à la semelle d'une botte. Une créature portant des crampons ne peut pas tomber à plat ventre lorsqu'elle se déplace sur de la glace glissante.
@@ -1520,8 +1471,13 @@ Les personnages qui espèrent se procurer des objets magiques puissants ou les s
 
 
 
-{{margin-top:340px,wide}}
+{{margin-top:48%,wide}}
 :
+::
+{{img-desc,color:white,top:28%
+Un Lion des Neiges réclame une offrande de nourriture  
+aite par les Dix-Citadins pour apaiser la Vierge de Glace.
+}}
 Les objets magiques et les services magiques disponibles à Dix-Cités sont résumés ci-dessous. Si un objet ou un sort n'est pas couvert ici, supposez qu'il n'y a pas de PNJ ami qui peut le vendre ou le lancer.
 
 Les objets magiques courants coûtent 100 po chacun là où ils sont disponibles, à l'exception des potions courantes (comme les *potions de guérison*), qui peuvent être obtenues pour 50 po.
@@ -1557,13 +1513,10 @@ La nature des sacrifices varie d'une ville à l'autre, mais prend généralement
 Chaque ville est une colonie indépendante qui élit un chef, ou orateur, pour représenter ses intérêts lors des réunions du Conseil des Orateurs, qui sont peu fréquentes et ont lieu dans la salle du Conseil à Bryn Shander. Ces réunions sont convoquées pour discuter de questions d'intérêt commun et pour régler les différends entre les villes.
 }}
 
-![](https://5e.tools/img/adventure/IDRotF/009-01-003.crag-cat.png) {top:-130px,left:0,position:absolute,width:100%}
+![](https://5e.tools/img/adventure/IDRotF/009-01-003.crag-cat.png) {top:-110px,left:0,position:absolute,width:100%}
 
 
-{{sidenote,color:white,top:450px
-A crag cat claims an offering of food made  
-by Ten-Towners to appease the Frostmaiden
-}}
+
 
 {{pageNumber,auto}}
 {{footnote Chapitre 1 | Dix-Cités}}
@@ -1609,10 +1562,15 @@ Trois meurtres de sang-froid ont été commis le mois dernier : un trappeur half
 
 Quel est le lien ? Le groupe d'ivrognes rassemblés dans la taverne n'offre aucune idée crédible, mais assise à l'écart d'eux, une vieille Naine d’Écu avec une vilaine cicatrice sur le nez semble avoir quelque chose à dire. Elle fume sa pipe et vous regarde depuis que vous êtes entrés.
 }}
+
 Hlin Fléau-des-trolls, une Naine d'Écu neutre bonne, est une chasseuse de primes à la retraite avec un instinct de survie bien aiguisé. C'est une vétérante sans armure qui manie une hache d’armes et une hachette plutôt qu'une épée longue et une épée courte. Son métier lui a valu un peu trop d'ennemis sur la Côte des Épées, c'est pourquoi elle s'est retrouvée au Valbise.
+
+
+
 {{pageNumber,auto}}
 {{footnote Chapitre 1 | Dix-Cités}}
 \page
+
 Par ennui et par décence morale, Hlin a pris sur elle d'enquêter sur les meurtres récents parce que personne d'autre - pas même le Conseil des Orateurs - ne peut s'en occuper. Hlin étudie les personnages de près, essayant de décider s'ils valent la peine qu'elle leur consacre du temps. Finalement, elle tente sa chance et les entraîne dans une conversation, leur demandant de l'aider à faire tomber son seul suspect : un homme nommé Sephek Kaltro. Voici ce qu'elle sait de Sephek et des victimes :
 
 {{descriptive
@@ -1629,16 +1587,23 @@ Pour les personnages qui ne connaissent pas Dix-Cités, Hlin peut expliquer que 
 
 Si la théorie de Hlin est vraie et que Sephek Kaltro tue les Dix-Citadins qui trichent pour ne pas être sacrifiés à Auril, il est probable que la Vierge de Glace l'utilisera à nouveau pour tuer. Hlin est trop vieille et trop fragile pour appréhender Sephek elle-même, mais elle a plus d'or qu'elle n'en a besoin, alors elle engage les personnages pour faire son travail.
 
-Le défi commence par la recherche de Sephek Kaltro, puisque Torg's se déplace beaucoup. Hlin ne sait pas si Sephek agit seul ou s'il a le soutien de Torrga VeineGlacée, elle conseille donc aux personnages d'isoler Sephek et de s'en débarrasser discrètement, si une telle action s'avére nécessaire.
-\column
+Le défi commence par la recherche de Sephek  
+Kaltro, puisque Torg's se déplace beaucoup.  
+Hlin ne sait pas si Sephek agit seul ou s'il a  
+le soutien de Torrga VeineGlacée,  
+elle conseille donc aux personnages  
+d'isoler Sephek et de s'en débarrasser  
+discrètement, si une telle action  
+s'avére nécessaire.
 
-![homebrew mug](https://5e.tools/img/adventure/IDRotF/010-637357081747240888.png) {position:absolute,top:1.5cm,right:20px,width:230px,z-index:1}
+
+![homebrew mug](https://5e.tools/img/adventure/IDRotF/010-637357081747240888.png) {position:absolute,top:1.8cm,right:10px,width:240px,z-index:1}
 
 {{watercolor8,top:20px,right:-30px,width:500px,background-color:grey,opacity:90%}}
 {{watercolor2,top:20px,right:-30px,width:500px,background-color:grey,opacity:30%}}
 
 
-{{monster,frame,margin-top:350px
+{{monster,frame,margin-top:101%
 ## Sephek Kaltro
 *Mort-vivant de taille M, Neutre Mauvais*
 ___
@@ -1688,7 +1653,9 @@ La caravane de Torg consiste en trois traîneaux à chiens lourdement chargés, 
 Torg's est une boutique en plein air. Les marchandises sont déballées et exposées dans des caisses, avec de petits auvents pour les protéger de la neige. La plupart des marchandises de Torrga sont volées ou recelées, et elle les vend au double du prix normal. Elle a une activité de protection qui lui rapporte un peu d'argent, et elle commet aussi des meurtres à la sauvette. L'un des plus grands sacs du traîneau de Torrga contient le cadavre congelé d'un demi-elfe mâle d'une trentaine d'années, avec un coup de couteau dans la poitrine. La tête du demi-elfe était mise à prix et il est venu au Valbise pour disparaître. Torrga l'a trouvé et l'a tué avec l'aide de Sephek. Une fois qu'elle aura vendu ses biens aux Dix-Cités, elle compte livrer le cadavre à Luskan et toucher la prime de 125 po.
 
 Torrga est un capitaine bandit Naine d’Écu, neutre et maléfique, avec une vision nocturne jusqu'à une portée de 18 mètres, une résistance aux dégâts du poison et un avantage aux jets de sauvegarde contre l'empoisonnement. Alors que Torg's est ouvert aux affaires, elle garde ses employés près d'elle. Elle emploie Sephek Kaltro comme garde du corps et paie quatre autres personnes (des bandits humains neutres mauvais) pour conduire et protéger les deux autres traîneaux. Torrga ne s'intéresse qu'aux profits, ferme les yeux sur les escapades meurtrières de Sephek et tente de l'aider du mieux qu'elle peut sans mettre sa propre vie en danger.
+
 \column
+
 **Trésor.** Torrga conserve ses recettes dans un petit coffre-fort en fer verrouillé, qu'elle cache dans une sacoche. Elle porte la clé du coffre autour du cou. Un personnage possédant des outils de voleur peut utiliser une action pour essayer de crocheter la serrure du coffre-fort, en réussissant un test de Dextérité DD 20. Le coffre contient 92 po, 76 pa, 125 pc, et sept pierres précieuses valant 10 po chacune.
 
 #### Sephek Kaltro
@@ -1701,16 +1668,18 @@ Lorsqu'on l'interroge sur son étrange style vestimentaire, Sephek Kaltro préte
 
 Auril a incité Sephek à se rendre à Dix-Cités et à proposer ses services à Torrga VeineGlacée. Comme le soupçonne Hlin, il a tué des Dix-Citadins qui ont payé des fonctionnaires de bas étage pour exclure leurs noms des loteries de Bryn Shander, Havre-du-Levant et Targos. Parce qu'il fait le travail de la Vierge de Glace, l'esprit à l'intérieur de Sephek ne se soucie pas de se faire prendre, et il n'hésite pas à admettre sa culpabilité. Il n'envisage de se rendre que parce que cela lui permet de gagner du temps pour s'échapper et commettre d'autres meurtres. En combat, il manie une épée magique et des dagues magiques faites de glace qu'il peut conjurer à volonté. Ces armes fondent et se brisent comme des glaçons dans les mains d'autres créatures.
 
-### Conclure la quête
-
-Après avoir trouvé et tué Sephek, les personnages peuvent retourner à Hlin et récupérer leur récompense de 100 po. 
+ 
 
 {{pageNumber,auto}}
 {{footnote Chapitre 1 | Dix-Cités}}
 \page
 
 
-{{margin-top:450px,wide}}
+{{margin-top:57.5%,wide}}
+:
+### Conclure la quête
+
+Après avoir trouvé et tué Sephek, les personnages peuvent retourner à Hlin et récupérer leur récompense de 100 po.
 S'ils n'ont pas de preuve de la mort de Sephek, Hlin est prêt à les croire sur parole.
 
 Si les meurtres à la dague de glace cessent, elle saura que sa confiance n'était pas mal placée. Si Sephek n'est pas arrêté, il pourra continuer à tuer les Dix-Citadins qui trompent Auril la Vierge de Glace. Ces meurtres se produisent de manière irrégulière, et uniquement dans les villes visitées par les Torg.
@@ -1723,7 +1692,9 @@ Si Torrga VeineGlacée survit mais a des raisons de croire que les personnages o
 
 Il s'agit de la deuxième des deux quêtes destinées à lancer l'aventure. Elle incite les personnages à explorer les différents lieux des Dix-Cités, où ils peuvent récupérer d'autres quêtes.
 
-Au début de cette quête, les personnages sont abordés par une jeune magicienne nommée Dannika Cendracier. Nouvellement installée à Dix-Cités, elle essaie de trouver un moyen de modifier le climat du Valbise. Elle les engage pour localiser et capturer un chwinga, dont elle pense qu'il y en a plusieurs aux alentours de Dix-Cités. Bien qu'elle fournisse aux personnages un moyen magique de localiser les chwingas, c'est à eux de trouver un moyen d'en capturer un ou de le convaincre d'aider Dannika dans ses expériences.
+Au début de cette quête, les personnages sont abordés par une jeune magicienne nommée Dannika Cendracier. Nouvellement installée à Dix-Cités, elle essaie de trouver un moyen de modifier le climat du Valbise. Elle les engage pour localiser et capturer un chwinga, dont elle pense qu'il y en a plusieurs aux alentours de Dix-Cités. 
+
+Bien qu'elle fournisse aux personnages un moyen magique de localiser les chwingas, c'est à eux de trouver un moyen d'en capturer un ou de le convaincre d'aider Dannika dans ses expériences.
 
 ### Obtenir la quête
 
@@ -1739,7 +1710,7 @@ L'interlocutrice est Dannika Cendracier (acolyte demi-elfe loyal neutre), une é
 ![](https://5e.tools/img/adventure/IDRotF/011-01-004.png) {top:-50px,left:0,position:absolute,width:100%}
 
 
-{{sidenote,top:450px,left:450px
+{{img-desc,top:35%,left:2cm
 En utilisant une assiette et des couverts volés,  
 trois chwingas jouent à la dinette dans la neige
 }}
@@ -1817,7 +1788,7 @@ Une neige abondante a effacé une piste qui guidait autrefois les voyageurs vers
 
 Bremen n'a pas grand-chose pour séduire ou réconforter le voyageur fatigué, mais les lieux suivants, indiqués sur la carte 1.1, sont susceptibles d'attirer les aventuriers.
 
-![cat warrior](https://5e.tools/img/adventure/IDRotF/012-01-005.shield-bremen.png) {width:80%,text-align:center,margin:auto,display:flex}
+![bremen sigil](https://5e.tools/img/adventure/IDRotF/012-01-005.shield-bremen.png) {width:79%,text-align:center,margin:auto,display:flex,}
 {{artist Couple of kooks }}
 
 #### Trésors enfouis
@@ -1836,8 +1807,8 @@ Les Tieffelins portaient des amulettes qui ressemblaient beaucoup à l'éclat d�
 {{pageNumber,auto}}
 {{footnote Chapitre 1 | Dix-Cités}}
 \page
-![cat warrior](https://i.imgur.com/xPzDovw.jpg) {width:325px,padding-bottom:20px,width:95%}
-{{sidenote,top:455px Map 1.1 : Bremen }}
+![bremen map](https://i.imgur.com/xPzDovw.jpg) {padding-bottom:15px,width:95%}
+{{sidenote,top:485px Map 1.1 : Bremen }}
 
 {{artist Mike Schley }}
 #### Place des Cinq-Tavernes
@@ -1878,10 +1849,12 @@ Si les personnages posent des questions sur les dégâts infligés à Bouc Bossu
 "Vous ne voyez pas ? De la putain de glace partout. Le dernier équipage était apparemment né avec des trous à la place des yeux, parce qu'ils ont navigué droit dans une maudite congère ! Je n'ai pas encore réparé le bastingage, mais il flotte très bien."
 }}
 
+Un personnage qui réussit un test de Sagesse (perspicacité) DD 11 peut dire que Grynsk ment. Si on lui met la pression sur la validité de son histoire, Grynsk s'énerve et dit aux personnages de quitter ses quais si tout ce qu'ils veulent faire est de poser des questions stupides.
+
 {{pageNumber,auto}}
 {{footnote Chapitre 1 | Dix-Cités}}
 \page
-Un personnage qui réussit un test de Sagesse (perspicacité) DD 11 peut dire que Grynsk ment. Si on lui met la pression sur la validité de son histoire, Grynsk s'énerve et dit aux personnages de quitter ses quais si tout ce qu'ils veulent faire est de poser des questions stupides.
+
 
 En réalité, le monstre du lac a mordu Bouc Bossu et a fait tomber son équipage dans l'eau glacée, où ils se sont noyés. Le bateau endommagé a été retrouvé par des pêcheurs le jour suivant, dérivant sans équipage dans l'eau presque gelée.
 
@@ -1930,15 +1903,17 @@ Une barque a une vitesse de 2, 5 km par heure et peut contenir jusqu'à quatre c
 
 #### Tomber dans l'eau
 
-Tout personnage qui tombe dans le lac est soumis aux effets de l'eau glacée (voir "Eau glacée", page 11). Même après que le personnage soit sorti de l'eau glacée, les effets persistent jusqu'à ce que les vêtements mouillés soient séchés ou remplacés par des vêtements chauds et secs.
+Tout personnage qui tombe dans le lac est soumis aux effets de l'eau glacée (voir "Eau glacée", page 11). Même après que le personnage soit sorti de l'eau glacée, les effets persistent jusqu'à ce que les vêtements  soient séchés ou remplacés par des vêtements chauds et secs.
 
 #### Profondeur de l'eau
 
 Une fois que les personnages sont éloignés de la rive, vous pouvez déterminer au hasard la profondeur du lac à un endroit donné en lançant un d20 et en multipliant le résultat du dé par 3 mètres. Inversement, vous pouvez supposer que le lac a une profondeur de 30 mètres là où se trouvent les personnages.
 
+
 {{pageNumber,auto}}
 {{footnote Chapitre 1 | Dix-Cités}}
 \page
+
 
 ### Explorer le lac
 
@@ -1987,15 +1962,19 @@ Bien que le plésiosaure ne donne aucune indication qu'elle est intelligente et 
 {{descriptive
 Une tête reptilienne au bout d'un cou long et fin émerge de l'eau froide et sombre. La créature vous regarde intensément et dit, en commun, "J'écoute".
 }}
-Un personnage qui converse avec la plésiosaure et réussit un test d'Intelligence (Arcane) DD 15 peut conclure sans risque qu'il est le bénéficiaire du sort d'éveil d'un druide, et que l'effet est permanent.
 
+Un personnage qui converse avec la plésiosaure et réussit un test d'Intelligence (Arcane) DD 15 peut conclure sans risque qu'il est le bénéficiaire du sort d'éveil d'un druide, et que l'effet est permanent.
 
 
 {{pageNumber,auto}}
 {{footnote Chapitre 1 | Dix-Cités}}
 \page
 
-{{margin-top:475px,wide}}
+{{margin-top:455px,wide}}
+
+
+
+
 La plésiosaure répond à des questions directes et connaît les informations suivantes :
 
 * "Avant, je nageais autour du lac et je mangeais des poissons."
@@ -2026,7 +2005,7 @@ Si les personnages n'ont pas pris de notes, les espoirs de Tali sont déçus, et
 ![](https://5e.tools/img/adventure/IDRotF/015-01-006.monster.png) {top:0,left:0,position:absolute,width:100%}
 
 
-{{sidenote,top:420px,left:450px,color:white
+{{img-desc,top:420px,left:450px,color:white
 Les aventuriers rencontrent le monstre de Maer Dualdon.
 }}
 {{artist Sidharth Chaturvedi }}
@@ -2047,8 +2026,7 @@ Les murs de la ville font environ 10 mètres de haut et sont constitués de deux
 
 ### Bryn Shander en résumé
 
-**Convivialité** ❄❄❄ **Services** ❄❄❄ **Confort** ❄❄❄❄
-
+**Convivialité**:: ❄❄❄ **Services** ❄❄❄ **Confort** ❄❄❄❄
 **Quête disponible**:: ["Chopes moussantes"](#Foaming-mugs), p34.
 **Population.**:: 1,200.
 **Dirigeants**:: L'oratrice Duvessa Shane (noble humaine loyale bonne) parle au nom des habitants de la ville. Bien que relativement jeune, Duvessa est à la tête du Conseil des Orateurs. Le shérif Markham Southwell ( humain loyal bon, vétéran) commande la milice.
@@ -2059,9 +2037,10 @@ Les murs de la ville font environ 10 mètres de haut et sont constitués de deux
 
 ### Voyage par voie terrestre
 
-Bryn Shander est relié à Havre-du-Levant par la Route du Levant, une route enneigée. En outre, des chemins enneigés mènent à Caer-Dineval, Bon Hydromel, Targos et Termalaine. Les temps de trajet indiqués dans le tableau Voyage par voie terrestre depuis Bryn Shander supposent que les personnages sont à pied ; les montures et les traîneaux à chiens peuvent réduire ces temps de 50 %.
-
-##### Voyage par voie terrestre depuis Bryn Shander
+Bryn Shander est relié à Havre-du-Levant par la Route du Levant, une route enneigée. Des chemins enneigés mènent à Caer-Dineval, Bon Hydromel, Targos et Termalaine. Les temps de trajet indiqués dans le tableau ci-dessous supposent que les personnages sont à pied ; les montures et les traîneaux à chiens peuvent réduire ces temps de 50 %.
+:
+{{position:absolute,width:38%
+##### Voyage  depuis Bryn Shander
 Vers| Temps de voyage
 |:-:|:-:
 Caer-Dineval| 10½ heures
@@ -2069,6 +2048,8 @@ Havre-du-Levant| 7½ heures
 Bon Hydromel| 6 heures
 Targos| 2 heures
 Termalaine| 6 heures
+}}
+\column
 
 
 ![cat warrior](https://5e.tools/img/adventure/IDRotF/016-01-007.shield-bryn-shander.png) {width:78%,text-align:center,margin:auto,display:flex}
@@ -2076,6 +2057,7 @@ Termalaine| 6 heures
 
 ### Sites à Bryn Shander
 Les lieux suivants, indiqués sur la carte 1.2, ne sont que quelques-uns des endroits que les personnages peuvent visiter pendant leur séjour à Bryn Shander.
+
 
 #### Les Lames de Fer-Noir
 *Forge et fournisseur*
@@ -2094,13 +2076,12 @@ Située près de la place du marché nord-est de Bryn Shander, cette modeste mai
 {{footnote Chapitre 1 | Dix-Cités}}
 \page
 
-{{wide,column-count:2,margin-top:-33px
-![cat warrior](https://5e.tools/img/adventure/IDRotF/017-01-008.duvessa.png) {width:325px}
-:
-![cat warrior](https://5e.tools/img/adventure/IDRotF/020-01-009.markham.png) {width:325px}
+{{wide,column-count:2,margin-top:-33px,display:flex
+![Oratrice Duvessa Shane](https://5e.tools/img/adventure/IDRotF/017-01-008.duvessa.png) {width:325px}
+
+![Sheriff Markham Southwell](https://5e.tools/img/adventure/IDRotF/020-01-009.markham.png) {width:325px}
 
 }}
-
 
 Si les personnages parlent à Copper, il leur dit qu'il s'inquiète pour un ami nommé Macreadus, qui mène des recherches dans une vieille cabane dans le désert (voir ["Cabane noire"](#p119)). Il dit que si les personnages se trouvent dans les environs, il apprécierait qu'ils s'intéressent à Macreadus, qui essaie de construire un appareil qui pourrait mettre fin à l'hiver éternel de la Vierge de Glace et ramener l'été au Valbise.
 
@@ -2113,7 +2094,7 @@ Le Regard du Nord est l'établissement le plus fréquenté par les mercenaires e
 Les personnages qui fréquentent la taverne sont susceptibles d'entendre une ou deux rumeurs, que vous pouvez déterminer en faisant un jet sur la table Rumeurs de Dix-Cités (voir ["Rumeurs des Dix-Cités"](#ten-town-rumors) ).
 
 Le propriétaire de l'auberge, un vendeur à la retraite nommé Scramsax (vétéran humain neutre), connaît parfaitement les rythmes de la vie d'un aventurier. Il fait souvent une entorse aux clients qui sont entre deux emplois, leur permettant de rester ici à crédit, puis leur présentant une facture gonflée d'intérêts à prendre en compte dès leur prochaine paie. Ceux qui ne règlent pas leurs comptes découvrent que le vieux mercenaire sait encore manier la lame, et qu'il n'accepte pas un "plus tard" comme réponse.
-:::::::::::::
+:::::::
 
 **L'vieux Mordeur.** Sur une plaque au-dessus de l'âtre de la salle commune, se trouve une truite balafrée par les combats, nommée L'vieux Mordeur, qui a entraîné plus d'un pêcheur dans les profondeurs glacées de Maer Dualdon avant d'être finalement attrapée par une voleuse humaine nommée Kintyre et son compagnon, un druide humain qui se faisait appeler le Maverick. Ils transportèrent L'Vieux Mordeur au Regard du Nord dans l'espoir de le faire cuire, mais Scramsax le leur acheta et le fit empailler à la place. Des années plus tard, un sorcier farceur jeta un sort sur le poisson empaillé afin qu'il se retourne et grogne sur toute créature s'approchant à moins d'un mètre cinquante de lui. De temps en temps, apparemment au hasard, L'Vieux Mordeur chante le couplet suivant à la place :
 :
@@ -2131,9 +2112,9 @@ Si un personnage possède le secret Chasseur d'anneaux (voir l'annexe B), la che
 
 {{artist Eric Belisle,Olga Drebas,April Prime}}
 
-{{sidenote,top:370px,left:110px,color:white Oratrice Duvessa Shane}}
+{{img-desc,top:370px,left:110px,color:white Oratrice Duvessa Shane}}
 
-{{sidenote,top:425px,right:110px, Sheriff Markham Southwell }}
+{{img-desc,black,top:410px,right:110px, Sheriff Markham Southwell }}
 
 {{watercolor1,top:20px,left:30px,width:300px,background-color:grey,opacity:30%}}
 {{watercolor11,top:20px,right:30px,width:300px,background-color:grey,opacity:80%}}
@@ -2144,13 +2125,14 @@ Si un personnage possède le secret Chasseur d'anneaux (voir l'annexe B), la che
 \page
 
 
-{{margin-top:530px,wide}}
+{{margin-top:510px,wide}}
+:
 {{#Foaming-mugs
 ## Chopes Moussantes
 }}
 
 
-Les personnages peuvent récupérer cette quête s'ils commencent l'aventure à Bryn Shander ou peu après leur arrivée en ville. Elle commence lorsque les personnages apprennent qu'un groupe de Nains d’Écu a été contraint d'abandonner un traîneau chargé de lingots de fer qu'il transportait depuis les mines situées au pied du Cairn de Kelvin. Les lingots appartiennent au clan des Marteaux de Guerre et sont marqués du symbole emblématique du clan, une chope moussante. Les nains demandent aux personnages de récupérer le traîneau et de livrer les lingots en toute sécurité à Lames de Fer Noir, ce pour quoi chaque personnage recevra une pierre précieuse en guise de paiement. Les personnages qui accomplissent cette quête gagnent également une remise de 10 % sur les marchandises achetées au Lames de Fer Noir - un petit remerciement de la part du propriétaire reconnaissant de l'établissement.
+Les personnages peuvent récupérer cette quête s'ils commencent l'aventure à Bryn Shander ou peu après leur arrivée en ville. Elle commence lorsque les personnages apprennent qu'un groupe de Nains d’Écu a été contraint d'abandonner un traîneau chargé de lingots de fer qu'il transportait depuis les mines situées au pied du Cairn de Kelvin. Les lingots appartiennent au clan des Marteaudeguerre et sont marqués du symbole emblématique du clan, une chope moussante. Les nains demandent aux personnages de récupérer le traîneau et de livrer les lingots en toute sécurité à Lames de Fer Noir, ce pour quoi chaque personnage recevra une pierre précieuse en guise de paiement. Les personnages qui accomplissent cette quête gagnent également une remise de 10 % sur les marchandises achetées au Lames de Fer Noir - un petit remerciement de la part du propriétaire reconnaissant de l'établissement.
 
 Les choses se compliquent lorsque des gobelins trouvent le traîneau avant les personnages. Ceux-ci doivent soit combattre les gobelins, soit leur soutirer les lingots par la ruse ou la discrétion. Pour compliquer encore les choses, les gobelins ont un chariot tiré par des ours polaires affamés. Les ours ne sont pas très regardants sur ce qu'ils mangent, donc des personnages astucieux pourraient penser à les retourner contre les gobelins.
 ::::
@@ -2164,9 +2146,10 @@ Trois personnages trapus, emmitouflés dans leurs vêtements de froid, s'approch
 Les trois nains travaillent dans une mine située dans la vallée au pied du Cairn de Kelvin. Cette mine appartient au Clan des Marteaudeguerre, qui l'exploite, et fournit la plupart du fer aux forges de Dix-Cités.
 
 Les nains portent des vêtements pour le froid. Seuls leurs yeux sont visibles. Traitez-les comme des roturiers qui parlent le commun et le nain ; en tant que nains, ils ont une vision dans le noir jusqu'à une portée de 18 mètres et une résistance aux dégâts du poison. Ils portent des pics à glace (1d4 dégâts perforants) à la place des massues. 
-![cat warrior](https://i.imgur.com/iwJ5g1t.jpg) {height:45%,position:absolute,top:15px,left:5%}
 
-{{sidenote,top:545px,left:50px Map 1.2 : Bryn Shander }}
+![bryn shander map](https://i.imgur.com/iwJ5g1t.jpg) {height:48%,position:absolute,top:1cm,left:3%}
+
+{{sidenote,top:585px,left:2.5cm Map 1.2 : Bryn Shander }}
 
 
 
@@ -2185,7 +2168,7 @@ Chaque nain est brièvement décrit ci-dessous :
 
 Si les personnages sont intéressés par ce que Hruna a à dire, elle présente la quête :
 {{descriptive
-" Nous sommes les survivants d'un groupe de nains chargés de livrer un traîneau de lingots de fer à Bryn Shander. Un yéti nous a surpris et a tué un membre de notre groupe. Le reste d'entre nous s'est enfui alors que le yéti déchirait Oobok membre par membre. Maintenant, nous avons besoin de quelqu'un pour retourner chercher le traîneau pour nous. En guise de paiement, nous offrons à chacun de vous une pierre précieuse d'une valeur de 50 pièces d'or. L'amitié des nains du Valbise peut aussi être une bénédiction en ces temps difficiles. Vous aurez besoin de raquettes pour faire le voyage en temps voulu."
+" Nous sommes les survivants d'un groupe de nains chargés de livrer un traîneau de lingots de fer à Bryn Shander. Un yéti nous a surpris et a tué un membre de notre groupe. Le reste d'entre nous s'est enfui alors que le yéti déchirait Oobok membre par membre. Nous avons besoin de quelqu'un pour retourner chercher le traîneau pour nous. En guise de paiement, nous offrons à chacun de vous une pierre précieuse d'une valeur de 50 pièces d'or. L'amitié des nains du Valbise peut aussi être une bénédiction en ces temps difficiles. Vous aurez besoin de raquettes pour faire le voyage en temps voulu."
 }}
 Si les personnages tuent les nains et s'emparent de la pochette de pierres précieuses que Hruna porte sur elle (voir "Trésor" ci-dessous), des témoins les signalent à la milice de la ville, entraînant leur arrestation à moins qu'ils ne fuient Bryn Shander immédiatement.
 
@@ -2232,13 +2215,15 @@ Ces gobelins parcouraient la toundra quand leur éclaireur, un faucon dressé, a
 
 Au début de la rencontre, les personnages sont à 60 mètres derrière le traîneau, et le chariot des gobelins est encore à 60 mètres plus loin. Les gobelins qui tirent le traîneau sont trop distraits pour s'apercevoir qu'ils sont suivis, les personnages ont donc l'effet de surprise.
 
-Le traîneau pèse 150 kg, et les lingots de fer y ajoutent 300 kg. Un seul gobelin peut pousser ou traîner 120 kg, il en faut donc au moins quatre pour déplacer le traîneau. S'ils sont attaqués, les gobelins s'abritent derrière le traîneau et ripostent avec des attaques à distance. 
+Le traîneau pèse 150 kg, et les lingots de fer y ajoutent 300 kg. Un seul gobelin peut pousser ou traîner 120 kg, il en faut donc au moins quatre pour déplacer le traîneau. S'ils sont attaqués, les gobelins s'abritent derrière le traîneau et ripostent  à distance.
+
+Au premier tour de combat des gobelins, l'un d'entre eux souffle dans une corne pour alerter Izobai, qui grimpe sur le toit du chariot avec une torche allumée dans une main et son faucon à capuche perché sur son autre bras.
 
 {{pageNumber,auto}}
 {{footnote Chapitre 1 | Dix-Cités}}
 \page
 {{wide,column-count:2
-Au premier tour de combat des gobelins, l'un d'entre eux souffle dans une corne pour alerter Izobai, qui grimpe sur le toit du chariot avec une torche allumée dans une main et son faucon à capuche perché sur son autre bras. De ce perchoir, elle observe le déroulement de la bataille. Si elle repère des ennemis à moins de 18 mètres du wagon, elle ordonne aux deux gobelins à l'intérieur du wagon de tirer des flèches sur ces ennemis par les interstices des parois du wagon. Ces deux gobelins ont une couverture de 3/4.
+ De ce perchoir, elle observe le déroulement de la bataille. Si elle repère des ennemis à moins de 18 mètres du wagon, elle ordonne aux deux gobelins à l'intérieur du wagon de tirer des flèches sur ces ennemis par les interstices des parois du wagon. Ces deux gobelins ont une couverture de 3/4.
 
 
 Si cinq gobelins ou plus sont tués, ou si Izobai est tué ou capturé, les gobelins restants sont prêts à négocier une trêve, mais c'est aux personnages d'entamer les négociations. Les gobelins sont prêts à abandonner les lingots de fer en échange de leur vie et de leur liberté.
@@ -2247,7 +2232,6 @@ L'hiver prolongé a rendu les gobelins aussi malheureux que tout le monde au Val
 
 Izobai ne se bat qu'en cas de légitime défense. Si la défaite semble inévitable, elle utilise sa torche pour mettre le feu au chariot et s'enfuit dans la toundra avec son faucon, son trésor (voir ci-dessous) et tous les gobelins présents dans le véhicule. Le chariot contient des lits de gobelins faits de paille ; ils s'enflamment rapidement, transformant le véhicule en un véritable brasier au début du tour suivant d'Izobai.
 
-\column
 
 **Libérer les ours.** Un personnage qui réussit un test de Sagesse (manipulation des animaux) DD 12 peut s'approcher des ours polaires sans les énerver et utiliser une action pour libérer l'un d'entre eux de son harnais. En cas d'échec, les deux ours sont hostiles au personnage pour le reste de la rencontre. Un ours polaire libéré n'attaque pas le personnage qui l'a libéré, mais toutes les autres créatures du champ de bataille sont des proies faciles. Il mangerait plutôt un gobelin qu'autre chose, vu la façon dont les gobelins ont traité les ours. Les gobelins fuient un ours polaire libéré aussi vite qu'ils le peuvent.
 
@@ -2261,14 +2245,14 @@ Une fois les lingots rendus à Hruna, puis livrés au Lames de Fer Noir à Bryn 
 
 }}
 
-![cat warrior](https://5e.tools/img/adventure/IDRotF/022-01-011.polar-bears.png) {width:100%,position:absolute,bottom:0px,right:0px}
+![cat warrior](https://5e.tools/img/adventure/IDRotF/022-01-011.polar-bears.png) {width:110%,position:absolute,bottom:0px,right:-50px}
 
-{{sidenote,bottom:420px,left:2cm,color:white 
+{{img-desc,bottom:490px,left:3cm,color:white 
 Deux ours polaires grognons tirent   
 un chariot de gobelins à travers la toundra enneigée.
 }}
 
-{{watercolor3,top:450px,right:050px,width:400px,background-color:#2d4f7e,opacity:60%}}
+{{watercolor3,top:450px,right:-50px,width:500px,background-color:#2d4f7e,opacity:60%}}
 
 
 \page
@@ -2282,8 +2266,7 @@ Comme si les choses n'allaient pas assez mal, le port de la ville a gelé et l'o
 
 ### Caer-Dineval en résumé
 
-**Convivialité** ❄❄ **Services** ❄ **Confort** ❄
-
+**Convivialité**:: ❄❄ **Services** ❄ **Confort** ❄
 **Quête disponible**:: ["Épée noire"](#Black-Sword), page 38.
 **Population.**:: 100.
 **Les dirigeants.**:: L'orateur Crannoc Siever (humain loyal neutre, roturier) parle au nom des habitants de la ville. Connu comme une brute qui crie et utilise la mise en scène pour faire valoir son point de vue, il serait malade depuis des mois et fait rarement des apparitions publiques aujourd'hui.
@@ -2295,7 +2278,7 @@ Comme si les choses n'allaient pas assez mal, le port de la ville a gelé et l'o
 ### Voyage par voie terrestre
 
 Un chemin enneigé mène de Caer-Dineval à la Route du Levant. D'autres chemins mènent à Caer-Konig et à Bon Hydromel. Les temps de trajet indiqués dans le tableau Voyage par voie terrestre depuis Caer-Dineval supposent que les personnages sont à pied ; les montures et les traîneaux à chiens peuvent réduire ces temps de 50 %.
-
+:
 ##### Voyage par voie terrestre depuis Caer-Dineval
 Vers| Temps de voyage
 |:-|:-|
@@ -2324,10 +2307,10 @@ Ce petit château a été construit il y a plus de quatre cents ans par la famil
 {{footnote Chapitre 1 | Dix-Cités}}
 \page
 
-![](https://i.imgur.com/GXQTtPv.jpg) {width:330px}
+![](https://i.imgur.com/GXQTtPv.jpg) {width:100%}
 
-{{sidenote,top:510px Map 1.3 : Caer-Denival}}
-:::
+{{sidenote,margin-top:0px Map 1.3 : Caer-Denival}}
+::
 Ainsi, le bref règne de la famille Dinev sur Valbise a connu une fin sanglante.
 
 Le Caer resta aux mains des orcs pendant plusieurs années, jusqu'à ce qu'ils en soient chassés par une petite armée de colons humains venus d'autres régions du vallon et qui s'étaient regroupés. Les vainqueurs revendiquèrent le château et ses terres, et ceux qui avaient des familles les amenèrent ici pour s'installer. Leurs descendants vivent ici depuis et gardent en mémoire les exploits de leurs ancêtres.
@@ -2342,7 +2325,7 @@ Aujourd'hui, le donjon est la résidence de l'orateur de la ville, Crannoc Sieve
 À l'extrémité sud de la ville se trouve l'auberge de Caer-Dineval, un vieux bâtiment plein de courants d'air avec des fenêtres barricadées et une girouette tordue en forme de dragon cabré. L'endroit est fermé depuis presque un an.
 
 Six duergars se cachent dans l'auberge délabrée et restent hors de vue jusqu'à ce que le dragon chardalyn de Xardorok attaque la ville (voir chapitre 4).
-\column
+
 #### L'Ascension Difficile
 
 *Taverne*
@@ -2365,16 +2348,16 @@ Crannoc Siever, l'orateur de la ville, réside dans le château et est égalemen
 
 Les Chevaliers de l'épée noire sont une société secrète de cultistes dévoués à Levistus, l'archidémon qui règne sur Stygia, la sixième couche des neuf enfers, depuis une prison de glace dont il ne peut s'échapper.
 
-La plupart des sectateurs sont des natifs du Valbise qui auraient péri dans la nature si Levistus n'était pas intervenu en leur faveur. 
+La plupart des sectateurs sont des natifs du Valbise qui auraient péri dans la nature si Levistus n'était pas intervenu en leur faveur. Les histoires des cultistes sont toutes les mêmes : l'archidémon leur a tendu la main dans leur esprit alors qu'ils étaient en train de mourir de froid, leur offrant une seconde chance de vivre en échange de leur dévotion absolue.  Après avoir accepté de suivre Levistus, une lueur pâle a attiré leur attention 
 {{artist	Mike Schley}}
 
 {{pageNumber,auto}}
 {{footnote Chapitre 1 | Dix-Cités}}
 \page
 
-{{margin-top:440px,wide}}
-
-Les histoires des cultistes sont toutes les mêmes : l'archidémon leur a tendu la main dans leur esprit alors qu'ils étaient en train de mourir de froid, leur offrant une seconde chance de vivre en échange de leur dévotion absolue. Après avoir accepté de suivre Levistus, une lueur pâle a attiré leur attention dans la neige à proximité, ce qui a conduit à la découverte d'une amulette de chardalyn en forme d'épée. Chacune de ces amulettes possède un rayonnement intérieur qui apporte chaleur et aide, protégeant son porteur contre le froid tout en le guidant en toute sécurité vers la civilisation. Une fois que son porteur atteint Dix-Cités, le talisman perd son rayonnement intérieur, mais les cultistes conservent leurs amulettes comme signes de leur dévotion à l'archiduc de Stygia (voir l'encadré ["Amulettes de Chardalyn"](#chardalyn-amulet)).
+{{margin-top:420px,wide}}
+dans la neige à proximité, ce qui a conduit à la découverte d'une amulette de chardalyn en forme d'épée.
+ Chacune de ces amulettes possède un rayonnement intérieur qui apporte chaleur et aide, protégeant son porteur contre le froid tout en le guidant en toute sécurité vers la civilisation. Une fois que son porteur atteint Dix-Cités, le talisman perd son rayonnement intérieur, mais les cultistes conservent leurs amulettes comme signes de leur dévotion à l'archiduc de Stygia (voir l'encadré ["Amulettes de Chardalyn"](#chardalyn-amulet)).
 
 Les chevaliers de l'épée noire ont des membres dispersés dans les Dix-Cités. Ils accueillent les nouveaux membres et répondent à Levistus, qui leur parle peu fréquemment en utilisant une forme puissante de télépathie interplanaire. Levistus a récemment fait appel à eux pour aider une autre disciple de leur maître, une magicienne Tieffelinne albinos nommée Avarice, à atteindre ses objectifs. Même s'ils la trouvent exigeante et difficile à vivre, ils n'osent pas la défier.
 
@@ -2398,11 +2381,13 @@ Les sectaires évitent tout contact avec les étrangers et, se faisant passer po
 - Les personnages ont trouvé et tué le groupe de duergars qui se cache dans le Repos de Dinev (voir "Repos de Dinev").
 - Les personnages se sont mêlés des affaires de Nildar Fléau-Solaire (voir "L'Invisible") ou de son frère aîné, Durth (voir chapitre 2).
 
+Une fois que les cultistes auront appris que les objectifs des personnages s'alignent sur les leurs, ils feront tout ce qui est en leur pouvoir pour que les personnages se sentent en sécurité et heureux, sans pour autant renoncer à leur forteresse et à leur influence sur le président Crannoc.
+
 
 
 ![](https://5e.tools/img/adventure/IDRotF/026-01-013.caer-dineval.png) {width:100%,top:-20px,left:0,position:absolute}
 
-{{sidenote,top:420px,left:2cm,color:white 
+{{img-desc,top:420px,left:2.5cm,color:white 
 Caer-Dineval est construit sur la rive rocheuse du lac Dinneshere,  
 avec le Cairn de Kelvin se profilant derrière lui.
 
@@ -2414,8 +2399,6 @@ avec le Cairn de Kelvin se profilant derrière lui.
 {{footnote Chapitre 1 | Dix-Cités}}
 \page
 
-
-Une fois que les cultistes auront appris que les objectifs des personnages s'alignent sur les leurs, ils feront tout ce qui est en leur pouvoir pour que les personnages se sentent en sécurité et heureux, sans pour autant renoncer à leur forteresse et à leur influence sur le président Crannoc.
 
 
 
@@ -2446,7 +2429,7 @@ Un solide château de pierre, dépourvu de chaleur et d'ostentation, se dresse a
 Le sol enneigé à l'extérieur du château est 3 mètres plus bas que la cour du château. Ainsi, les créneaux et les parapets qui surmontent les murs extérieurs semblent faire 6 mètres de haut depuis l'extérieur et font 3 mètres de haut à l'intérieur. Des marches en pierre glacée, situées à chaque extrémité de la cour, mènent aux sommets de ces murs, qui ne sont pas surveillés. Les fentes pour les flèches dans les murs extérieurs des tours de garde et du donjon central offrent une couverture de 3/4 à ceux qui se tiennent derrière.
 
 La majeure partie du château est éclairée par des torches, quelle que soit l'heure de la journée. Les portes à l'intérieur du château ne sont pas fermées à clé, sauf indication contraire dans le texte.
-::
+
 #### Défenseurs du château
 
 La taille relativement petite du château permet à un seul membre de la secte de donner l'alarme en criant. Si une alarme est déclenchée, les membres suivants de la secte sont chargés de défendre le château :
@@ -2472,20 +2455,23 @@ La hutte est une dépendance, actuellement vide. De nombreuses pistes y mènent 
 
 #### C3. Chenil et entrepôt de traîneaux
 
-Six sympathiques chiens de traîneau (utilisez les statistiques des loups) sont logés dans ce chenil. Ils aboient bruyamment dès que quelqu'un s'approche à moins de 3 mètres de la porte. Les cultistes peuvent entendre les aboiements mais choisissent de les ignorer.
+Six sympathiques chiens de traîneau (utilisez les statistiques des loups) sont logés dans ce chenil.
+Ils aboient bruyamment dès que quelqu'un s'approche à moins de 3 mètres de la porte. Les cultistes peuvent entendre les aboiements mais choisissent de les ignorer.
 
 Un traîneau à chiens est entreposé ici, ainsi que les harnais et les rênes des chiens.
+
 
 
 {{pageNumber,auto}}
 {{footnote Chapitre 1 | Dix-Cités}}
 \page
 
-![](https://5e.tools/img/adventure/IDRotF/027-map-1.4-caer-dineval-keep.jpg) {position:absolute,width:95%,right:2.5%,top:13px}
-{{sidenote,top:530px Map 1.4 : Château de Caer-Dineval}}
+![](https://i.imgur.com/l9iOs8g.jpg) {position:absolute,width:94%,right:2.8%,top:1cm}
+{{sidenote,top:570px Map 1.4 : Château de Caer-Dineval}}
 ::
 {{margin-top:495px,wide}}
 {{artist Stacey Allan and Will Doyle}}
+
 
 **Garde-chien.** Dormant parmi les chiens, un jeune Calishite de huit ans nommé Alassar Sulmander (humain neutre non combattant). Il a été trouvé caché dans une caisse de fournitures livrée au château il y a plus d'un mois et effectue maintenant des tâches subalternes pour les cultistes. Alassar connaît le plan du château (niveaux 1 et 2), et il peut être contraint ou soudoyé pour aider les personnages. Il peut se déplacer dans le château sans attirer les soupçons.
 
@@ -2496,7 +2482,9 @@ Le niveau inférieur de chaque tour contient trois cultistes au repos. L'ameuble
 Un escalier en bois longe le mur extérieur et monte au deuxième niveau, qui n'est pas meublé. Les rafales de vent entrent par les fentes des flèches à ce niveau.
 
 **Tour nord-ouest.** Cette tour possède deux caractéristiques supplémentaires au niveau du sol : une trappe en pierre dans le plancher, sous laquelle se trouve une échelle qui descend à la zone C16, et un passage secret menant au bureau de l'orateur (zone C9). La porte secrète est repérée automatiquement par tout personnage qui examine ce pan de mur.
+
 \column
+
 #### C5. Armurerie
 
 Au milieu de cette petite pièce se trouve un râtelier de vingt lances, et contre le mur du fond se trouve un coffre en bois non verrouillé contenant six flacons de feu d'alchimiste. Huit arcs longs et huit carquois sont suspendus à des crochets sur les murs. Chaque carquois contient cinquante flèches.
@@ -2518,7 +2506,7 @@ Deux lits de camp en bois recouverts de fourrures se trouvent dans le coin nord-
 
 {{artist Nikki Dawes}}
 
-{{sidenote,top:600px [Kadroth](#kadroth)}}
+{{sidenote,top:680px [Kadroth](#kadroth)}}
 
 {{watercolor11,top:20px,left:0px,width:500px,background-color:darkgreen,opacity:50%}}
 
@@ -2587,7 +2575,7 @@ La Naine d’Écu dans le fauteuil à bascule est Hethyl Arkorran, une non-comba
 
 ![Hethyl Arkorran](https://5e.tools/img/adventure/IDRotF/030-01-015.Hethyl.png) {width:115%,margin-left:-40px}
 {{sidenote Hethyl Arkorran}}
-:::
+::
 Hethyl est une créature sans cœur - pas cruelle par méchanceté, mais juste brutale et insensible. Elle ne cache pas la vérité et ne mâche pas ses mots, et elle sait que son âme ira dans les neuf enfers à sa mort. Elle a également des visions de l'avenir, ce qui signifie qu'elle est rarement choquée par ce qui se passe autour d'elle. Ces révélations ont permis aux cultistes d'avoir une longueur d'avance sur leurs ennemis pendant longtemps, mais la santé d'Hethyl est en train de se dégrader, et il n'y a rien à faire pour elle étant donné son âge. Elle considère [Kadroth](#kadroth) comme un chef digne de ce nom, mais elle a perdu son respect lorsqu'elle lui a dit que Levistus le déteste. [Kadroth](#kadroth) s'est efforcé d'oublier cette conversation et attend avec impatience le jour où Hethyl tombera raide morte.
 
 Hethyl a prédit sa fin. Elle meurt de causes naturelles immédiatement après avoir partagé les informations suivantes avec les personnages :
@@ -2638,7 +2626,7 @@ Crannoc ne sera pas heureux tant qu'il n'aura pas repris le contrôle du châtea
 Cette pièce a été incendiée il y a des années et n'a jamais été réparée. Il reste des traces d'étagères du sol au plafond le long des murs. Un courant d'air s'échappe d'une cheminée sombre, remuant les toiles d'araignées qui l'entourent.
 }}
 Les fondateurs de Caer-Dineval, la famille Dinev, ont apporté avec eux une vaste collection de livres rares. Cette collection, stockée ici, a été brûlée par les orcs lorsque le château a été mis à sac il y a de nombreuses années. La pièce n'a pas été utilisée depuis.
-::
+
 #### C16. Sous le château 
 
 Si les personnages regardent en bas par la trappe ouverte dans la tour de garde nord-ouest, lisez :
@@ -2671,14 +2659,14 @@ Un passage de 1,5 m de large et de 2,5 m de haut coupe le mur nord à 6 m au-del
 
 **Porte est.** A l'extrémité est de la citerne se trouve une dalle de marbre bleu de 3 mètres de côté et de 2 mètres d'épaisseur, à moitié immergée, qui bloque l'accès à la [zone C23](#C23). Cette dalle est suffisamment éloignée pour que les personnages ne la voient pas avec des torches ou en vision nocturne, à moins qu'ils ne se déplacent plus loin dans la citerne. Le levier qui permet d'abaisser et de relever cette porte se trouve dans la [zone C22](#C22). La porte peut également être ouverte avec un sort de *déblocage* ou une magie similaire.
 
-**Radeau.** Ce bateau est équipé de deux rames et peut accueillir deux personnages de taille moyenne et leur équipement.
+
 
 
 {{pageNumber,auto}}
 {{footnote Chapitre 1 | Dix-Cités}}
 \page
 
-
+**Radeau.** Ce bateau est équipé de deux rames et peut accueillir deux personnages de taille moyenne et leur équipement.
 #### C19. Stockage 
 
 Les personnages peuvent utiliser la barque pour atteindre cette zone, dont le sol est au-dessus du niveau d'eau de la citerne (zone C18). Un rat inoffensif ronge le coin d'un sac de grain posé sur le sol. Cette pièce est entièrement vide.
@@ -2786,8 +2774,7 @@ L'orateur de la ville, le Drakéïde Trovus, qui boit beaucoup, patrouille la nu
 
 ### Caer-Konig en résumé
 
-**Convivialité** ❄❄ **Services** ❄❄ **Confort** ❄❄❄❄.
-
+**Convivialité**:: ❄❄ **Services** ❄❄ **Confort** ❄❄❄❄.
 **Quête disponible.**:: ["Invisible".](#unseen), page 47.
 **Population.**:: 150.
 **Les leaders.**:: L'Orateur Trovus (vétéran Drakéïde argenté neutre bon), un aventurier à la retraite, représente la ville. Trovus a conquis ses concitoyens grâce à sa force et à sa bonne humeur, bien qu'il soit trop direct pour être un bon politicien et qu'il boive trop.
@@ -2797,8 +2784,12 @@ L'orateur de la ville, le Drakéïde Trovus, qui boit beaucoup, patrouille la nu
 **Rivalités.**:: Caer-Dineval, Havre-du-Levant.
 
 
-![cat warrior](https://5e.tools/img/adventure/IDRotF/031-01-016.shield-caer-konig.png) {width:88%,margin:auto,display:flex}
+
+![cat warrior](https://5e.tools/img/adventure/IDRotF/031-01-016.shield-caer-konig.png) {width:85%,margin:auto,display:flex}
 {{artist Couple of kooks }}
+
+
+
 
 {{watercolor4,top:-0px,right:80px,width:300px,background-color:white,opacity:50%}}
 {{watercolor5,top:-0px,right:-80px,width:500px,background-color:white,opacity:90%}}
@@ -2824,12 +2815,12 @@ Glen se procure sa bière auprès des nains qui vivent dans la vallée au pied d
 #### Expéditions Gelointain {{#frozenfar}}
 *Fournisseur d'aventurier*
 :
-Dirigée par un rôdeur chevronné nommé Atenas Swift ( éclaireur humain neutre bon ), cette boutique vend du matériel d'aventure. Attaché à la boutique, il y a un hangar en bois fermé à clé où Atenas stocke une paire de traîneaux à chiens et un chenil où il garde une douzaine de chiens de traîneau en bonne santé (utilisez le bloc de statut de loup pour les représenter). 
+Dirigée par un rôdeur chevronné nommé Atenas Swift ( éclaireur humain neutre bon ), cette boutique vend du matériel d'aventure. Attaché à la boutique, il y a un hangar en bois fermé à clé où Atenas stocke une paire de traîneaux à chiens et un chenil où il garde une douzaine
 
 {{pageNumber,auto}}
 {{footnote Chapitre 1 | Dix-Cités}}
 \page
-
+ de chiens de traîneau en bonne santé (utilisez le bloc de statut de loup pour les représenter). 
 Six chiens suffisent à tirer chaque traîneau. Atenas est aidé par un guide de montagne expérimenté nommé [Jarthra Farzassh]() (Eclaireur Nains d’Écu Loyal bon). Les deux hommes entretiennent d'excellents rapports, agrémentés de quelques plaisanteries.
 
 L'âge a rattrapé Atenas. Il sent le froid dans ses articulations et s'aventure moins souvent qu'autrefois. Aujourd'hui, il préfère rester à l'intérieur tout en proposant les services de Jarthra comme guide sauvage.
@@ -2858,14 +2849,14 @@ Un tas de neige s'agite à votre passage, et quelqu'un caché sous lui se lève 
 
 Lorsqu'il retire l'écharpe qui couvre son visage, vous voyez qu'il s'agit d'un Drakéïde argenté qui tient une bouteille de vin vide comme si c'était une arme. Il rote, vous sourit et dit : "Pardonnez mes manières. Je suis un peu nerveux avec tous ces vols en cours. Je suis Trovus, l'orateur de la ville."
 }}
+![Caer-Konig](https://i.imgur.com/Xjz9eCF.jpg) {width:100%}
+{{sidenote,position:relative Carte 1.5 : Caer-Konig}}
+{{artist Mike Schley}}
 
 Trovus (vétéran Drakéïde argenté neutre bon) passe la plupart de ses journées à boire et à se remémorer les jours 
 
-![Caer-Konig](https://i.imgur.com/Xjz9eCF.jpg) {width:336px,top:1.8cm,right:1.8cm,position:absolute}
-{{sidenote,top:530px Carte 1.5 : Caer-Konig}}
-{{artist Mike Schley}}
-{{margin-top:490px}}
-::
+
+
 passés à l'aventure. Il a patrouillé la nuit à la recherche de voleurs, mais après une nouvelle nuit de beuverie, il s'est évanoui dans la neige au bout de quelques heures. 
 Il n'a aucun souvenir de la façon dont il s'est retrouvé dans le tas de neige ou de la raison pour laquelle il était dehors en train de boire en premier lieu.
 
@@ -2884,14 +2875,14 @@ Si les personnages posent des questions sur la lanterne manquante, il propose de
 
 
 
-![Caer-Konig](https://5e.tools/img/adventure/IDRotF/034-01-017.trovus.png) {position:absolute,width:100%,top:-50px,left:0}
+![Caer-Konig](https://5e.tools/img/adventure/IDRotF/034-01-017.trovus.png) {position:absolute,width:100%,top:0px,left:0}
 
-{{sidenote,top:380px,color:white,
+{{img-desc,top:380px,color:white,
 Trovus, l'orateur Drakéïde de Caer-Konig,   
 boit un verre en gardant l'aurore boréale.
 }}
 
-{{margin-top:402px,wide}}
+{{margin-top:440px,wide}}
 
 
 Pendant qu'ils marchent, Trovus parle de ce qui a été pris à Caer-Konig au cours des trois dernières nuits :
@@ -2921,16 +2912,15 @@ La porte de la cuisine s'ouvre et une femme à l'air sévère entre, tenant un b
 }}
 Si les personnages demandent des détails à Cori, elle explique que la lanterne magique qui décorait l'extérieur de leur auberge ne fait rien d'autre qu'éclairer la zone de différentes couleurs.
 
-Si on leur demande s'il y a une récompense pour s'occuper des voleurs, les sœurs disent qu'elles ont peu d'argent, mais qu'elles peuvent fournir de la nourriture et des lits confortables en échange de l'aide du groupe. Elles offrent même quelques pichets de bière si les personnages peuvent ramener leur lanterne magique à l'auberge. 
-
-Si les personnages acceptent la quête, Allie les emmène à l'arrière de l'auberge, où de faibles traces de pas mènent au Cairn de Kelvin. S'ils refusent la quête, Caer-Konig continue d'être tourmenté par des voleurs invisibles jusqu'à ce que les duergars cessent de chercher le chardalyn dans la ville.
+Si on leur demande s'il y a une récompense pour s'occuper des voleurs, les sœurs disent qu'elles ont peu d'argent, mais qu'elles peuvent fournir de la nourriture et des lits confortables en échange de l'aide du groupe. 
 
 {{pageNumber,auto}}
 {{footnote Chapitre 1 | Dix-Cités}}
 \page
 
+Elles offrent même quelques pichets de bière si les personnages peuvent ramener leur lanterne magique à l'auberge. 
 
-
+Si les personnages acceptent la quête, Allie les emmène à l'arrière de l'auberge, où de faibles traces de pas mènent au Cairn de Kelvin. S'ils refusent la quête, Caer-Konig continue d'être tourmenté par des voleurs invisibles jusqu'à ce que les duergars cessent de chercher le chardalyn dans la ville.
 #### Obtenir un traîneau à chiens
 
 Si les personnages souhaitent suivre les traces suspectes, les sœurs Shorard leur suggèrent de se rendre aux Expéditions Gelointain et de se procurer un traîneau à chiens avant de partir à l'aventure. Si les personnages le font, ils découvrent que Jarthra, le guide de montagne des Expéditions Gelointain, est prêt à accompagner les personnages pour une somme modique de 10 po par jour de voyage. Jarthra a l'avantage sur les tests de Sagesse (Survie) effectués dans les environs du Cairn de Kelvin.
@@ -2942,7 +2932,7 @@ Les pistes qui partent de l'auberge ont été partiellement comblées par la pou
 Si les personnages attendent le matin pour partir, ils trouvent une série d'empreintes fraîches laissées par un éclaireur duergar solitaire. Ce duergar n'est entré dans aucun bâtiment, mais a simplement regardé autour du village avant de partir au petit matin. Suivre les traces de pas mène à un autre ensemble de traces, qui ont été faites par un zombie ogre tirant un traîneau à chiens. Ces nouvelles traces commencent là où celles des duergars se terminent, à un demi-kilomètre de la ville. (L'ogre zombie a attendu toute la nuit le retour du duergar. Le duergar a sauté sur le traîneau à chiens avant d'ordonner à l'ogre zombie de marcher). Tout personnage qui examine ces traces et réussit un test de Sagesse (Survie) DD 15 identifie les traces de la créature comme appartenant à un ogre. Les personnages peuvent suivre ces traces fraîches, qui se dirigent vers la montagne puis bifurquent vers l'avant-poste duergar caché dans les contreforts nord-est du Cairn de Kelvin.
 
 Une fois que les personnages sont à moins d'un kilomètre de l'avant-poste, ils découvrent que le vent a effacé les traces qu'ils suivaient, ce qui rend difficile de trouver la destination exacte. Pour chaque heure que les personnages passent à chercher dans les contreforts, demandez-leur de faire un test de groupe de Sagesse (Survie) DD 15. Jarthra contribue à ce test de groupe, si elle est présente, et a l'avantage sur son jet. Si le test de groupe réussit, les personnages trouvent l'avant-poste. Si le test de groupe échoue, ils n'ont pas trouvé l'avant-poste pendant cette heure mais peuvent réessayer. S'ils échouent à deux tests de groupe consécutifs, les personnages font une rencontre aléatoire dans la nature, éventuellement pendant un blizzard (voir ["Rencontres dans la nature"]() ).
-
+\column
 ### Approcher l'avant-poste
 
 L'avant-poste duergar, une addition récente aux contreforts au nord du Cairn de Kelvin, a été taillé dans le flanc d'une colline. Bien que les duergars soient principalement basés dans la forteresse de montagne de Xardorok (décrite au chapitre 3), ils viennent à cet avant-poste pour se réapprovisionner et se reposer avant de chercher le chardalyn dans les villages voisins. Lorsque les personnages trouvent l'avant-poste des duergars, lisez :
@@ -2956,9 +2946,9 @@ Plus proche de vous, séparé du reste de la forteresse, se trouve un bunker de 
 }}
 Deux duergars guettent les intrusions. L'un est posté dans le bunker (zone O1), l'autre dans le mirador (zone O3). Ces duergars sont fatigués et s'ennuient, mais ils remarquent les personnages qui ont l'imprudence de porter des sources de lumière ou d'annoncer leur présence.
 
-Si la duergar en surplomb voit ce qu'elle perçoit comme une menace, elle tire la sonnette d'alarme en courant jusqu'à l'entrée principale (zone O2) pour relever le pont-levis, en prenant 2 rounds pour le faire. Le duergar dans le bunker est armé d'une arbalète lourde (1d10 dégâts perforants) et tire au hasard sur les menaces visibles.
+Si la duergar en surplomb voit ce qu'elle perçoit comme une menace, elle tire la sonnette d'alarme en courant jusqu'à l'entrée principale (zone O2) pour relever le pont-levis, en prenant 2 rounds pour le faire. 
 
-Les personnages qui réussissent un test de Dextérité (furtivité) DD 10 peuvent s'approcher de la forteresse sans se faire repérer en longeant la falaise nord et en se déplaçant derrière le bunker et sous les ouvertures de la passerelle. Une fois qu'ils ont atteint l'embouchure de la rivière gelée, ils peuvent ramper dans le canal (qui mène sous la zone O2) ou s'approcher discrètement de l'entrée principale sans être détectés.
+
 
 {{note
 ##### Jouer les Duergars
@@ -2977,6 +2967,11 @@ Ces duergars ne négocient pas et refusent de se rendre. Si les personnages capt
 {{pageNumber,auto}}
 {{footnote Chapitre 1 | Dix-Cités}}
 \page
+
+Le duergar dans le bunker est armé d'une arbalète lourde (1d10 dégâts perforants) et tire au hasard sur les menaces visibles.
+Les personnages qui réussissent un test de Dextérité (furtivité) DD 10 peuvent s'approcher de la forteresse sans se faire repérer en longeant la falaise nord et en se déplaçant derrière le bunker et sous les ouvertures de la passerelle.
+
+ Une fois qu'ils ont atteint l'embouchure de la rivière gelée, ils peuvent ramper dans le canal (qui mène sous la zone O2) ou s'approcher discrètement de l'entrée principale sans être détectés.
 
 ### Emplacements de l'avant-poste
 
@@ -3007,7 +3002,7 @@ S'ils ne l'ont pas déjà fait, les duergars du bunker (zone O1) et du surplomb 
 
 **Puits.** Le puits descend de 3 mètres jusqu'à une citerne souterraine. Les parois du puits sont glacées et nécessitent un équipement d'escalade ou de la magie pour les escalader.
 
-\column
+
 
 #### O3. Surplomb
 
@@ -3035,7 +3030,7 @@ Nildar (voir zone O6) guette tout bruit anormal venant de cette zone . Une fois 
 
 **Piège.** Lorsque le levier est tiré, des pointes de fer sortent du sol et du plafond pour former des barrières à travers chaque porte. Une créature qui se trouve dans l'une des ouvertures doit réussir un jet de sauvegarde de Dextérité DD 12 ou subir 7 (2d6) dégâts perforants dus aux pointes et être retenue jusqu'à ce que les pointes soient rétractées ou que la barrière soit détruite. Les pointes ne peuvent être rétractées qu'en tirant le levier une seconde fois.
 
-Ce piège est conçu pour isoler un seul ennemi dans la partie ouest de la pièce, le bloquant de ses alliés avec les piques. Les créatures peuvent voir à travers les espaces entre les pointes, mais les espaces ne sont pas assez grands pour qu'un personnage puisse s'y glisser. Les barrières de pointes accordent une couverture de trois quarts aux créatures qui se trouvent derrière elles. Chaque barrière a une CA de 15, 18 points de vie, et une immunité au poison et aux dégâts psychiques.
+
 
 
 
@@ -3044,12 +3039,13 @@ Ce piège est conçu pour isoler un seul ennemi dans la partie ouest de la pièc
 \page
 
 
-![](https://5e.tools/img/adventure/IDRotF/035-map-1.6-duergar-outpost.jpg) {position:absolute,width:95%,right:2.5%,top:13px}
-{{sidenote,top:530px Map 1.6 : Avant-poste Duergar}}
-::
-{{margin-top:485px,wide}}
+![](https://i.imgur.com/ZGwwpic.jpg) {position:absolute,width:90%,right:5%,top:1cm}
+{{sidenote,top:550px Map 1.6 : Duergar Outpost}}
+
+{{margin-top:480px,wide}}
 {{artist Stacey Allan and Will Doyle}}
 
+Ce piège est conçu pour isoler un seul ennemi dans la partie ouest de la pièce, le bloquant de ses alliés avec les piques. Les créatures peuvent voir à travers les espaces entre les pointes, mais les espaces ne sont pas assez grands pour qu'un personnage puisse s'y glisser. Les barrières de pointes accordent une couverture de trois quarts aux créatures qui se trouvent derrière elles. Chaque barrière a une CA de 15, 18 points de vie, et une immunité au poison et aux dégâts psychiques.
 #### O6. Quartiers du commandant
 
 {{descriptive
@@ -3059,38 +3055,41 @@ Si les personnages ont réussi à traverser la zone O5 sans se battre, ils surpr
 
 L'objet lumineux sur le bureau est une lanterne magique, que Nildar a recouverte d'un sac de jute pour en atténuer la lumière. La lanterne est celle qui a été volée à l'Aurore boréale à Caer-Konig. Elle change de couleur, mais n'a aucune autre propriété magique.
 
-Le morceau de papier froissé sur le bureau porte un message de Durth, le frère aîné de Nildar, écrit au fusain et en nain. La lettre se lit comme suit :
+Le morceau de papier froissé sur le bureau porte un message de Durth, le frère aîné de Nildar, écrit au fusain et en nain. 
+{{
+La lettre se lit comme suit :
 
-{{descriptive
+{{descriptive,font-style:italic
 Frère,
 
 Tu me trouveras sur le ferry gelé de Havre-du-Levant. Depuis cette nouvelle base, la recherche du chardalyn continue. Que notre père règne longtemps sur cette terre sombre !
 
-Durth
+--Durth
 }}
-
+}}
 Les personnages peuvent se rendre sur le ferry ou remettre la lettre de Durth aux autorités d'Havre-du-Levant et les laisser s'occuper de lui (voir ["Havre-du-Levant"]() pour plus d'informations).
 
 **Interpréter Nildar.** Le principal objectif de Nildar est de faire plaisir à son père, dont il partage l'obsession pour la chardalyn. Lorsqu'il ne dirige pas de raids, Nildar passe le plus clair de son temps à examiner les marchandises volées à Caer-Konig et ailleurs. Les éclats sur la table comprennent plusieurs morceaux de verre teinté ordinaire et trois morceaux de chardalyn de la taille d'une dague (voir "Chardalyn"). Avec un test d'Intelligence (Arcane) DD 16 réussi, un personnage peut déterminer que le chardalyn, malgré sa composition cristalline, est malléable, ce qui en fait une matière première idéale pour ceux qui peuvent façonner des objets à partir de cette substance. Aucune autre propriété ne peut être discernée par un test d'aptitude. Ces fragments de chardalyn ne contiennent aucune magie et peuvent être manipulés sans danger.
 
-**Battre Nildar.** Si les personnages capturent Nildar et tentent de lui parler, il grogne et menace les personnages en nain :
-{{descriptive
-" Mon père est plus puissant qu'aucune de vous, créatures dégoûtantes, ne peut l'imaginer. Vous ne comprenez pas sa gloire, le pouvoir qui se trouve dans la glace. Aucun de vous ne le comprend. Mais vous l'apprendrez bien assez tôt quand mon père déchaînera sa terreur sur Dix-Cités ! Votre destin s'envolera sur les ailes d'un dragon !"
-}}
+
+
 
 {{pageNumber,auto}}
 {{footnote Chapitre 1 | Dix-Cités}}
 \page
 
-![](https://5e.tools/img/adventure/IDRotF/037-01-018.nildar.png) {position:absolute,width:60%,top:20px,left:-60px}
-{{sidenote,top:470px,left:250px Nildar Fléau-Solaire}}
+![](https://5e.tools/img/adventure/IDRotF/037-01-018.nildar.png) {position:absolute,width:55%,top:1cm,left:-30px}
+{{sidenote,top:490px,left:250px Nildar Fléau-Solaire}}
 ::
-{{margin-top:445px}}
+{{margin-top:420px}}
 {{artist Shawn Wood}}
 {{watercolor3,top:-0px,left:-80px,width:500px,background-color:lightblue,opacity:100%}}
 {{watercolor5,top:-0px,left:-80px,width:500px,background-color:lightblue,opacity:50%}}
 
-
+**Battre Nildar.** Si les personnages capturent Nildar et tentent de lui parler, il grogne et menace les personnages en nain :
+{{descriptive
+" Mon père est plus puissant qu'aucune de vous, créatures dégoûtantes, ne peut l'imaginer. Vous ne comprenez pas sa gloire, le pouvoir qui se trouve dans la glace. Aucun de vous ne le comprend. Mais vous l'apprendrez bien assez tôt quand mon père déchaînera sa terreur sur Dix-Cités ! Votre destin s'envolera sur les ailes d'un dragon !"
+}}
 Si les personnages laissent Nildar partir ou s'il s'échappe, il quitte l'avant-poste en utilisant le zombie ogre et le traîneau à chiens de la zone O2 ; si ce n'est plus une option, il s'enfuit à pied. Il retourne à la forteresse de son père dans les montagnes (voir chapitre 3), jurant de se venger des personnages et de leur infliger de grandes souffrances si leurs chemins se croisent à nouveau.
 
 **Trésor.** Les personnages qui fouillent la pièce trouvent une petite bourse bourrée dans le duvet de Nildar. Le porte-monnaie contient 24 po et 17 pa.
@@ -3102,7 +3101,7 @@ Cette chambre semble être un bloc cellulaire bordé de portes en pierre dans le
 La fenêtre à barreaux dans le coin nord-est est similaire à celles de la zone O3.
 
 Les trois cellules le long du mur ouest sont vides pour le moment. Chacune des cinq cellules le long du mur sud contient un prisonnier, anciennement un Dix-Citadins ou un nomade Reghed qui a été enlevé et tué par le duergar. En utilisant les spores animatrices d'un souverain myconide, les duergars ont transformé ces humains morts en cinq serviteurs spores (comme décrit dans l'entrée "Myconides" du Manuel des Monstres) couverts de croissances fongiques. Les serviteurs spores sortent de leurs cellules pour attaquer les intrus qui entrent dans la pièce. 
-\column
+
 Ils utilisent le bloc de statistiques des guerriers tribaux, avec ces changements :
 
 - Les serviteurs spores sont des plantes non alignées dont la vitesse de marche est de 6 mètres. Ils ont une vision aveugle jusqu'à une portée de 10 mètres et sont aveugles au-delà de ce rayon. Ils ne peuvent pas être aveuglés, charmés, effrayés ou paralysés.
@@ -3135,7 +3134,7 @@ La ville est un petit groupe d'habitations perché au bord d'Eau Rouge, trop pet
 
 ### La Brèche de Dougan en résumé
 
-**Convivialité** ❄ **Services** ❄ **Confort** ❄
+**Convivialité**:: ❄ **Services** ❄ **Confort** ❄
 
 **Quête disponible.**:: ["Coincé".](#holed-up), page 53.
 **Population.**:: 50.
@@ -3158,7 +3157,7 @@ L'endroit suivant, marqué sur la carte 1.7, ne peut qu'attirer l'attention des 
 #### Les vingt pierres de Thruun
 *Triangle de mégalithes*
 
-Le seul élément vraiment intéressant de la Brèche de Dougan est l'anneau de mégalithes connu sous le nom des Vingt Pierres de Thruun. Situés à l'extrémité sud de la ville, 
+Le seul élément vraiment intéressant de la Brèche de Dougan est l'anneau de mégalithes connu sous le nom des Vingt Pierres de Thruun. Situés à l'extrémité sud de la ville, dix-neuf de ces menhirs de granit grossièrement 
 
 ![cat warrior](https://5e.tools/img/adventure/IDRotF/038-01-019.shield-dougan.png) {width:88%,margin:auto,display:flex}
 {{artist Couple of kooks }}
@@ -3166,7 +3165,8 @@ Le seul élément vraiment intéressant de la Brèche de Dougan est l'anneau de 
 {{watercolor4,top:-250px,right:-130px,width:400px,background-color:grey,opacity:50%}}
 {{watercolor6,top:-250px,right:-030px,width:400px,background-color:white,opacity:80%}}
 :
-dix-neuf de ces menhirs de granit grossièrement façonnés sont disposés en un triangle grossier, avec une seule pierre au centre de la formation. Personne ne sait qui a construit cette structure ni pourquoi ; les habitants de la ville affirment que les pierres étaient là lorsque le fondateur de la ville, un Chondathan nommé Dougan Dubrace, a découvert ce lieu de pêche. 
+façonnés sont disposés en un triangle grossier, avec une seule pierre au centre de la formation.
+ Personne ne sait qui a construit cette structure ni pourquoi ; les habitants de la ville affirment que les pierres étaient là lorsque le fondateur de la ville, un Chondathan nommé Dougan Dubrace, a découvert ce lieu de pêche. 
 
 Les érudits ont essayé de rechercher l'origine du nom de la structure, mais tout ce qu'ils ont trouvé, ce sont des allusions à une créature nommée Thruun dans les plus anciennes légendes des peuples du Nord. Certains spéculent que Thruun était un dieu, tandis que d'autres croient qu'il s'agit d'un esprit élémentaire destructeur lié à cet endroit par une ancienne magie druidique.
 
@@ -3177,14 +3177,16 @@ Deux loups arctiques extorquent aux habitants de la Brèche de Dougan de la nour
 
 Norsu et les loups arctiques résident dans une hutte de glace construite par Garagai. Les loups tentent d'attirer les personnages dans la loge, sachant que Norsu prendra plaisir à les tuer. Silja et Finn Dejarr, deux adolescents de Brèche de Dougan, sont retenus prisonniers dans la loge. Ils ont disparu depuis quatre jours et sont présumés morts. Les loups les retiennent dans une cage et les nourrissent de viande crue pour les maintenir en vie jusqu'à ce que Brèche de Dougan paie une rançon pour leur retour. 
 
+Les personnages attirés dans la hutte de glace par les loups ou engagés par l'orateur Durmoot pour retrouver les adolescents disparus peuvent essayer de sauver Silja et Finn de la hutte du géant du givre et les ramener sains et saufs en ville.
+
 {{pageNumber,auto}}
 {{footnote Chapitre 1 | Dix-Cités}}
 \page
 ![Caer-Konig](https://i.imgur.com/WIEMWp9.jpg) {width:110%,margin-left:-5%,margin-top:-7%}
-{{sidenote,top:510px Map 1.7 : Brèche de Dougan}}
+{{sidenote,top:530px Map 1.7 : Brèche de Dougan}}
 {{artist Mike Schley}}
 ::
-Les personnages attirés dans la hutte de glace par les loups ou engagés par l'orateur Durmoot pour retrouver les adolescents disparus peuvent essayer de sauver Silja et Finn de la hutte du géant du givre et les ramener sains et saufs en ville.
+
 ### Obtenir la quête
 
 Si Brèche de Dougan est la ville de départ de cette aventure, les personnages connaissent déjà une partie de ce qui se passe. Lisez :
@@ -3200,10 +3202,10 @@ La Brèche de Dougan est assaillie par les loups arctiques qui rôdent aux abord
 
 Un quatrième, qui ressemble à sa sœur, intervient. "Ces foutus loups arctiques disent qu'ils ne les rendront pas tant que la ville n'aura pas craché une rançon de roi en nourriture et en or. Cette ville a à peine de quoi nourrir les siens, et il n'y a pas d'or. Personne n'est autorisé à quitter la ville. Les loups jurent de tuer tous ceux qui essaient !"
 }}
-\column
-Les habitants demandent instamment aux personnages de rencontrer l'oratrice Edgra Durmoot avant d'essayer d'aider la ville avec son problème de loups. L'oratrice Durmoot est très têtue. Elle croit fermement que les adolescents disparus sont morts, et elle n'est pas prête à donner de la nourriture aux loups de l'hiver alors que son propre peuple a à peine de quoi se nourrir. Elle laisse les personnages s'occuper des loups arctiques comme ils l'entendent, mais ne leur offre aucune aide.
 
+Les habitants demandent instamment aux personnages de rencontrer l'oratrice Edgra Durmoot avant d'essayer d'aider la ville avec son problème de loups. L'oratrice Durmoot est très têtue. Elle croit fermement que les adolescents disparus sont morts, et elle n'est pas prête à donner de la nourriture aux loups de l'hiver alors que son propre peuple a à peine de quoi se nourrir. 
 
+Elle laisse les personnages s'occuper des loups arctiques comme ils l'entendent, mais ne leur offre aucune aide.
 ### Bon Loup, Méchant Loup
 
 Lorsque les personnages s'approchent pour la première fois des abords de la Brèche de Dougan ou peu après avoir quitté la ville, ils rencontrent deux loups arctiques nommés Koran et Kanan. Voici comment se déroule cette rencontre :
@@ -3237,11 +3239,11 @@ Quand les personnages approchent de la hutte, lisez :
 {{descriptive
 Surplombant la vaste toundra se dresse un édifice imposant entièrement construit en glace. La structure en forme de dôme est facilement trois fois plus haute et plus large que n'importe quel bâtiment des Dix-Cités.
 }}
-Le pavillon a trois grandes ouvertures sur le côté est. Sur le côté sud du bâtiment se trouve un tunnel laissé par un remorhaz qui a dévalisé les réserves de nourriture de la hutte. Les personnages repèrent ce tunnel s'ils font le tour du pavillon à la recherche d'autres entrées.
+Le hutte a trois grandes ouvertures sur le côté est. Sur le côté sud du bâtiment se trouve un tunnel laissé par un remorhaz qui a dévalisé les réserves de nourriture de la hutte. Les personnages repèrent ce tunnel s'ils font le tour de la hutte à la recherche d'autres entrées.
 
-Si Koran et Kanan sont avec les personnages ou sont arrivés avant eux, les deux loups arctique reniflent l'air et informent les personnages que Garagai n'est pas chez lui. Les loups proposent de monter la garde à l'extérieur pendant que les personnages entrent dans la hutte et libèrent les prisonniers. Les personnages qui soupçonnent une trahison peuvent, avec un test de Sagesse (perspicacité) DD 15 réussi, dire que les loups mentent au sujet de Garagai - le géant des glaces est en fait à l'intérieur de la hutte. Ont-ils peur d'affronter leur maître, peut-être, ou y a-t-il une autre raison pour laquelle les loups ne veulent pas entrer ? Aucun test de capacité ne peut répondre à cette question ; les personnages doivent le découvrir par eux-mêmes ! En vérité, les loups arctiques s'attendent à ce que Norsu massacre les personnages, mais au cas où cela ne se produirait pas, ils restent dehors pour attaquer tout personnage qui tenterait de fuir. (Plus précisément, les loups attendent dans la zone L1, à l'est de l'entrée principale du pavillon). Si un loup est tué, l'autre s'enfuit pour éviter un sort similaire.
+Si Koran et Kanan sont avec les personnages ou sont arrivés avant eux, les deux loups arctique reniflent l'air et informent les personnages que Garagai n'est pas chez lui. Les loups proposent de monter la garde à l'extérieur pendant que les personnages entrent dans la hutte et libèrent les prisonniers. Les personnages qui soupçonnent une trahison peuvent, avec un test de Sagesse (perspicacité) DD 15 réussi, dire que les loups mentent au sujet de Garagai - le géant des glaces est en fait à l'intérieur de la hutte. Ont-ils peur d'affronter leur maître, peut-être, ou y a-t-il une autre raison pour laquelle les loups ne veulent pas entrer ? Aucun test de capacité ne peut répondre à cette question ; les personnages doivent le découvrir par eux-mêmes ! En vérité, les loups arctiques s'attendent à ce que Norsu massacre les personnages, mais au cas où cela ne se produirait pas, ils restent dehors pour attaquer tout personnage qui tenterait de fuir. (Plus précisément, les loups attendent dans la zone L1, à l'est de l'entrée principale du hutte). Si un loup est tué, l'autre s'enfuit pour éviter un sort similaire.
 
-### Lieux du pavillon
+### Sites de la hutte
 
 La hutte de glace était l'endroit où Garagai vivait et recevait les autres géants des glaces. Bien que n'étant pas un jarl, Garagai occupait une position respectée parmi les géants des glaces du Grand Nord. Tout dans la loge est construit pour des géants et donc assez grand. Les plafonds à l'intérieur s'élèvent à une hauteur de 9 mètres.
 
@@ -3249,13 +3251,13 @@ Les emplacements suivants sont associés à la carte 1.8.
 
 ![Caer-Konig](https://5e.tools/img/adventure/IDRotF/041-01-020.winter-wolf.png) {position:absolute,width:100%,top:0,left:0}
 
-{{sidenote,top:440px,left:1.8cm,
+{{img-desc,black,top:440px,left:2.5cm,
 Les frères loups arctiques, Koran et Kanan, représentent  
  une menace pour tous ceux qui visitent la Brèche de Dougan.
 }}
 {{artist Robson Michel}}
 
-{{watercolor12,top:420px,left:180px,width:310px,background-color:white,opacity:50%,z-index:1,transform:rotate(-8deg)}}
+
 
 
 {{pageNumber,auto}}
@@ -3267,7 +3269,7 @@ Les frères loups arctiques, Koran et Kanan, représentent
 
 #### L1. Extérieur
 
-Les personnages approchent du pavillon par l'est et ont le choix entre trois entrées. Ces entrées mènent respectivement aux zones L2, L3 et L4. Si les loups arctiques sont présents, ils poussent doucement les personnages vers le tunnel menant à la zone L4.
+Les personnages approchent dr la hutte par l'est et ont le choix entre trois entrées. Ces entrées mènent respectivement aux zones L2, L3 et L4. Si les loups arctiques sont présents, ils poussent doucement les personnages vers le tunnel menant à la zone L4.
 
 #### L2. Chambre à flotteurs
 
@@ -3296,7 +3298,7 @@ La serrure de la porte de la cage peut être crochetée par un personnage utilis
 
 ![Caer-Konig](https://5e.tools/img/adventure/IDRotF/042-01-021.png) {position:absolute,width:100%,top:0,left:0}
 
-{{sidenote,top:410px,color:white
+{{img-desc,top:410px
 La terreur se cache dans les profondeurs  
 glacées de cette hutte de géant des glaces.
 }}
@@ -3309,10 +3311,10 @@ glacées de cette hutte de géant des glaces.
 {{footnote Chapitre 1 | Dix-Cités}}
 \page
 
-![](https://5e.tools/img/adventure/IDRotF/043-map-1.8-frost-giant.jpg) {position:absolute,width:85%,right:7%,top:33px}
-{{sidenote,top:500px Map 1.8 : Pavillon du Géant du Givre}}
+![](https://i.imgur.com/ONQNNP9.jpg) {position:absolute,width:95%,right:2.5%,top:1cm}
+{{sidenote,top:575px Map 1.8 : Hutte du Géant du Givre}}
 ::
-{{margin-top:450px,wide}}
+{{margin-top:490px,wide}}
 {{artist Stacey Allan and Will Doyle}}
 
 #### L4. Couloir d'entrée
@@ -3340,14 +3342,16 @@ C'est dans cette chambre que Garagai se prélassait avec Norsu à ses côtés et
 
 Pour Norsu, la simple présence des personnages profane la tombe de Garagai, et le mammouth réagit en essayant de les encorner avec ses défenses et de les écraser sous ses pieds. Tout personnage qui peut agir avant que Norsu ne prenne son premier tour de combat peut utiliser une action pour tenter de calmer le mammouth avant qu'il n'attaque. Un personnage qui prétend être l'ami de Garagai peut calmer le mammouth en réussissant un test de Charisme (Tromperie) DD 12, tandis qu'un personnage qui jure de venger la mort de Garagai peut calmer le mammouth en réussissant un test de Charisme (Persuasion) DD 12. S'il est calmé, Norsu permet aux personnages d'honorer Garagai en effectuant une prière sur son cadavre gelé ou en lui laissant un cadeau, mais attend des personnages qu'ils se retirent afin qu'il puisse faire son deuil en privé. Si les personnages ne parviennent pas à calmer Norsu ou à le fuir, le mammouth les poursuit. Accablé par une rage inconsolable, il poursuit ses proies au-delà des limites de la hutte mais ne va pas plus loin que 30 mètres avant de faire demi-tour et de rejoindre son maître mort.
 
-Les aventuriers qui ont tué Garagai ont pris sa hache comme trophée ainsi que ses autres possessions personnelles, ne laissant rien de valeur sur le cadavre déchiqueté.
 
  
 
 {{pageNumber,auto}}
 {{footnote Chapitre 1 | Dix-Cités}}
 \page
-**Trône de glace.** Le symbole gravé sur le trône est la rune géante pour "glace", comme peut le constater tout personnage qui réussit un test d'Intelligence (Arcanes) DD 15. Un sort de détection de la magie révèle une aura de magie de conjuration autour de la rune, qui donne du pouvoir au trône. Une créature qui s'assoit sur le trône prend conscience de sa nature magique et peut utiliser une action pendant qu'elle est assise sur le trône pour invoquer un blizzard, qui met 1 minute à se former. Le blizzard engloutit le pavillon, s'étend à 1 km de celui-ci dans toutes les directions, et dure 8 heures. Cette propriété du trône se recharge au bout d'un jour.
+Les aventuriers qui ont tué Garagai ont pris sa hache comme trophée ainsi que ses autres possessions personnelles, ne laissant rien de valeur sur le cadavre déchiqueté.
+
+
+**Trône de glace.** Le symbole gravé sur le trône est la rune géante pour "glace", comme peut le constater tout personnage qui réussit un test d'Intelligence (Arcanes) DD 15. Un sort de détection de la magie révèle une aura de magie de conjuration autour de la rune, qui donne du pouvoir au trône. Une créature qui s'assoit sur le trône prend conscience de sa nature magique et peut utiliser une action pendant qu'elle est assise sur le trône pour invoquer un blizzard, qui met 1 minute à se former. Le blizzard engloutit la hutte, s'étend à 1 km de celui-ci dans toutes les directions, et dure 8 heures. Cette propriété du trône se recharge au bout d'un jour.
 Si le trône de glace est détruit, il cesse d'être magique. Le trône a une CA de 13, 80 points de vie, une résistance aux dégâts perforants et tranchants, une immunité aux dégâts de froid, de poison et psychiques, et une vulnérabilité aux dégâts de feu.
 
 #### L6. Salle de guerre
@@ -3371,7 +3375,7 @@ Garagai avait l'habitude de dormir ici. La chambre est maintenant inoccupée.
 #### L8. Stockage de l'huile de baleine
 
 Un **remorhaz** a creusé un tunnel dans cette pièce. Le tunnel passe sous le mur sud, offrant une entrée alternative dans la hutte.
-
+\column
 Une odeur nauséabonde envahit la pièce, qui contient cinq barils d'huile de baleine. Un baril intact d'huile de baleine pèse 200 kg et peut être vendu à Dix-Cités pour 50 po.
 
 **Trésor.** Le remorhaz a disparu depuis longtemps, mais les personnages qui explorent son tunnel trouvent un étrange résidu blanc givré étalé sur un pan de mur de 1,5 m de long, assez pour remplir une petite bouteille. Cette sécrétion rare s'appelle le thrym ; les remorhaz sont connus pour en exsuder de petites quantités peu avant leur accouchement. Les alchimistes utilisent le thrym pour fabriquer des potions de résistance (au froid) et d'autres concoctions utiles. Une bouteille de thrym se vend 250 po. Tout personnage maîtrisant les fournitures d'alchimiste peut examiner ce résidu et déterminer sa véritable nature en réussissant un test d'Intelligence (Arcane) DD 11.
@@ -3424,15 +3428,15 @@ Un autre événement notable est la récente capture d'un Sorcier Rouge de Thay 
 **Héraldique.**:: Un flocon de neige au centre supérieur d'un champ gris acier, au-dessus d'un champ horizontal marron qui forme la base gauche, et d'un champ bleu foncé qui forme la base droite ; à leur point de rencontre se trouve une fine tour blanche. Le champ marron représente la Route du Levant, la tour représente la ville et le champ bleu représente le Lac Dinneshere.
 **Sacrifice à Auril.**:: Humanoïde (voir ["Sacrifices à Auril"](#Auril-sacrifice),p21).
 **Rivalités.**:: Caer-Dineval, Caer-Konig.
-
 ### Voyage par voie terrestre
 
-La Route du Levant s'étend entre Havre-du-Levant et Bryn Shander. Les chemins enneigés qui bifurquent de cette 
+La Route du Levant s'étend entre Havre-du-Levant et Bryn Shander. Les chemins enneigés qui bifurquent de cette  route mènent à Caer-Dineval et Bon Hydromel.
 ![cat warrior](https://5e.tools/img/adventure/IDRotF/045-01-022.shield-easthaven.png) {width:90%,margin:auto,display:flex}
 
 
 :
-route mènent à Caer-Dineval et Bon Hydromel. Les temps de voyage indiqués dans le tableau Voyage par voie de terre depuis Havre-du-Levant supposent que les personnages sont à pied ; les montures et les traîneaux à chiens peuvent réduire ces temps de 50 %.
+
+ Les temps de voyage indiqués dans le tableau Voyage par voie terrestre depuis Havre-du-Levant supposent que les personnages sont à pied ; les montures et les traîneaux à chiens peuvent réduire ces temps de 50 %.
 {{
 ##### Voyage par voie terrestre depuis Havre-du-Levant
 Vers|Temps de voyage
@@ -3483,9 +3487,10 @@ Durth Fléau-Solaire est tapi dans la cabine. Il sait quand quelqu'un d'autre mo
 **Développement.** Les compagnons de Durth ont parcouru Havre-du-Levant à la recherche de chardalyn. Leur dernière recherche n'a pas porté ses fruits, et ils retournent au ferry 30 minutes après que les personnages y soient montés. Ces trois duergars attaquent tout non-duergar qu'ils rencontrent à bord du navire. S'ils trouvent le cadavre de Durth ou aucun signe de lui à bord du ferry, ils abandonnent le navire et n'y reviennent pas.
 
 Si les personnages capturent Durth, il prévient ses ravisseurs qu'il est le fils de Xardorok Fléau-Solaire, qui revendiquera bientôt Valbise comme son royaume, et qu'il serait imprudent de leur part de s'attirer la colère d'un personnage aussi puissant. Durth ne donne pas d'autres informations. 
-\column
+
 Ses compagnons sont tout aussi silencieux ; cependant, des menaces de mort à l'encontre de Durth ou l'utilisation astucieuse d'un sort de suggestion ou d'une  
-magie similaire peuvent persuader un ou plusieurs d'entre eux de révéler les informations supplémentaires suivantes :
+magie similaire peuvent persuader un  
+ou plusieurs d'entre eux de révéler les informations supplémentaires suivantes :
 
 - Xardorok possède une forteresse cachée dans les montagnes. (La route vers cette forteresse est indiquée sur la carte de Durth à bord du ferry).
 - La forteresse de Xardorok possède une forge alimentée par le cœur encore battant d'un dragon rouge. Dans cette forge, Xardorok fabrique un dragon en chardalyn, avec lequel il prévoit de détruire les Dix-Cités. Le dragon en chardalyn est sur le point d'être terminé.
@@ -3500,18 +3505,18 @@ La truite mouillée, située près des docks, est la taverne la plus grande et l
 
 Bien qu'il soit bien informé, Scython ne sait pas que le duergar s'est embarqué sur son navire (voir "Ferry d'Havre-du-Levant" ci-dessus).
 
-![homebrew mug](https://5e.tools/img/adventure/IDRotF/048-01-023.durth.png) {position:absolute,bottom:-100px,right:-150px,width:650px}
+![homebrew mug](https://5e.tools/img/adventure/IDRotF/048-01-023.durth.png) {position:absolute,bottom:-100px,right:-100px,width:650px}
 {{watercolor2,top:620px,right:80px,width:500px,background-color:#a8dbca,opacity:80%}}
 {{watercolor9,top:700px,right:-100px,width:500px,background-color:#a8dbca,opacity:80%}}
-{{sidenote,bottom:30px,color:white,right:50px Durth Fléau-Solaire}}
+{{img-desc,bottom:2.3cm,color:white,right:2cm Durth Fléau-Solaire}}
 
 {{pageNumber,auto}}
 {{footnote Chapitre 1 | Dix-Cités}}
 \page
 
-![](https://i.imgur.com/LxZvLuZ.jpg) {position:absolute,width:90%,left:5%,top:3%}
-{{margin-top:520px,wide}}
-{{sidenote,top:550px,left:50px Map 1.9 : Havre-du-Levant}}
+![](https://i.imgur.com/LxZvLuZ.jpg) {position:absolute,width:90%,left:5%,top:1cm}
+{{margin-top:490px,wide}}
+{{sidenote,top:560px,left:2cm Map 1.9 : Havre-du-Levant}}
 
 {{artist Shawn Wood (L), Mike Schley (R)}}
 :
@@ -3559,14 +3564,14 @@ Les personnages qui explorent le complexe de la grotte trouvent les corps des p�
 }}
 ![](https://5e.tools/img/adventure/IDRotF/049-01-024.rinaldo.png) {position:absolute,bottom:0,left:0,width:100%}
 
-{{sidenote,top:570px 
+{{img-desc,top:570px,left:2cm,black
 Rinaldo le halfelin dirige une séance de spiritisme  
 pour contacter l'esprit de la Dame Blanche du Lac Dinneshere.
 }}
 \page
 ![Caer-Konig](https://5e.tools/img/adventure/IDRotF/050-01-025.easthaven.png) {position:absolute,width:100%,top:0,left:0}
 
-{{sidenote,top:410px,left:450px,color:white
+{{img-desc,top:410px,left:450px,color:white
 Les habitants d'Havre-du-Levant se réchauffent à la lumière  
 d'un sorcier maléfique brûlé sur un bûcher.
 }}
@@ -3650,20 +3655,20 @@ Un loup sanguinaire affamé hante cette grotte sombre, dont le sol irrégulier e
 {{descriptive
 Cette grotte a d'anciens dessins de personnages en bâton gravés sur sa paroi nord.
 }}
-
+Un personnage qui réussit un test d'Intelligence (Histoire) DD 15 peut interpréter correctement les gravures, qui montrent des géants des glaces remontant une rivière jusqu'à une caverne contenant une source chaude, dans laquelle ils se noient.
 
 
 {{pageNumber,auto}}
 {{footnote Chapitre 1 | Dix-Cités}}
 \page
 
-![](https://5e.tools/img/adventure/IDRotF/051-map-1.10-cauldron.jpg) {position:absolute,width:90%,left:5%,top:2%}
-{{margin-top:500px,wide}}
-{{sidenote,top:520px,left:50px Map 1.10 : Grottes du Chaudron}}
+![](https://5e.tools/img/adventure/IDRotF/051-map-1.10-cauldron.jpg) {position:absolute,width:87%,left:7%,top:1.5cm}
+{{margin-top:480px,wide}}
+{{sidenote,top:550px,left:2cm Map 1.10 : Grottes du Chaudron}}
 
 {{artist Stacey Allan and Will doyle}}
 
-Un personnage qui réussit un test d'Intelligence (Histoire) DD 15 peut interpréter correctement les gravures, qui montrent des géants des glaces remontant une rivière jusqu'à une caverne contenant une source chaude, dans laquelle ils se noient.
+
 
 #### U4. La caverne des gémissements
 
@@ -3696,14 +3701,14 @@ Dans les rochers derrière la chute d'eau sont logés des objets qui ont été p
 \page
 
 ![](https://5e.tools/img/adventure/IDRotF/053-01-026.maud.png) {position:absolute,width:100%,left:0,top:0}
-{{margin-top:465px,wide}}
-{{sidenote,top:450px,left:380px,color:white
+{{margin-top:435px,wide}}
+{{img-desc,top:450px,left:380px,color:white
 Maud Cisaillos utilise son chaudron magique  
 pour préparer un savoureux ragoût humain.
 }}
 
 {{artist Rina Nordsol}}
-:
+
 
 #### U8. Source sacrée
 
@@ -3717,7 +3722,7 @@ Cette grotte est plus élevée que les tunnels qui y mènent, mais elle est faci
 Par nuit claire, la lumière de la lune pénètre dans la grotte par les fissures naturelles du plafond. Du sang frais recouvre le sol glacé, indiquant qu'une ou plusieurs créatures ont été massacrées ici récemment. (C'est ici que les pêcheurs d'Havre-du-Levant sont morts.) La présence d'os est plus évidente que celle du sang : des arêtes de truites, des squelettes humanoïdes en morceaux, des os de petits animaux et d'oiseaux, ainsi que des restes de vêtements et d'armures et quelques armes rouillées.
 
 Au milieu de la grotte, parmi les ossements, se trouve un squelette de géant du givre (voir annexe C) partiellement encastré dans la glace. Il reste inanimé jusqu'à ce qu'il subisse des dégâts ou qu'un intrus pénètre dans l'ossuaire. Au lieu de faire un jet d'initiative pour lui, faites-le agir sur le score d'initiative 1. Le squelette passe ses deux premiers tours de combat à ne rien faire d'autre que de sortir de la glace et de se mettre sur ses pieds, ce qui donne aux personnages le temps de fuir ou de porter quelques coups avant que le squelette n'attaque.
-
+::
 Cette créature a tué les pêcheurs d'Havre-du-Levant, et Maud est la seule à pouvoir la contrôler. Le squelette essaie de tuer toute autre personne qui entre dans cette grotte et poursuit les proies en fuite aussi loin qu'il le peut sans quitter le complexe de la grotte.
 
 
@@ -3761,9 +3766,9 @@ Vous pouvez organiser l'une ou l'autre de ces activités, ou les utiliser toutes
 
 
 
-![cat warrior](https://5e.tools/img/adventure/IDRotF/054-01-027.danneth.png) {width:300px,margin:auto,position:absolute,top:5px,}
+![cat warrior](https://5e.tools/img/adventure/IDRotF/054-01-027.danneth.png) {width:300px,margin:auto,position:absolute,top:1.5cm,}
 {{margin-top:310px}}
-{{sidenote,top:330px,left:390px Orateur Danneth Waylen }}
+{{sidenote,top:2.8cm,left:400px Orateur Danneth Waylen }}
 
 {{artist Olga Drebas}}
 
@@ -3832,9 +3837,9 @@ Les lieux suivants sont associés à la carte 1.11.
 
 
 
-![](https://5e.tools/img/adventure/IDRotF/055-map-1.11-easthaven-town-hall.jpg) {position:absolute,width:90%,left:5%,top:2%}
-{{margin-top:485px,wide}}
-{{sidenote,top:520px,left:50px Map 1.11 : Hôtel de ville d'Havre-du-Levant}}
+![](https://5e.tools/img/adventure/IDRotF/055-map-1.11-easthaven-town-hall.jpg) {position:absolute,width:90%,left:5%,top:1.5cm}
+{{margin-top:500px,wide}}
+{{sidenote,top:570px,left:2cm Map 1.11 : Havre-du-Levant Town Hall}}
 
 {{artist Stacey Allan and Will doyle}}
 :
@@ -3942,9 +3947,9 @@ La maigre bibliothèque d'Havre-du-Levant contient une collection de livres pour
 \page
 
 
-![](https://5e.tools/img/adventure/IDRotF/057-01-028.png) {position:absolute,width:100%,left:0,top:-65px}
-{{margin-top:400px,wide}}
-{{sidenote,top:380px,left:20px,color:white
+![](https://5e.tools/img/adventure/IDRotF/057-01-028.png) {position:absolute,width:100%,left:0,top:-50px}
+{{margin-top:410px,wide}}
+{{img-desc,top:380px,left:2.5cm
 Attaché à une figure démoniaque, il y a une silhouette envoûtante,  
 mais les apparences sont trompeuses
 }}
@@ -3963,7 +3968,7 @@ Les habitants d'Havre-du-Levant peuvent louer ces petites pièces pour des range
 La première pièce utilisée contient plusieurs caisses et barils de stockage. Si les personnages enquêtent davantage, ils découvrent que tous ces récipients sont vides.
 
 La deuxième pièce utilisée a été convertie en un bureau confortable. Deux chaises rembourrées et un bureau en bois sont entassés dans l'espace. Dans le tiroir non verrouillé du bureau se trouve un roman d'amour à moitié terminé, intitulé Perdu dans les Orbes de Lavande.
-::
+
 #### T16. Escaliers vers le donjon
 
 Des escaliers en pierre recouverts de planches de bois mènent au donjon, qui est taillé dans la roche.
@@ -3992,8 +3997,7 @@ Chaque taverne du Valbise est habituée à recevoir des livraisons régulières 
 
 ### Bon Hydromel en résumé.
 
-**Convivialité** ❄❄ **Services** ❄ **Confort** ❄❄
-
+**Convivialité**:: ❄❄ **Services** ❄ **Confort** ❄❄
 **Quête disponible.**:: ["L'hydromel doit couler"](#mead-flow) page 73.
 **Population.**:: 100.
 **Leaders.**:: Aucun. L'orateur Kendrick Rielsbarrow a été tué par un verbeeg, laissant la ville sans chef.
@@ -4001,11 +4005,11 @@ Chaque taverne du Valbise est habituée à recevoir des livraisons régulières 
 **Héraldique.**:: Une chope marron foncé faite d'une section de corne coupée, à laquelle on a ajouté un manche en bois de cerf, debout et centrée sur un champ blanc, représentant les exportations d'hydromel de la ville et son climat froid et enneigé.
 **Sacrifice à Auril.**:: Chaleur (voir ["Sacrifices à Auril"](#Auril-sacrifice),p21).
 **Rivalités.**:: Caer-Dineval, Caer-Konig.
-
+:
 ### Voyage par voie terrestre
 
 Un chemin relie Bon Hydromel à la Route du Levant, traverse la route enneigée et continue vers Caer-Dineval. Un autre chemin enneigé mène à la Brèche de Dougan. Les temps de trajet indiqués dans la table Voyage par voie terrestre depuis Bon Hydromel supposent que les personnages sont à pied ; les montures et les traîneaux à chiens peuvent réduire ces temps de 50 %.
-
+:
 
 
 {{
@@ -4081,7 +4085,7 @@ Une silhouette vêtue d'habits de froid sort de la forêt en courant aussi vite 
 }}
 
 ![Bon Hydromel](https://i.imgur.com/lYWo2G8.jpg) {width:105%,margin:auto,display:flex}
-{{sidenote,top:510px Map 1.12 : Bon Hydromel}}
+{{sidenote,top:530px Map 1.12 : Bon Hydromel}}
 {{artist Mike Schley}}
 ::
 Le personnage est Fef Moryn (scout humain chaotique bon), un trappeur. Il se trouvait dans les bois pour vérifier ses pièges lorsqu'il est tombé sur une scène macabre : cinq membres de la milice de Bon Hydromel, le crâne et la poitrine enfoncés dans le sol. Il est rentré directement chez lui pour alerter la ville.
@@ -4103,9 +4107,9 @@ Ces cinq personnes ont poursuivi le verbeg pendant un certain temps, puis sont d
 {{footnote Chapitre 1 | Dix-Cités}}
 \page
 
-![](https://5e.tools/img/adventure/IDRotF/061-01-030.verbeeg-lair.png) {position:absolute,width:100%,left:0,top:-10px}
-{{margin-top:445px,wide}}
-{{sidenote,top:430px,left:60px,color:white
+![](https://5e.tools/img/adventure/IDRotF/061-01-030.verbeeg-lair.png) {position:absolute,width:100%,left:0,top:0}
+{{margin-top:450px,wide}}
+{{img-desc,top:430px,left:2.8cm
 Les défenses enneigées d'un mammouth  
 marquent l'entrée de la tanière du Verbeeg.
 }}
@@ -4121,7 +4125,7 @@ Les personnages font une rencontre alors qu'ils suivent la piste de l'ogre. Un c
 Si les personnages ont sauvé le renard de Fef Moryn, l'animal s'élance vers le chwinga s'il est autorisé à le faire. Le chwinga s'incline devant le renard et lui offre une baie gelée, que le renard engloutit. Après cela, le chwinga et le renard deviennent rapidement amis. Le chwinga monte sur le renard, accorde un charme de conjuration animale ou l'un des nouveaux charmes décrits dans l'annexe C (voir "Nouveaux charmes du chwinga") au personnage qu'il a touché avec la boule de neige, et s'en va sur le dos du renard. (Pour plus d'informations sur les charmes, voir "Cadeaux surnaturels" dans le Guide du Maître du Donjon). Les personnages peuvent interrompre cette scène s'ils le souhaitent ; le chwinga n'accordera cependant pas son charme surnaturel si les événements se déroulent autrement.
 
 Si les personnages n'ont pas le renard ou choisissent de ne pas le laisser partir, le chwinga les suit jusqu'à la tanière du verbeeg, s'il est autorisé à le faire, mais ne s'aventure pas à l'intérieur.
-::::
+\column
 ### La tanière du Verbeeg
 
 Les grottes et tunnels de la tanière ont des plafonds rugueux de 6 mètres de haut, couverts de grandes stalactites. Les sols sont quelque peu irréguliers, mais pas assez pour constituer un terrain difficile.
@@ -4152,13 +4156,13 @@ Les personnages peuvent entrer dans le repaire des verbeeg par l'un de ces chemi
 {{footnote Chapitre 1 | Dix-Cités}}
 \page
 
-![](https://5e.tools/img/adventure/IDRotF/062-map-1.13-verbeeg-lair.jpg) {position:absolute,width:87%,margin-left:0%,display:flex,margin-top:-30px}
+![](https://5e.tools/img/adventure/IDRotF/062-map-1.13-verbeeg-lair.jpg) {position:absolute,width:87%,left:7%,top:1cm}
 
-{{sidenote,top:495px,left:1.5cm Map 1.13 : La tanière du Verbeeg}}
+{{sidenote,top:530px,left:2cm Map 1.13 : La tanière du Verbeeg}}
 
 {{artist Stacey Allan and Will doyle}}
 :
-{{margin-top:455px,wide}}
+{{margin-top:460px,wide}}
 #### V2. Entrée principale
 
 {{descriptive
@@ -4186,12 +4190,13 @@ L'une des caisses est remplie de paille, que le verbeeg donne aux bêtes. L'autr
 - Un mouton est une bête de petite taille avec 3 (1d6) points de vie et une vitesse de marche de 9 mètres.
 - Il est dépourvu de la caractéristique Charge et de toute attaque efficace, ce qui lui donne un indice de difficulté de 0 (0 XP).
 
-Le verbeeg a acquis son bétail en volant sur la Route du Levant. Il considère ces bêtes comme ses animaux de compagnie et leur a donné un nom à chacun. Il a entraîné l'ogre et l'ours à ne pas les attaquer.
+
 
 
 {{pageNumber,auto}}
 {{footnote Chapitre 1 | Dix-Cités}}
 \page
+Le verbeeg a acquis son bétail en volant sur la Route du Levant. Il considère ces bêtes comme ses animaux de compagnie et leur a donné un nom à chacun. Il a entraîné l'ogre et l'ours à ne pas les attaquer.
 
 **Ce qui mijote.** La viande qui rôtit sur la broche est un morceau de ce qui était Artin Glanhig, un bûcheron nain de Bryn Shander qui a croisé le chemin du verbeeg. Un petit paquet près d'une bûche près du feu contient la hache de guerre d'Artin et ses épaisses bottes de cuir. Le verbeeg est en train de façonner un petit couteau qu'il pourra utiliser pour découdre soigneusement les bottes et réutiliser le cuir.
 #### V4. Fosse à déchets
@@ -4246,7 +4251,7 @@ La statue bénit le bassin, de sorte que toute créature qui s'y abreuve bénéf
 {{pageNumber,auto}}
 {{footnote Chapitre 1 | Dix-Cités}}
 \page
-![](https://5e.tools/img/adventure/IDRotF/064-01-031.gang-the-verbeeg.png) {position:absolute,width:100%,left:0,top:-10px}
+![](https://5e.tools/img/adventure/IDRotF/064-01-031.gang-the-verbeeg.png) {position:absolute,width:100%,left:0,top:-30px}
 {{margin-top:440px,wide}}
 {{sidenote,top:430px,left:60px,color:white
 Gahg la verbeeg a un panier de friandises pour son cher Duhg.
@@ -4396,7 +4401,7 @@ La barmaid de la taverne aux cheveux de jais, Danae Xotal (espionne humaine loya
 {{footnote Chapitre 1 | Dix-Cités}}
 \page
 ![Caer-Konig](https://i.imgur.com/ruHYIS5.jpg) {width:110%,margin-left:-5%,margin-top:-7%}
-{{sidenote,top:510px Map 1.7 : Bois Isolé}}
+{{sidenote,top:530px Map 1.7 : Bois Isolé}}
 {{artist Mike Schley}}
 ::
 
@@ -4498,7 +4503,7 @@ Lorsque les personnages arrivent en vue de la tombe elfique, lisez :
 Les traces mènent à une grande entaille circulaire dans une colline enneigée. Au milieu de ce cercle s'élève un gnomon triangulaire en cristal magnifiquement sculpté de vingt pieds de haut. Une berme de trois mètres de haut, qui longe le bord est du cercle, est entourée de conifères et abrite ce qui ressemble à un sarcophage enterré sous la neige et entouré d'un demi-cercle de piliers de cristal bleu pâle. Au nord de la berme se trouve un belvédère en marbre délicatement sculpté, et au sud de la berme se trouve une rangée de statues en marbre blanc tournées vers l'extérieur, au sommet de piliers en granit.
 }}
 
-:
+:::
 {{monster,frame
 ## Élan Blanc Éveillé
 *Grande Bête, Neutre Mauvais*
@@ -4675,7 +4680,7 @@ Lorsqu'elle est réduite à 0 point de vie, Ravisin utilise son dernier souffle 
 - Ravisin a éveillé de nombreuses bêtes et plantes à travers Valbise. Certaines d'entre elles, comme l'élan blanc, sont maléfiques. D'autres ne le sont pas. Ravisin s'est souvent plainte des scrupules du plésiosaure qu'elle a réveillé à Maer Dualdon (voir "Monstre du lac").
 - Ravisin a utilisé des sorts de rayon de lune pour déclencher le cadran lunaire, ce qui a permis à l'élan blanc de faire des recherches sur les bûcherons et les chasseurs en utilisant le miroir magique dans la zone E7.
 
-::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::
 
 **Sarcophage.** Le contenu d'une trousse d'herboristerie est étalé sur le dessus du sarcophage, que le druide utilise comme table de travail. Le couvercle du sarcophage pèse 150 kg, et le déplacer sur le côté fait que la tombe se remplit d'une horrible odeur de pourriture.
 
@@ -4805,7 +4810,7 @@ Le chien (utilisez le bloc de statistiques du loup), dont le nom est Garçon, s'
 
 
 ![Targos](https://i.imgur.com/AmAKfML.jpg) {width:110%,margin-left:-5%,margin-top:-7%}
-{{sidenote,top:510px Map 1.16 : Targos}}
+{{sidenote,top:530px Map 1.16 : Targos}}
 {{artist Mike Schley}}
 ::
 
@@ -4822,10 +4827,10 @@ Keegan n'a pas rencontré les aventuriers qui ont engagé Garret, il ne sait don
 
 \column
 
-{{descriptive,margin-top:-10px,position:absolute,display:flex,width:320px
+{{descriptive,margin-top:-10px,position:absolute,display:flex,width:360px
 " C'est beaucoup demander, mais pourrais-je vous persuader d'aller là-haut et de retrouver Garret et ses compagnons ? Je n'ai pas d'argent, mais le propriétaire des bras de Luskan est un de mes amis. Je pourrais vous obtenir des chambres gratuites à l'auberge. Je suis aussi un graveur d'os et je peux vous donner certaines de mes œuvres d'art. Ça ne vaut pas grand-chose, je l'avoue."
 }}
-{{margin-top:135px}}
+{{margin-top:120px}}
 Keegan a une grande confiance dans les capacités de survie de Garret, c'est pourquoi il croit sincèrement que Garret est peut-être encore en vie. Si les personnages acceptent cette quête, Keegan leur suggère de visiter les Expéditions Gelointain à Caer-Konig (voir ["Expéditions Gelointain"](#frozenfar)), qui est probablement le dernier endroit où quelqu'un aurait vu Garret avant qu'il n'escalade la montagne. Si les personnages veulent emmener Garçon avec eux, Keegan ne protestera pas.
 
 ### Voyage vers le Cairn de Kelvin
@@ -5068,7 +5073,7 @@ Le Côté Est est l'endroit où séjournent la plupart des visiteurs de la ville
 
 
 ![Targos](https://i.imgur.com/coFIL36.jpg) {width:110%,margin-left:-5%,margin-top:-7%}
-{{sidenote,top:510px Map 1.18 : Termalaine}}
+{{sidenote,top:530px Map 1.18 : Termalaine}}
 {{artist Mike Schley, Claudio Pozas}}
 ::
 
@@ -5213,17 +5218,17 @@ Les mineurs ont été forcés de quitter cette zone en vitesse lorsque les kobol
 {{descriptive
 Des planches et des entretoises en bois forment une passerelle le long de la paroi d'un puits vertical apparemment sans fond. Une étroite cascade descend le long de la paroi nord-est, et le bruit de l'eau qui coule est fort dans cet espace confiné.
 }}
-
+Les personnages utilisant la vision nocturne ou une source de lumière plus brillante qu'une bougie peuvent voir d'autres passerelles attachées au côté nord-ouest du puits,
 
 \page
 
 
 ![](https://5e.tools/img/adventure/IDRotF/085-map-1.19-gem-mine.jpg) {position:absolute,width:90%,left:5%,top:1%}
-{{margin-top:455px,wide}}
+{{margin-top:480px,wide}}
 {{sidenote,top:505px,left:50px Map 1.19 : Mine de Gemmes}}
 
 {{artist Stacey Allan and Will doyle}}
-Les personnages utilisant la vision nocturne ou une source de lumière plus brillante qu'une bougie peuvent voir d'autres passerelles attachées au côté nord-ouest du puits, 10 mètres plus bas. En raison du bruit de la cascade, les personnages doivent crier s'ils veulent communiquer entre eux dans cette zone.
+ 10 mètres plus bas. En raison du bruit de la cascade, les personnages doivent crier s'ils veulent communiquer entre eux dans cette zone.
 
 **Saboteurs kobolds.** La cascade d'eau noie le bruit fait par deux kobolds du Valbise (voir annexe C) qui s'accrochent à la partie inférieure de la passerelle. Ces kobolds, nommés Scorp et Thwip, utilisent des scies pour affaiblir les montants en bois afin que la passerelle s'effondre si une créature pesant plus de deux kobolds tente de s'y tenir debout. Ces kobolds ont besoin d'un jour de plus pour achever leur sabotage ; en attendant, la passerelle est sûre.
 
@@ -5248,13 +5253,13 @@ Les personnages qui cherchent des traces dans la poussière et réussissent un t
 {{descriptive
 Un trou dans le côté ouest de cette chambre s'ouvre sur le puits central, laissant passer le son de la cascade. Le sol de l'extrémité nord de la caverne est 1, 5 m plus haut que celui de l'extrémité sud, une crête rocheuse les séparant et une pente de chaque côté menant au sommet de la crête. Les murs au-dessus de la crête brillent de dépôts de pierres précieuses.
 }}
-Un grell flotte près du plafond de 6 mètres de haut. Un personnage qui a un score de Sagesse passive (Perception) de 16 ou plus remarque le grell. Si plusieurs personnages entrent dans la caverne, le grell n'attaque pas et tente de rester caché. Si les personnages quittent la caverne, il les suit, en restant toujours à au moins 10 mètres de distance. 
+Un grell flotte près du plafond de 6 mètres de haut. Un personnage qui a un score de Sagesse passive (Perception) de 16 ou plus remarque le grell. Si plusieurs personnages entrent dans la caverne, le grell n'attaque pas et tente de rester caché. Si les personnages quittent la caverne, il les suit, en restant toujours à au moins 10 mètres de distance. Lorsqu'une occasion d'attaquer un membre isolé du groupe se présente, le grell plonge et tente de paralyser sa proie, 
 
 {{pageNumber,auto}}
 {{footnote Chapitre 1 | Dix-Cités}}
 \page
 
-Lorsqu'une occasion d'attaquer un membre isolé du groupe se présente, le grell plonge et tente de paralyser sa proie, puis ramène sa prise ici pour la dévorer. Après s'être nourri, il laisse tomber les restes de sa victime dans le puits central.
+puis ramène sa prise ici pour la dévorer. Après s'être nourri, il laisse tomber les restes de sa victime dans le puits central.
 
 **Trésor.** Si un personnage utilisant un pic de mineur passe une heure à ébrécher les murs au-dessus de la crête, lancez des dés de pourcentage et consultez la table des découvertes minières (voir zone M2) pour déterminer ce qui a été trouvé, le cas échéant.
 
@@ -5329,7 +5334,7 @@ Des géodes étincelantes vous accueillent lorsque vous entrez dans cette cavern
 
 **Trésor.** Un personnage utilisant un pic de mineur qui passe une heure à ébrécher les murs peut retirer une géode intacte d'une valeur de 10 po. Jusqu'à cinquante géodes intactes peuvent être acquises de cette manière.
 \column
-:::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::
 ### Retour à Termalaine
 
 Si les personnages retournent voir l'Orateur Masthew et lui disent que la mine est débarrassée des monstres, il les remercie abondamment et leur explique qu'il doit inspecter la mine pour vérifier sa sécurité avant de pouvoir les payer. Il encourage les personnages à passer quelques jours à Termalaine pendant qu'il mène l'enquête.
@@ -5438,7 +5443,7 @@ Au lieu de séduire les joueurs avec les histoires à dormir debout de la sectio
 *Quête de la Cloche d'Angajuk (voir ["La cloche d'Angajuk"](#angajuk-bell))*
 :
 Les Dix-Citadins ont besoin d'huile de baleine pour garder leurs poêles et leurs lampes allumés, et la plupart de cette huile provient des chasseurs de baleines sur la Mer de Glace Mouvante, qui est devenue plus tempétueuse et difficile à naviguer ces derniers mois. Helka Jaggerath (demi-elfe roturier), un marchand d'huile de baleine à Bryn Shander, engage les personnages pour lui servir de gardes du corps alors qu'elle se rend à la Cloche d'Angajuk et sonne la cloche pour invoquer la baleine.
-
+:::
 Là, ils doivent l'aider à persuader le cachalot éveillé de les transporter jusqu'aux baleiniers campés sur la banquise de la mer de glace mouvante afin qu'Helka puisse acheter autant de fûts d'huile de baleine que possible.
 
 Chaque tonneau d'huile de baleine pèse 20 kg et coûte 25 po. Helka a 300 po, ce qui est suffisant pour acheter six barils d'huile de baleine et pour payer les personnages 150 po pour leur aide à ramener les barils en toute sécurité à Bryn Shander. Elle s'attend à ce que l'expédition entière dure un jour, en supposant que Angajuk coopère. Helka avertit les personnages de ne pas dire à Angajuk ce que contiennent les tonneaux, car la vérité pourrait contrarier la baleine. Son plan consiste à dire à Angajuk que les tonneaux contiennent de l'huile de poisson et non de l'huile de baleine.
@@ -5612,11 +5617,10 @@ Autrefois, Arveiaturace servait un sorcier nommé Meltharond, dont le cadavre co
 {{pageNumber,auto}}
 {{footnote Chapitre 2 | Valbise}}
 \page
-![](https://5e.tools/img/adventure/IDRotF/091-02-002.dragon.png) {position:absolute,width:90%,left:2cm,top:1cm}
+![](https://5e.tools/img/adventure/IDRotF/091-02-002.dragon.png) {position:absolute,width:100%,left:0,top:-25px}
 {{margin-top:415px,wide}}
-{{sidenote,top:440px,left:5cm
-Arveiaturace le Dracosire Blanc  
-et son mystérieux cavalier
+{{sidenote,top:420px,left:20px
+Arveiaturace le Dracosire Blanc et son mystérieux cavalier
 }}
 {{watercolor6,top:20px,left:30px,width:300px,background-color:#60afb7,opacity:80%}}
 
@@ -5728,7 +5732,7 @@ Si un ou deux lions des neiges sont rencontrés, ils traquent les personnages ma
 Si trois ou quatre lions des neiges sont rencontrés, leur nombre les enhardit. Ils attaquent le groupe d'aventuriers comme une meute bien coordonnée, en concentrant leurs attaques sur le membre du groupe qui semble le plus faible et le moins bien armé. Si deux lions des neiges ou plus meurent, les autres battent en retraite.
 #### Druide du givre et ses amis
 
-Un **druide du givre** (voir annexe C) s'approche des personnages sous la forme d'une chèvre de montagne ou d'un harfang des neiges. Le druide du givre, qui est humain et peut être de n'importe quel sexe, est rejoint par trois créatures qui sont les bénéficiaires du sort de druide *éveil* . Ces bêtes et plantes éveillées servent de compagnons et d'espions au druide, et partagent son caractère maléfique. Lancez un d4 et consultez la table Amis du druide givré pour déterminer chaque créature, ou lancez un seul jet et supposez que toutes les créatures sont du même type de bête ou de plante. (Il n'y a pas de problème si plusieurs créatures du même type sont présentes, car le druide peut favoriser un certain type de bête ou de plante).
+Un druide du froid (voir annexe C) s'approche des personnages sous la forme d'une chèvre de montagne ou d'un harfang des neiges. Le druide du givre, qui est humain et peut être de n'importe quel sexe, est rejoint par trois créatures qui sont les bénéficiaires du sort d'éveil du druide. Ces bêtes et plantes éveillées servent de compagnons et d'espions au druide, et partagent son caractère maléfique. Lancez un d4 et consultez la table Amis du druide givré pour déterminer chaque créature, ou lancez un seul jet et supposez que toutes les créatures sont du même type de bête ou de plante. (Il n'y a pas de problème si plusieurs créatures du même type sont présentes, car le druide peut favoriser un certain type de bête ou de plante).
 
 ***Déroulement de la rencontre*** Le druide du givre a pour objectif de tuer les personnages ou de les renvoyer en courant aux Dix-Cités. Si le druide est tué ou capturé, ses compagnons éveillés se comportent comme des humains intelligents face à la perte de leur chef : soit ils perdent le moral et fuient, soit ils deviennent enragés et se battent jusqu'au bout.
 L'un des sorts préparés du druide de givre est Rayon de lune, qui peut révéler la véritable forme de tout personnage possédant le secret du Doppelganger (voir annexe B).
@@ -5770,13 +5774,10 @@ Ces gnolls viennent de l'abîme caquetant (voir "Abîme caquetant"), qui leur fo
 ![](https://cdna.artstation.com/p/assets/images/images/019/714/252/4k/carlos-amaral-carlos-amaral-artofamra-gnoll-1.jpg?1564689143) {width:450px,position:absolute,bottom:30px,left:-10px,mix-blend-mode:darken}
 {{artist Carlos Amaral}}
 
+\column
 #### Groupe de goliaths
 
 Les personnages rencontrent quatre guerriers goliaths (voir annexe C). Ils avancent dans la neige en file indienne, espacés d'environ 3 mètres.
-
-
-\column
-
 
 ***Déroulement de la rencontre.*** Ces goliaths sont soit des membres du clan Akannathi de l'Abri de la Tourciel (voir "Abri de la Tourciel"), soit des membres du clan Thuunlakalaga du Rocher de Ruine-Dragon (voir "Rocher de Ruine-Dragon"). Les goliaths de l'Abri sont indifférents aux personnages, mais les goliaths du Rocher sont amicaux.
 Les goliaths peuvent être impliqués dans une quête, une chasse au trésor ou un défi élaboré. Ils peuvent aussi être à la recherche d'Oyaminartok (voir l'entrée "Goliaths" dans l'annexe C) ou d'un ami qui a été séparé d'eux dans un blizzard. Ils n'attaqueront pas les personnages sans raison, mais les goliaths de Ruine-Dragon peuvent défier un ou plusieurs personnages dans une compétition athlétique. Si les personnages acceptent ce défi, faites un jet sur la table des concours athlétiques pour déterminer quel jeu les goliaths proposent. Les goliaths sont surtout intéressés par le droit de se vanter, mais ils sont ouverts à d'autres récompenses possibles. Par exemple, les personnages peuvent proposer que l'équipe perdante porte l'équipement de l'équipe gagnante pendant une journée.
@@ -5859,7 +5860,7 @@ Si les personnages rencontrent des nomades Reghed, déterminez à quelle tribu a
 Les personnages ayant le background Sauvageon ont un avantage sur les tests de capacité pour améliorer l'attitude des chasseurs ou des nomades Regh. Cependant, avant de pouvoir effectuer un tel test, un personnage doit donner aux chasseurs ou aux nomades quelque chose d'utile (des provisions ou de l'herbe à pipe, par exemple) ou les honorer, eux ou leur chef, avec un cadeau.
 
 Si les personnages font passer l'attitude d'un groupe de nomades Regh de l'indifférence à l'amitié, les nomades invitent le groupe dans leur campement le plus proche (voir ["Camp de la tribu Regh"]()), où les nomades fournissent nourriture, boisson et abri.
-::::::::
+::
 ##### Tribus Regh
  d20 | Tribu | Attitude de départ 
 ---|---|---
@@ -5968,7 +5969,7 @@ Les lieux d'aventure qui suivent sont conçus pour des personnages de niveau 4 a
 {{footnote Chapitre 2 | Valbise}}
 \page
 ![Targos](https://5e.tools/img/adventure/IDRotF/097-map-2.2-angajuks-bell.jpg) {width:110%,margin-left:-5%,margin-top:-7%}
-{{sidenote,top:510px Map 2.2 :  La Cloche d’Angajuk}}
+{{sidenote,top:530px Map 2.2 :  La Cloche d’Angajuk}}
 {{artist Mike Schley, Claudio Pozas}}
 ::
 ## La Cloche d'Angajuk
@@ -6200,7 +6201,7 @@ L'odeur du vin remplit cette pièce, qui contient quatre barils couverts de givr
 Macreadus était un grand buveur, et les tonneaux contiennent sa réserve de vin d'été aux myrtilles. Tout personnage connaissant bien les fournitures de brasserie sait que ce vin provient d'un vignoble de la vallée de Dessarin, à des centaines de kilomètres au sud. Le froid extrême a fait geler le vin.
 
 Malgré son incapacité à prendre part aux libations, l'esprit de Macreadus réagit mal aux personnages qui décongèlent et boivent cette réserve privée.
-::::
+
 #### B6. Laboratoire
 
 {{descriptive
@@ -6307,7 +6308,7 @@ Les personnages qui regardent par-dessus le bord du gouffre glacé peuvent voir 
 ![Chyzka the Gnoll Fang of Yeenoghu](https://5e.tools/img/adventure/IDRotF/104-02-009.chyzka.png) {width:110%,margin-left:-5%,margin-top:-10%}
 {{sidenote,top:420px,left:50px Chyzka, le croc de Yeenoghu}}
 {{artist Stephen Oakley}}
-:::
+:
 Une recherche dans la zone environnante révèle une bouche de grotte près de l'extrémité sud du gouffre (zone Z1). Dans la bouche de la grotte se trouvent des marches menant à la zone Z2, qui mène à la corniche la plus haute du précipice. Les personnages peuvent également utiliser la magie ou un équipement d'escalade pour descendre dans le gouffre.
 
 ### Lieu de l'Abîme Caquetant
@@ -6386,9 +6387,9 @@ Des gnolls décharnés et frissonnants se blottissent autour d'un feu qui crépi
 La nuit, cette grotte contient douze gnolls. Ce nombre tombe à six pendant la journée, car la moitié des gnolls quittent l'abîme pour chercher de la nourriture. Les gnolls se serrent les uns contre les autres pour se réchauffer. Ils sont tous affamés et émaciés.
 
 ![Targos](https://5e.tools/img/adventure/IDRotF/105-map-2.4-cackling-chasm.jpg) {width:100%,margin-left:%,margin-top:-0%}
-{{sidenote,top:480px Map 2.4 : Abîme Caquetant}}
+{{sidenote,top:500px Map 2.4 : Abîme Caquetant}}
 {{artist stacey allan and Will Doyle}}
-::
+:
 #### Z7. Magasin
 
 {{descriptive
@@ -6514,7 +6515,7 @@ Des centaines de stalactites s'accrochent au plafond de trois mètres de haut de
 {{footnote Chapitre 2 | Valbise}}
 \page
 ![Targos](https://5e.tools/img/adventure/IDRotF/107-map-2.5-berserkers.jpg) {width:110%,margin-left:-5%,margin-top:-7%}
-{{sidenote,top:510px Map 2.5 :  Grotte des berserkers}}
+{{sidenote,top:530px Map 2.5 :  Grotte des berserkers}}
 {{artist Stacy Allan and Will doyle}}
 ::
 Un sort de *détection de la magie* révèle une puissante aura de magie d'abjuration autour du brasero en pierre d'un mètre de haut, qui s'élève naturellement du sol et n'est donc pas un objet discret. Il ne peut pas être déplacé ou endommagé, et sa flamme magique ne peut pas être étouffée ou éteinte avec de l'eau. Toute créature qui entre en contact direct avec le feu pour la première fois pendant un tour subit 10 (3d6) dégâts de froid.
@@ -6795,7 +6796,7 @@ Contrairement à la plupart des Flagelleurs mentaux, qui préfèrent communiquer
 
 ![](https://5e.tools/img/adventure/IDRotF/113-02-012.nautiloid.png) {position:absolute,bottom:-20px,left:0,width:100%}
 
-{{sidenote,top:680px,color:white,left:2cm
+{{sidenote,top:670px,color:white,left:60px
 Des créatures d'un autre monde sortent d'un nautiloïde illithid qui s'est écrasé.
 
 }}
@@ -7013,8 +7014,8 @@ Vorryn et Dredavex ont relâché une **bulette** hostile dans la nature après l
 Les personnages remarquent la bulette pour la première fois lorsqu'elle est à 30 mètres d'eux, et qu'elle est aux trois quarts couverte par la neige. Lorsqu'elle arrive à moins de 10 mètres du groupe, la bulette sort de la neige et utilise son Saut Implacable.
 
 Si les personnages ne la tuent pas, la bulette migre progressivement vers Dix-Cités.
-
-![](https://www.aidedd.org/dnd/images/bulette.jpg) {display:flex,margin:auto,width:420px,mix-blend-mode:multiply,position:absolute,bottom:2cm,left:10px}
+:::::
+![](https://www.aidedd.org/dnd/images/bulette.jpg) {display:flex,margin:auto,width:420px,mix-blend-mode:multiply,position:absolute,bottom:0,left:10px}
 
 \column
 
@@ -7150,7 +7151,7 @@ Wyrm
 \column
 
 ![Targos](https://5e.tools/img/adventure/IDRotF/117-map-2.8-jarlmoot.jpg) {width:110%,margin-left:-5%,margin-top:%}
-{{sidenote,top:520px Map 2.8 :  Jarlmoot}}
+{{sidenote,top:550px Map 2.8 :  Jarlmoot}}
 {{artist Stacy Allan and Will doyle}}
 ::
 
@@ -7236,8 +7237,6 @@ La forteresse est construite sur le flanc d'une montagne de manière à utiliser
 
 Le climat dans les montagnes est si violent que les structures de Karkolohk se détachent parfois et s'écrasent sur le flanc de la montagne. D'autres fois, des expériences de chimie qui tournent mal envoient des structures en bois dans les flammes. Ainsi, le fort est toujours occupé à construire et à réparer.
 
-\column
-
 #### Mentalité des gobelins
 
 Le chef Yarb-Gnock a appris aux gobelins à saisir leur destin et à ne reculer devant rien pour obtenir ce qu'ils veulent. Créatures opportunistes, ils considèrent tout signe de faiblesse comme une ouverture pour prendre l'avantage. Si l'intimidation ne fonctionne pas, les gobelins utilisent des tactiques plus sournoises et passives-agressives. S'ils pensent qu'ils sont en situation de désavantage ou qu'ils vont subir une perte inévitable, les gobelins feront tout ce qu'ils peuvent pour se sortir d'une telle situation, que ce soit par la corruption, la flatterie ou la trahison.
@@ -7299,7 +7298,7 @@ Si une alarme retentit, les gobelins commencent à chercher des cibles au sol po
 {{descriptive
 Cette tour de guet en bois de 10 mètres de haut est reliée aux crêtes enneigées de chaque côté par des ponts en bois. Deux cages en fer vides y sont suspendues et, sous la plate-forme surélevée de la tour, se trouve une construction de 3 mètres de haut ressemblant à un golem avec une tête en forme de casque. Cet engin humanoïde est attaché à un arrangement de cordes et de poulies qui le font ressembler à une marionnette géante.
 }}
-Lorsque des annonces ou des cris de ralliement doivent être lancés, c'est au sommet de cette tour que le chef Yarb-Gnock se tient pour s'adresser à la tribu des gobelins. Aucun gobelin ne s'y trouve actuellement, bien qu'elle soit 
+Lorsque des annonces ou des cris de ralliement doivent être lancés, c'est au sommet de cette tour que le chef Yarb-Gnock se tient pour s'adresser à la tribu des gobelins. Aucun gobelin ne s'y trouve actuellement, bien qu'elle soit assez fréquentée. Une échelle en bois branlante relie la plate-forme au sol. Le dessous de la plate-forme est équipé 
 
 
 {{pageNumber,auto}}
@@ -7312,7 +7311,7 @@ Map 2.9 : Karkolohk
 }}
 {{artist Stacy allan and will doyle }}
 :
-assez fréquentée. Une échelle en bois branlante relie la plate-forme au sol. Le dessous de la plate-forme est équipé d'un système de cordes et de poulies que les gobelins peuvent utiliser pour hisser tout ce qui est plus lourd qu'un gobelin, et le dessus de la plate-forme est équipé de trappes recouvertes de neige qui peuvent être soulevées pour accéder au gréement en dessous.
+d'un système de cordes et de poulies que les gobelins peuvent utiliser pour hisser tout ce qui est plus lourd qu'un gobelin, et le dessus de la plate-forme est équipé de trappes recouvertes de neige qui peuvent être soulevées pour accéder au gréement en dessous.
 
 ***Construction suspendue.*** La construction suspendue sous la plate-forme est un **Gardien animé** qui a survécu à la chute d'Ythryn, mais pas son maître. Il a été lourdement endommagé dans le crash ; par conséquent, son maximum de points de vie est réduit à 80. Pour activer et contrôler le Gardien animé, les personnages ont besoin de son amulette, qui se trouve dans une ancienne tour qui s'est détachée lors de la chute d'Ythryn et s'est écrasée dans la toundra (voir "La Flèche perdue de Nétheril"). Ils doivent également faire fonctionner le système de poulies et de cordes des gobelins pour le descendre au sol ; pour comprendre le fonctionnement du système, il faut réussir un test d'Intelligence DD 15. 
 
@@ -7343,7 +7342,7 @@ Une passerelle en bois de 6 mètres de long est accrochée au bord d'un précipi
 
 
 
-::::::::::::::::::::::::::::
+:::::::::::::::::::::::::
 {{monster,frame
 ## Spellix Romwod
 *Petit Humanoïde (Gnome), Chaotique Neutre*
@@ -7481,7 +7480,7 @@ Un personnage qui examine la protubérance peut faire un test d'Intelligence (Hi
 #### Entrée glissante
 
 Les personnages qui fouillent la zone autour de la protubérance trouvent un tunnel glissant de 1,5 m de diamètre qui pénètre dans le sol à un angle raide, puis s'enfonce dans la terre gelée. Un personnage se déplaçant dans le tunnel sans l'aide d'un équipement d'escalade ou de magie doit réussir un test de Force (athlétisme) DD 15 ou glisser de manière incontrôlée jusqu'au fond, atterrissant à plat ventre dans la zone P1 mais ne subissant aucun dégât. Les personnages peuvent renoncer à l'escalade et simplement glisser dans le tunnel, avec un résultat similaire. Pour remonter à la surface, il faut un équipement d'escalade ou de la magie.
-\column
+
 ### Vue d'ensemble de la Flèche perdue
 
 En plus de montrer les quatre niveaux de la flèche, la carte 2.10 présente une vue latérale de la flèche dans son état d'origine et une coupe transversale montrant son état actuel : brisée, en grande partie enterrée et à l'envers.
@@ -7653,7 +7652,7 @@ Cette amulette de gardien animé particulière est un objet magique rare qui né
 
 
 ![Chyzka the Gnoll Fang of Yeenoghu](https://5e.tools/img/adventure/IDRotF/134-02-022.shield-guardian-amulet.png) {width:100%,margin-left:%,margin-top:-5%}
-{{sidenote,top:440px,left:230px Amulette de Gardien Animé}}
+{{sidenote,top:470px,left:30px Amulette de Gardien Animé}}
 {{artist Stephen Oakley}}
 ::
 *De l'ombre, la substance.*:: Cet ouvrage spéculatif traite de la manière dont on peut exploiter la Trame pour transformer un objet ou une créature illusoire en son équivalent réel, avec des commentaires et des critiques d'illusionnistes néthérisses notables.
@@ -7781,7 +7780,7 @@ Le vrai Dzaan pourrait se trouver devant le mythallar de la zone Y23 du chapitre
 Dzaan et son garde du corps nécrophage, Krintaas
 }}
 ---->
-\column
+::
 
 
 ## Camp de la tribu Regh
@@ -7844,14 +7843,13 @@ Les tentes du cercle extérieur abritent les autres membres du clan, notamment l
 La nourriture est essentielle, bien sûr, et certaines bêtes de la toundra sont des aliments de base pour les tribus Regh. Les truites et les phoques sont souvent préparés pour être mangés très près du lieu de leur capture, en filets ou en morceaux et généralement consommés crus. La viande de renne, en revanche, doit être cuite avant d'être consommée. 
 
 ![Targos](https://5e.tools/img/adventure/IDRotF/135-map-2.11-reghed-camp.jpg) {width:110%,margin-left:-5%,margin-top:-%}
-{{sidenote,top:520px Map 2.11 :  Camp de Tribu Regh}}
+{{sidenote,top:550px Map 2.11 :  Camp de Tribu Regh}}
 {{artist Stacey Allan and Will Doyla}}
-::::
+::
 
 Les rennes fournissent également aux tribus Regh des tendons, des os et des peaux, qui sont tous utilisés pour la fabrication d'armes et d'armures.
 
 De nombreux chasseurs et guerriers du camp préfèrent dormir à la belle étoile, protégés du froid par d'épaisses couvertures de fourrure et la chaleur des feux de camp.
-
 
 
 #### Tente du chef de tribu
@@ -8037,7 +8035,7 @@ Chacune de ces quatre tours triangulaires est haute de deux étages. La partie i
 \page
 ![](https://5e.tools/img/adventure/IDRotF/138-map-2.12-revels-end.jpg) {width:90%,left:5%,position:absolute}
 {{artist Stacey allan and will doyle}}
-{{sidenote,top:1025px,left:50px
+{{sidenote,top:1015px,left:50px
 Map 2.12 : La Fin des Rêves
 }}
 
@@ -8159,7 +8157,7 @@ La directrice Marthannis sait que pour se débarrasser de l'esprit de Vlax, elle
 {{pageNumber,auto}}
 {{footnote Chapitre 2 | Valbise}}
 \page
-![prisonnier 237](https://5e.tools/img/adventure/IDRotF/140-637357081739596776.png) {position:absolute,top:0,left:0px}
+![prisonnier 237](https://5e.tools/img/adventure/IDRotF/140-637357081739596776.png) {position:absolute,top:0,left:-10px}
 :::::::::::::::::::::::::::::::::
 {{monster,frame,margin-top:
 ## Prisonnier 237
@@ -8268,7 +8266,7 @@ Pour se rendre à l'un des avant-postes goliaths ou pour se déplacer entre eux,
 {{footnote Chapitre 2 | Valbise}}
 \page
 ![Skytower](https://5e.tools/img/adventure/IDRotF/141-map-2.13-skytower-shelter.jpg) {width:96%,margin-left:auto,margin-top:-30px}
-{{sidenote,top:436px,left:1.5cm Map 2.13 :  Abri de la Tourciel}}
+{{sidenote,top:456px,left:20px Map 2.13 :  Abri de la Tourciel}}
 {{artist Stacy Allan and Will doyle}}
 ::
 ### Emplacement de l'abri de la Tourciel
@@ -8355,20 +8353,20 @@ Cette grotte de cinq mètres de haut contient quatre nids de griffons : trois re
 }}
 Une grotte plus petite, de 3 mètres de haut, au nord-est, contient un parterre de lit de la taille d'un goliath. Il s'agit de Rahi Rêve-Ciel Akannathi, une guerrière goliath avec Dressage +4 et Médecine +4. Rahi est le guide spirituel du clan et la gardienne en chef des griffons qui vivent dans et autour de l'Abri de la Tourciel. Le jeune griffon dont elle a la charge a moins d'un an et n'a pas encore surmonté sa peur de voler. Sa mère, un griffon, se réveille et attaque si elle, sa progéniture ou Rahi est menacée. En cas de besoin, Rahi peut siffler pour convoquer deux autres griffons perchés sur les pentes voisines ; ces renforts arrivent au troisième round du combat.
 
-Comme les autres membres de son clan, Rahi se méfie des étrangers et ne supporte pas les intrusions.
+Comme les autres membres de son clan, Rahi se méfie des étrangers et ne supporte pas les intrusions. Un personnage qui propose d'aider Rahi à surmonter la peur de voler du petit peut, en réussissant un test de Charisme (Persuasion) DD 18, obtenir la permission de Rahi 
 
 {{pageNumber,auto}}
 {{footnote Chapitre 2 | Valbise}}
 \page
 ![](https://5e.tools/img/adventure/IDRotF/143-02-024.rahi.png) {position:absolute,width:100%,left:0,top:-20px}
-{{margin-top:420px,wide}}
+{{margin-top:430px,wide}}
 {{sidenote,top:410px,left:50px,color:white
 Rahi le goliath aide un jeune griffon  
 à acquérir la confiance dont il a besoin pour voler.
 }}
 {{artist David René Christensen }}
 :
- Un personnage qui propose d'aider Rahi à surmonter la peur de voler du petit peut, en réussissant un test de Charisme (Persuasion) DD 18, obtenir la permission de Rahi d'approcher le petit. Ce personnage peut ensuite tenter un test de Sagesse (Dressage) DD 15 pour le calmer. 
+d'approcher le petit. Ce personnage peut ensuite tenter un test de Sagesse (Dressage) DD 15 pour le calmer. 
 En cas d'échec, le petit essaie de le mordre avec son bec, et Rahi le renvoie. Si le test est réussi, Rahi est impressionnée car le bébé griffon se réchauffe pour le personnage.
 
 Si le groupe gagne la confiance et l'amitié de Rahi, elle peut approcher un membre goliath du groupe et lui proposer d'apprendre à apprivoiser un griffon. Étant donné le temps nécessaire, cette activité a plus de chances de se dérouler après la fin de l'aventure ou pendant une longue période d'inactivité (voir l'encadré "Domptage de griffon" ci-dessous).
@@ -8523,7 +8521,7 @@ Le Bouc-Ball est un sport d'équipe similaire à la balle au prisonnier. Il util
 ### Dans les montagnes
 
 Pour se rendre à l'un des avant-postes goliaths ou pour se déplacer entre eux, les personnages doivent traverser l'Épine Dorsale du Monde, où les déplacements sont les plus difficiles de toutes les régions de Valbise. Utilisez les règles de la section "Voyage en montagne" pour simuler les périls du déplacement dans les sommets.
-\column
+
 ### Présentation du Rocher de Ruine-Dragon
 
 Le Rocher de Ruine-Dragon est orienté vers le nord, au sommet d'un versant montagneux enneigé. Les ossements d'un dragon blanc adulte reposent près de l'entrée de la tanière.
@@ -8611,14 +8609,11 @@ Après avoir appris les leçons nécessaires pour devenir des adultes à part en
 Les visiteurs qui veulent faire l'expérience de cette épreuve sont prévenus que ce n'est pas pour les âmes sensibles. Un personnage qui atteint le milieu du tunnel doit réussir un jet de sauvegarde de Constitution DD 15 et un jet de sauvegarde de Charisme DD 15. Si l'un des jets de sauvegarde échoue, le personnage est incapable d'avancer et doit se retirer par le chemin qu'il a emprunté. Si les deux jets de sauvegarde échouent, le personnage est tellement submergé par des visions de terreur qu'il tombe dans le coma, devenant inconscient pendant 4d6 heures. Un personnage qui réussit ses deux jets de sauvegarde peut ramper à travers le tunnel et sortir de l'autre côté, après avoir affronté les visions et les avoir surmontées.
 
 Tout personnage qui obtient l'accord du chef Ogolai pour ramper dans le tunnel est considéré comme un membre honoraire du clan Thuunlakalaga s'il réussit l'épreuve.
-
+\column
 #### W5. Salle principale
-
 {{descriptive
 Cette caverne a un toit en dôme de trente pieds de haut et un puits ouvert au milieu du sol. Deux jeunes goliaths utilisent des cordes et un seau pour puiser l'eau du puits tandis que six adultes se débrouillent avec une poignée de bambins goliaths exubérants.
-}}
-:
-{{descriptive
+
 Des escaliers grossièrement taillés montent vers la partie sud de la grotte, où le sol est trois mètres plus haut. Assise dans cette zone, près d'un feu crépitant, se trouve une femme goliath aux cheveux gris, portant de nombreuses cicatrices et une cape blanche en peau de chèvre de montagne. Appuyée contre le mur derrière elle, elle tient une grande hache avec un manche en os. Elle ronge une pipe en essayant de régler une dispute entre deux enfants goliaths.
 }}
 Cette grotte est l'endroit où la plupart des membres du clan Thuunlakalaga dorment et se rencontrent. Des parures de lit en peaux de chèvre et en fourrures sont disposées sur le sol en un demi-cercle lâche autour d'un puits au centre de la pièce.
@@ -8660,7 +8655,7 @@ Une fois que Sikki-kree peut à nouveau voler, elle remercie les personnages pou
 
 
 ![Targos](https://5e.tools/img/adventure/IDRotF/144-map-2.14-wyrmdoom-crag.jpg) {width:110%,margin-left:-5%,margin-top:-%}
-{{sidenote,top:530px Map 2.14 :  Rocher de Ruine-Dragon}}
+{{sidenote,top:550px Map 2.14 :  Rocher de Ruine-Dragon}}
 {{artist Stacy Allan and Will doyle}}
 ::
 
@@ -8683,10 +8678,10 @@ Les goliaths de Ruine-Dragon sont ravis si un ou plusieurs personnages expriment
 {{fullpage
 ![](https://5e.tools/img/adventure/IDRotF/147-03-000.chapter-splash.jpg)
 
-{{sidenote,bottom:60px,left:1.8cm
-Les aventuriers font une course contre la montre   
-pour arrêter Xardorok Fléau-Solaire de répandre  
-la terreur sur Dix-Cités.
+{{sidenote,bottom:60px,left:20px
+Les aventuriers font une course contre la montre pour arrêter  
+Xardorok Fléau-Solaire 
+de répandre la terreur sur Dix-Cités.
 }}
 
 }}
@@ -8887,7 +8882,7 @@ La malle contient les possessions personnelles de Xardorok (voir "Trésor" ci-de
 }}
 Les chiffres sur le parchemin sont les combinaisons pour les coffres verrouillés dans la chambre au trésor (zone X37).
 
-![](https://www.dropbox.com/sh/q148961dojbxk2r/AABQ6EBG1_vtUeCJ2ASHgeTea/Kit%20Graphique/CulDeLampe/gemme1.jpg?dl=1) {width:450px,mix-blend-mode:multiply,position:absolute,bottom:50px,right:0px}
+![](https://www.dropbox.com/sh/q148961dojbxk2r/AABQ6EBG1_vtUeCJ2ASHgeTea/Kit%20Graphique/CulDeLampe/gemme1.jpg?dl=1) {width:450px,mix-blend-mode:multiply,position:absolute,bottom:-20px,right:-50px}
 
 
 
@@ -8897,7 +8892,7 @@ Les chiffres sur le parchemin sont les combinaisons pour les coffres verrouillé
 
 ![](https://5e.tools/img/adventure/IDRotF/148-map-3.1-sunblight.jpg) {width:90%,left:5%,position:absolute}
 {{artist Stacey allan and will doyle}}
-{{sidenote,top:1025px,left:50px
+{{sidenote,top:1015px,left:50px
 Map 3.1 : Fléau-Solaire (Forteresse de Xardorok)
 }}
 
@@ -8906,7 +8901,7 @@ Map 3.1 : Fléau-Solaire (Forteresse de Xardorok)
 {{footnote Chapitre 3 | Fléau-Solaire}}
 \page
 ![Grandolpha Muzgardt](https://5e.tools/img/adventure/IDRotF/150-637357081668773609.png) {position:absolute,top:10px,left:20px,height:430px}
-:::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::
 {{monster,frame,margin-top:
 ## Grandolpha Muzgardt
 *Humanoïde de taille M (Nain), Loyal Mauvais*
@@ -8940,6 +8935,7 @@ ___
 
 {{artist Jesper Ejsing }}
 
+\column
 #### X6. Poste de garde
 {{descriptive
 Cette pièce est chauffée et éclairée par des braseros de charbons ardents. Sur le mur ouest, on peut voir une meurtrière, un levier en fer et un lourd treuil en fer.
@@ -8960,7 +8956,7 @@ Un bureau et une chaise en pierre sont vides sur le côté est de la pièce. Les
 Jusqu'à récemment, cette pièce était le bureau du capitaine de la garde de Xardorok, qui a été accusé de fomenter un coup d'état et est torturé dans la zone X34.
 #### X8. Salle à manger privée
 {{descriptive
-Trois braseros remplis de charbons ardents illuminent et chauffent cette longue salle. À l'extrémité est se trouve une table hexagonale en pierre entourée de six chaises en pierre. Assise sur la chaise qui fait face à la porte, une vieille duergar hagarde aux longs cheveux noirs striés de bandes blanches et aux ongles semblables à des morceaux de fer. Elle dévore un copieux buffet de charcuterie, de champignons et d'autres mets étranges de l'Underdark.
+Trois braseros remplis de charbons ardents illuminent et chauffent cette longue salle. À l'extrémité est se trouve une table hexagonale en pierre entourée de six chaises en pierre. Assise sur la chaise qui fait face à la porte, une vieille duergar hagarde aux longs cheveux noirs striés de bandes blanches et aux ongles semblables à des morceaux de fer. Elle dévore un copieux buffet de charcuterie, de champignons et d'autres mets étranges de l'Underdark. A côté d'elle se trouve un petit dragon mécanique fait d'une substance noire brillante.
 }}
 
 
@@ -8969,8 +8965,6 @@ Trois braseros remplis de charbons ardents illuminent et chauffent cette longue 
 {{footnote Chapitre 3 | Fléau-Solaire}}
 \page
 {{descriptive
- A côté d'elle se trouve un petit dragon mécanique fait d'une substance noire brillante.
- 
 Trois cuisiniers duergars sont penchés sur un fourneau chaud dans la partie ouest de la pièce. A votre vue, ils laissent tomber leurs ustensiles et sortent leurs armes, mais la vieille duergar dit quelque chose en nain qui les tient à distance.
 }}
 Xardorok et ses fils dînent ici, rejoints occasionnellement par des invités. Aujourd'hui, la compagne de Xardorok, Grandolpha Muzgardt, est présente (voir le bloc de statistiques correspondant). Les trois cuisiniers duergars sont les fidèles gardes du corps de Grandolpha. Le dragonnet chardalyn à côté de Grandolpha est un cadeau de Xardorok ; c'est un artificiel maléfique qui comprend le draconique et le nain mais ne peut pas parler. Il a autrement les statistiques d'un pseudo-dragon.
@@ -9127,8 +9121,8 @@ Des bruits de combat amènent ici des renforts de la zone X18 (quatre duergars) 
 {{pageNumber,auto}}
 {{footnote Chapitre 2 | Valbise}}
 \page
-![](https://5e.tools/img/adventure/IDRotF/151-03-001.quaggoth-myconid.png) {position:absolute,width:100%,left:0,top:-55px}
-{{margin-top:370px,wide}}
+![](https://5e.tools/img/adventure/IDRotF/151-03-001.quaggoth-myconid.png) {position:absolute,width:100%,left:0,top:-35px}
+{{margin-top:400px,wide}}
 {{sidenote,top:410px,left:50px,color:white
 Un quaggoth convainc un myconide de  
 produire plus de spores en lui arrachant le bras.
@@ -9154,7 +9148,6 @@ Cette pièce contient des braseros de charbons ardents dans le coin nord-ouest e
 {{descriptive
 La cage d'ascenseur se termine dans cette pièce. Une grande roue de pierre à côté de la cage de fer tourne constamment.
 }}
-
 :::
 ***Puits d'ascenseur.*** Le puits de pierre de 3 mètres de large monte de 30 mètres vers la zone X6 et de 30 mètres vers la zone X13.
 
@@ -9226,14 +9219,14 @@ Le tapotement provient de la cellule d'un doppleganger qui a été surpris en tr
 \page
 
 ![](https://5e.tools/img/adventure/IDRotF/152-03-002.xardorok.png) {position:absolute,width:100%,left:0,top:-40px}
-{{margin-top:350px,wide}}
-{{sidenote,top:410px,left:2cm,color:white
+{{margin-top:415px,wide}}
+{{sidenote,top:410px,left:570px,color:white
 Agrandi à la taille d'un ogre,  
 Xardorok Fléau-Solaire défend sa forge.
 }}
 :
 {{artist Paul Scott Canavan }}
-:::::::
+:
 Le doppelganger connaît suffisamment bien les colonies des Dix-Cités pour passer pour un Dix-Citadin. Tout personnage qui doute de l'histoire de Pekoe peut faire un test de Sagesse (Perspicacité) ; si le résultat du test du personnage est supérieur au résultat du test de Charisme (Tromperie) du doppelganger, le personnage sent que quelque chose cloche chez Pekoe mais ne peut pas dire quoi. Le doppelganger essaie d'acquérir des vêtements pour le froid et reste avec le groupe jusqu'à Dix-Cités. Une fois arrivé, il s'éclipse et adopte un nouveau déguisement. Le double ne fera pas de mal aux personnages à moins qu'ils ne lui donnent une raison de le faire.
 
 Le bruit fort provient d'un guerrier goliath désarmé nommé Kapanuk Grand-Arbre Thuunlakalaga. Après avoir été séparé de son groupe de chasseurs pendant un blizzard, Kapanuk a été pris en embuscade par des duergars et amené à la forteresse pour y être interrogé. Comme il ne sait rien des Dix-Cités, Kapanuk n'a pas été d'une grande utilité pour ses ravisseurs.
@@ -9242,14 +9235,6 @@ S'il est libéré, Kapanuk essaie d'acquérir quelques armes et armures. Il invi
 
 Vous pouvez ajouter des prisonniers supplémentaires dans le bloc cellulaire, à votre discrétion. Les cellules restantes sont par ailleurs vides.
 \column
-
-{{note
-##### Duerra des Abîmes
-Duerra des Abîmes est un dieu loyal mauvais de la conquête et du pouvoir psionique. Son symbole est un crâne de flagelleur mental.
-
-Selon la légende, Duerra des Abîmes a volé le pouvoir psi des Flagelleurs mentaux et l'a offert à son peuple. Sa maîtrise du pouvoir psionique était si grande qu'elle a dominé une colonie de Flagelleurs mentaux et transformé les Illithids en esclaves. Inspirés par ses exploits mythiques, ses prêtres se consacrent à la recherche et à l'anéantissement des colonies de Flagelleurs mentaux ou à la transformation des Flagelleurs mentaux en leurs esclaves.
-}}
-
 #### X29. Le temple de Duerra des Abîmes
 Lorsqu'un ou plusieurs personnages entrent dans la pièce avec la statue, lisez :
 
@@ -9260,7 +9245,12 @@ Au milieu de la pièce, face à la double porte au nord, se trouve une statue de
 }}
 Si Xardorok Fléau-Solaire (voir annexe C) est ici, il est agenouillé devant la statue et demande à Duerra des Abîmes (parlant en nain) de lui accorder le pouvoir de vaincre ses ennemis. Décrivez-le comme un duergar taché de suie, à la barbe grise, avec une couronne noire dentelée sur le front et un gantelet noir hérissé sur une main. Sa couronne et son gantelet sont faits de chardalyn.
 
+{{note
+##### Duerra des Abîmes
+Duerra des Abîmes est un dieu loyal mauvais de la conquête et du pouvoir psionique. Son symbole est un crâne de flagelleur mental.
 
+Selon la légende, Duerra des Abîmes a volé le pouvoir psi des Flagelleurs mentaux et l'a offert à son peuple. Sa maîtrise du pouvoir psionique était si grande qu'elle a dominé une colonie de Flagelleurs mentaux et transformé les Illithids en esclaves. Inspirés par ses exploits mythiques, ses prêtres se consacrent à la recherche et à l'anéantissement des colonies de Flagelleurs mentaux ou à la transformation des Flagelleurs mentaux en leurs esclaves.
+}}
 
 {{pageNumber,auto}}
 {{footnote Chapitre 2 | Valbise}}
@@ -9290,7 +9280,7 @@ La cage d'ascenseur se termine dans cette pièce. Une grande roue en pierre à c
 La construction est un **marteleur duergar** (voir annexe C). Elle garde cette pièce et attaque les intrus à vue.
 
 ***Cage d'ascenseur.*** La cage de pierre de 3 mètres de large s'élève de 30 mètres jusqu'à la zone X6 et de 60 mètres jusqu'à la zone X13.
-\column
+
 #### X31. Diable déguisé
 {{descriptive
 Cette pièce est remplie de piles de tablettes de granit. Derrière elles se cache un duergar à longue barbe portant des robes noires et une grande mitre noire.
@@ -9474,7 +9464,7 @@ Passez en revue le bloc de statistiques et la description du Dragon de Chardalyn
 Dès qu'il quitte la forteresse, le dragon de Chardalyn commence à mettre en œuvre le plan de Xardorok, qui consiste à raser les Dix-Cités les unes après les autres. Les personnages peuvent intervenir en réussissant à prédire où le dragon frappera la prochaine fois et en l'affrontant. La section "Retour aux Dix-Cités" permet aux personnages de trouver un allié indispensable et de rentrer rapidement aux Dix-Cités en traîneau à chiens. La section "le Fléau Dragon" décrit le temps qu'il faut au dragon pour atteindre chaque ville, les défenses que chaque village doit mettre en place contre lui, et l'issue probable si aucune aide des personnages n'est apportée. La section " Affrontement ! " vous aide à organiser une rencontre entre les personnages et le dragon. 
 
 Indépendamment de ce qui arrive aux Dix-Cités, la section "La Quête de Vellynne" prépare les trois derniers chapitres de l'aventure.
-\column
+
 ### Progression des personnages
 
 Les personnages gagnent un niveau s'ils contribuent à la destruction du dragon. S'ils n'ont pas atteint le 7e niveau à la fin de ce chapitre, attirez-les vers certains des lieux du chapitre 2 afin qu'ils puissent gagner suffisamment de niveaux avant de poursuivre avec les chapitres suivants.
@@ -9521,7 +9511,7 @@ La carte 4.1 montre la trajectoire de vol du dragon, qui ne doit être communiqu
 Chaque section décrit les dégâts causés à chaque ville, les dégâts éventuels que la ville inflige au dragon en retour et le temps que le dragon a passé dans cette ville. Adaptez la temporalité et l'étendue des dégâts comme bon vous semble.
 
 Le tableau **Temps de vol du dragon** indique le temps nécessaire au dragon pour se rendre d'un endroit à un autre.
-\column
+
 ##### Temps de vol du dragon
 
 | De/à | Temps de vol
@@ -9670,8 +9660,8 @@ Chaque fois que les personnages engagent le dragon, ils gagnent du temps pour qu
 {{footnote Chapitre 4 | Lumière de Destruction}}
 \page
 ![](https://5e.tools/img/adventure/IDRotF/156-04-001.dragon.png) {position:absolute,width:100%,left:0,top:-0px}
-{{margin-top:440px,wide}}
-{{sidenote,top:450px,left:510px,color:white
+{{margin-top:435px,wide}}
+{{sidenote,top:480px,left:570px,color:white
 Les héros sont tout ce qui se tient entre les  
 Dix-Cités et une destruction certaine.
 }}
@@ -9800,7 +9790,13 @@ Sur un jet de 19, la silhouette est un membre gravement blessé de la milice loc
 
 ***Doppelganger.*** Le double (qui s'est enduit du sang de quelqu'un d'autre) demande à être emmené dans un endroit sûr, hors de la vue du dragon. Si un personnage accepte, le sosie tente de Doppelganger, de voler et de remplacer son "sauveur" dans un endroit où sa trahison ne peut être observée par personne d'autre.
 
-![](https://5e.tools/img/adventure/IDRotF/158-04-003.png) {position:absolute,width:185%,bottom:0,left:0,mix-blend-mode:multiply}
+![](https://5e.tools/img/adventure/IDRotF/157-04-002.townsfolk.png) {position:absolute,width:100%,bottom:0,left:0,mix-blend-mode:multiply}
+{{artist Irina Nordsol}}
+{{sidenote,bottom:450px,left:540px
+Un aventurier affronte des habitants corrompus  
+par la présence malveillante du dragon.
+}}
+
 
 \page
 
@@ -9834,9 +9830,9 @@ Vellynne a appris quelques choses de son *Globe Professeur* (voir annexe D) avan
 
 
 
+![](https://5e.tools/img/adventure/IDRotF/158-04-003.png) {position:absolute,width:185%,bottom:0,left:0,mix-blend-mode:multiply}
 
 
-![](https://5e.tools/img/adventure/IDRotF/158-04-003.png) {position:absolute,width:185%,bottom:0,right:0,mix-blend-mode:multiply}
 
 \page
 
@@ -9869,14 +9865,8 @@ La suite de l'aventure dépend de l'accord des personnages pour aider Vellynne. 
 
 En supposant que les personnages acceptent d'entreprendre la quête de Vellynne, leur premier défi est de se rendre sur l'île. Passez au chapitre 5, qui commence par la façon dont les personnages résolvent leur problème de transport.
 
+![](https://5e.tools/img/adventure/IDRotF/158-04-003.png) {position:absolute,width:185%,bottom:0,right:0,mix-blend-mode:multiply}
 
-
-![](https://5e.tools/img/adventure/IDRotF/157-04-002.townsfolk.png) {position:absolute,width:100%,bottom:0,left:0,mix-blend-mode:multiply}
-{{artist Irina Nordsol}}
-{{sidenote,bottom:450px,left:440px
-Un aventurier affronte des habitants corrompus  
-par la présence malveillante du dragon.
-}}
 
 
 \page
@@ -9916,7 +9906,7 @@ Dans ce chapitre, l'avancement de niveau est géré comme suit :
 - Les personnages gagnent un niveau s'ils détruisent les trois formes d'Auril.
 - Les personnages gagnent un niveau s'ils tuent Iskra le rukh.
 - S'ils sont de niveau 7 ou moins, les personnages gagnent un niveau lorsqu'ils découvrent le poème "Mélodie de la Vierge de Glace" dans le Codicille Blanc.
-\column
+::
 ## Mer de glace mouvante
 Des icebergs titanesques flottent dans une mer noire agitée d'une profondeur inconnue, se heurtant les uns aux autres avec des résultats destructeurs. Flottant au milieu de ces montagnes de glace, enveloppée de brume, se trouve l'île d'Auril. Par la force de sa volonté, la Vierge de Glace peut ancrer l'île ou la faire dériver lentement. Pour cette raison, l'île n'apparaît pas sur les cartes de la mer de glace mouvante.
 
@@ -9990,7 +9980,7 @@ La présence d'Auril crée les effets régionaux suivants, qui s'estompent 1d10 
 \page
 ![](https://5e.tools/img/adventure/IDRotF/160-map-5.1-island-of-solstice.jpg) {width:90%,left:5%,position:absolute}
 {{artist Stacey allan and will doyle}}
-{{sidenote,top:1025px,left:50px
+{{sidenote,top:1015px,left:50px
 Map 5.1 : Île de Solstice
 }}
 
@@ -10048,7 +10038,7 @@ Les personnages qui fouillent le bras nord-ouest de l'île trouvent le cadavre g
 \page
 ![](https://5e.tools/img/adventure/IDRotF/162-05-001.weasel.png) {position:absolute,width:100%,left:0,top:-100px}
 {{margin-top:360px,wide}}
-{{sidenote,top:350px,left:2cm,color:white
+{{sidenote,top:350px,left:30px,color:white
 Nass Lantomir est morte, mais son familier belette vit encore
 }}
 {{artist Irina Nordsol}}
@@ -10108,7 +10098,7 @@ Cette zone est un cimetière où Auril expose les créatures qui sont mortes sur
 
 {{artist Robin Olausson}}
 
-{{sidenote,color:white,bottom:450px,left:500px
+{{sidenote,color:white,bottom:450px,left:540px
 La Vierge de Glace sculpte des  
 formes merveilleuses dans la glace.
 }}
@@ -10230,7 +10220,7 @@ Auril a transformé sept des glaçons qui s'accrochent au plafond en créatures 
 \page
 ![](https://5e.tools/img/adventure/IDRotF/164-map-5.2-grimskalle.jpg) {width:90%,left:5%,position:absolute}
 {{artist Stacey allan and will doyle}}
-{{sidenote,top:1025px,left:50px
+{{sidenote,top:1015px,left:50px
 Map 5.2 : Sombrecrane
 }}
 
@@ -10282,7 +10272,7 @@ Le morse géant (voir annexe C), nommé Ukuma, est censé garder cette pièce. L
 \page
 ![](https://5e.tools/img/adventure/IDRotF/166-05-003.skeletons.png) {position:absolute,width:100%,left:0,top:-10px}
 {{margin-top:450px,wide}}
-{{sidenote,top:430px,left:480px,color:white
+{{sidenote,top:430px,left:520px,color:white
 Des géants du givre squelettes gardent le  
 chemin vers la tombe gelée de la reine Vassavicken.
 
@@ -10301,7 +10291,7 @@ Ukuma connaît les informations suivantes, qu'il est heureux de partager avec le
 ***Patinoire.*** Le sol de cette zone est aussi lisse qu'une patinoire. Lorsqu'une créature se déplace sur le sol pour la première fois lors d'un tour, elle doit réussir un test de Dextérité (Acrobaties) DD 10 ou tomber à plat ventre. Le morse géant n'a pas besoin de faire ce test.
 
 ***Escalier vers le haut.*** Du plafond au sol, les escaliers qui mènent à la zone G6 sont entourés d'épaisses rampes de glace sculptée de 3 mètres de haut. Les escaliers, comme le sol, sont un terrain difficile. Lorsqu'une créature se déplace sur ces escaliers pour la première fois lors d'un tour, elle doit réussir un test de Dextérité (Acrobaties) DD 10 ou tomber à plat ventre. Si le test échoue par 5 ou plus, la créature dégringole également de 3 mètres le long des escaliers et subit 3 (1d6) dégâts de matraquage.
-\column
+
 #### G11. Entrée de la tombe
 {{descriptive
 Le passage mène à une pièce en forme d'enclume avec une porte encastrée dans le mur du fond. De part et d'autre de la porte se trouvent des bas-reliefs représentant deux géantes du givre tenant des haches à deux mains. Des runes sont gravées sur la surface de la porte.
@@ -10346,7 +10336,6 @@ Le géant du givre enterré dans le bloc de glace est la reine Vassavicken. Les 
 {{descriptive
 Appuyée contre le mur du fond de cette pièce se trouve une arme redoutable : une Hache à deux mains géante, dont la tête d'acier repose sur le sol glacé.
 }}
-:
 ***Trésor.*** La Hache à deux mains est la hache berserker de Vassavicken, dont la taille s'adapte à la personne qui s'y accorde. Lorsqu'elle est trouvée, elle mesure 5 mètres de haut et pèse 300 kg. Si un personnage s'accorde avec la hache, elle rétrécit à une taille adaptée à son nouveau porteur.
 
 #### G15. Épreuves de la Vierge de Glace
@@ -10365,7 +10354,7 @@ Le mot gravé au-dessus de la porte dépend de la zone qui se trouve de l'autre 
 **Porte de la zone G18.**:: Le mot "Isolement" est gravé en commun sur le linteau au-dessus de cette porte.
 
 **Porte de la zone G19.**:: Le linteau au-dessus de cette porte s'est partiellement brisé, détruisant une partie de l'inscription qui y était gravée. Ce qui reste indique "--ervation" en commun.
-:
+
 {{frosttest,wide,margin-top:20px
 ## Tableau des épreuves de la Vierge de Glace 
 {{title
@@ -10569,7 +10558,7 @@ La 4ème tablette a été brisée par la femme anonyme au manteau rouge qui a vi
 \page
 ![](https://5e.tools/img/adventure/IDRotF/169-05-006.frostmaiden-mounted.png) {position:absolute,width:100%,left:0%,top:-50px}
 {{margin-top:400px,wide}}
-{{sidenote,top:380px,left:480px,color:white
+{{sidenote,top:380px,left:500px,color:white
 Montée sur son rukh, la Vierge de Glace  
 s'envole vers le ciel pour lancer son sort nocturne.
 }}
@@ -10811,7 +10800,7 @@ Le tunnel qui mène à la zone H5 comporte une chute glissante de 6 mètres de h
 
 #### H3. Crânefeu
 Ces deux grottes et passages de 6 mètres de haut sont occupés par quatre Crânefeu - deux dans les grottes à l'ouest de la zone H2 et deux dans les grottes au nord-est de la zone H2. Ils attaquent les intrus à vue. Les grottes sont vides du reste.
-\column
+
 #### H4.  Vampirien Kobold 
 Les personnages venant de la zone H2 doivent descendre un escalier de glace naturel pour atteindre cette grotte.
 
@@ -10840,7 +10829,7 @@ Les méphites de glace sont chargés de garder la grotte, mais ils n'acceptent p
 \page
 ![](https://5e.tools/img/adventure/IDRotF/171-map-6.1-caves-of-hunger.jpg) {width:90%,left:5%,position:absolute}
 {{artist Stacey allan and will doyle}}
-{{sidenote,top:1025px,left:50px
+{{sidenote,top:1015px,left:50px
 Map 6.1 : Les Grottes de la Faim
 }}
 
@@ -10912,7 +10901,7 @@ Voici des exemples de questions que le groupe peut poser, et les réponses du go
 \page
 ![](https://5e.tools/img/adventure/IDRotF/173-06-001.iron-golem.png) {position:absolute,width:100%,left:0%,top:-20px}
 {{margin-top:460px,wide}}
-{{sidenote,top:420px,left:2cm,color:white
+{{sidenote,top:420px,left:50px,color:white
 Un aventurier halfelin rencontre  
 la tête d'un golem de fer décapité.
 
@@ -11081,7 +11070,7 @@ Enterré dans le sol glacé de cette grotte de six mètres de haut se trouve le 
 Un géant du givre nommé Vlagomir marchait sur le glacier quand Ythryn est tombée sur lui. Le géant a été écrasé à mort alors que la ville de Néthéril plongeait dans une profonde crevasse et était ensevelie sous des tonnes de glace.
 
 Les personnages peuvent atteindre le cadavre du géant en brisant 60 cm de glace. S'ils y parviennent, ils découvrent que le géant n'avait rien de valeur. Les marques de griffures dans la glace ont été faites par des vampires kobolds qui ont cherché à se nourrir du cadavre mais qui se sont vite lassés de creuser dans la glace solide.
-\column
+
 #### H22. Trou de forage
 Cette grotte pourrait contenir une hantise psychique (voir "Hantise psychique").
 
@@ -11107,8 +11096,8 @@ Le corps des créatures réchauffe le bassin, qui dégage alors de la vapeur. L'
 {{pageNumber,auto}}
 {{footnote Chapitre 6 | Les Grottes de la Faim}}
 \page
-![](https://5e.tools/img/adventure/IDRotF/175-06-003.remorhaz.png) {position:absolute,width:100%,left:0%,top:-50px}
-{{margin-top:380px,wide}}
+![](https://5e.tools/img/adventure/IDRotF/175-06-003.remorhaz.png) {position:absolute,width:100%,left:0%,top:-20px}
+{{margin-top:425px,wide}}
 {{sidenote,top:390px,left:50px,color:white
 Une remorhaz utilise la chaleur de son corps  
 pour réchauffer le bassin où se trouvent ses petits à naître.
@@ -11306,8 +11295,12 @@ Les nothics n'ont aucun souvenir de leur humanité perdue, et toute information 
 - Quelque part dans Ythryn se trouve un parchemin qui peut invoquer la tarrasque.
 
 
-
-{{margin-top:0px
+![](https://5e.tools/img/adventure/IDRotF/176-06-004.purple-pear.png) {width:100%,display:flex,margin-bottom:-50px}
+{{artist Shawn Wood}}
+{{sidenote,position:relative,top:-90px
+Poire Pourpre
+}}
+{{margin-top:-20px
 ##### Charmes de Poire Pourpre
 | d20 | Charme surnaturel |
 |---|---|
@@ -11319,12 +11312,6 @@ Les nothics n'ont aucun souvenir de leur humanité perdue, et toute information 
 | 15-17 | *Charme d'Éclair*. Ce charme vous permet de lancer le sort éclair (sauvegarde DD 15) en tant qu'action, sans aucun composant requis. Une fois utilisé, ce charme disparaît de votre corps. |
 | 18-19 | *Charme de Magie Pourpre*. Ce charme vous permet de lancer le sort *Lueurs féeriques* (lumière violette uniquement ; sauvegarde DD 15) comme une action bonus au lieu d'une action, sans aucun composant requis. Une fois utilisé trois fois, ce charme disparaît de ton corps. |
 | 20 | *Charme de restauration*. Ce charme possède 6 charges. Vous pouvez utiliser une action pour dépenser certaines de ses charges pour lancer l'un des sorts suivants : *restauration supérieure* (4 charges) ou *restauration inférieure* (2 charges). Une fois toutes ses charges dépensées, ce charme disparaît de votre corps. |
-}}
-
-![](https://5e.tools/img/adventure/IDRotF/176-06-004.purple-pear.png) {width:80%,display:flex,margin:auto}
-{{artist Shawn Wood}}
-{{sidenote,position:relative,top:-90px
-Poire Pourpre
 }}
 {{pageNumber,auto}}
 {{footnote Chapitre 6 | Les Grottes de la Faim}}
@@ -11531,7 +11518,17 @@ Ce rituel a été conçu pour tester les aptitudes magiques des visiteurs, mais 
 Pendant que les personnages explorent la nécropole, attirez l'attention des joueurs sur tous les emplacements numérotés qu'ils peuvent voir ; ce sont généralement les bâtiments les plus intacts. Sauf avis contraire des joueurs, supposez que les personnages explorent à un rythme prudent de 30 mètres toutes les 5 minutes.
 
 La recherche d'un lieu non numéroté prend 30 minutes et nécessite un test pour les rencontres aléatoires. Lancez un dé sur la table des trésors d'Ythryn pour déterminer si les personnages trouvent quelque chose de valeur dans le lieu.
-
+{{
+##### Trésors d'Ythryn
+| d20 | Trésor |
+|---|---|
+| 1-10 | Pas de trésor |
+| 11 | 1d4 objets d'art néthérisses (250 po chaque) |
+| 12-14 | 1d4 bijoux (100 po chacun) |
+| 15 | Un globe flottant (ou un autre objet magique commun de ton choix) |
+| 16-20 | Une frise qui révèle un élément du savoir d'Ythryn (voir table des Savoirs d'Ythryn ci-dessous) |
+:
+}}
 
 
 
@@ -11560,18 +11557,6 @@ Plusieurs flèches tordues se détachent du mur d'enceinte de l'enclave, avec de
 
 {{descriptive
 Une passerelle en pierre mène à une tour qui s'élève vers le haut, son toit pointu penchant au-dessus d'elle de façon menaçante. Des fenêtres étroites percent ses murs, des gargouilles sont perchés à ses avant-toits et une porte à la base de la tour s'ouvre.
-}}
-
-{{
-##### Trésors d'Ythryn
-| d20 | Trésor |
-|---|---|
-| 1-10 | Pas de trésor |
-| 11 | 1d4 objets d'art néthérisses (250 po chaque) |
-| 12-14 | 1d4 bijoux (100 po chacun) |
-| 15 | Un globe flottant (ou un autre objet magique commun de ton choix) |
-| 16-20 | Une frise qui révèle un élément du savoir d'Ythryn (déterminé en lançant un d20 et en consultant la table des traditions d'Ythryn ci-dessous) |
-:
 }}
 
 {{pageNumber,auto}}
@@ -11632,14 +11617,14 @@ Pour simuler une partie de Chaîne foudroyante, suivez les étapes suivantes :
 \page
 
 
-![](https://5e.tools/img/adventure/IDRotF/180-07-001.ythryn.png) {position:absolute,width:100%,left:0%,top:-85px}
-{{margin-top:360px,wide}}
-{{sidenote,top:350px,left:450px,color:white
+![](https://5e.tools/img/adventure/IDRotF/180-07-001.ythryn.png) {position:absolute,width:100%,left:0%,top:-25px}
+{{margin-top:420px,wide}}
+{{sidenote,top:390px,left:450px,color:white
 Autrefois un paradis pour les magiciens,  
 Ythryn est maintenant une tombe remplie d'anciens secrets.
 }}
 {{artist Robin Olausson}}
-
+:
 ***Trésor.*** Le trophée ne peut pas être retiré de son piédestal tant qu'il n'est pas gagné. Si une créature tente de déplacer le trophée avant cela, le piédestal décharge un éclair qui inflige 18 (4d8) dégâts de foudre à la créature. La coupe du trophée est faite de mithral incrusté de trois pierres précieuses de spinelle bleu et vaut 1 800 po. Lorsqu'elle est portée par un membre de l'équipe gagnante, elle fonctionne comme une pierre porte-bonheur.
 
 ##### Savoirs d'Ythryn 
@@ -11655,9 +11640,10 @@ Ythryn est maintenant une tombe remplie d'anciens secrets.
 7| Ythryn était maintenu en l'air par la magie d'une sphère arcanique connue sous le nom de mythallar. Le mythallar avait aussi le pouvoir de recharger les objets magiques et de contrôler la météo. |
 | 8 | Les mages d'Ythryn pouvaient prolonger leur vie indéfiniment en conservant leur cerveau dans des bocaux. |
 
+::::
 | d20 | Lore |
 |---|---|
-9| Les merveilles du monde de Toril sont vendues au Bazar du Bizarre de l'enclave. |
+9| Les merveilles du monde de Toril sont vendues au Baazar du Bizarre de l'enclave. |
 10| L'élite de la ville portait des robes en soie qui affichaient des motifs changeants et illusoires. |
 11| La plupart des habitants de la ville possédaient d'étranges animaux de compagnie chimériques, les lièvres ailés et les babouins venimeux étant particulièrement populaires. |
 | 12 | Les membres de l'orchestre d'Ythryn étaient connus dans tout le monde de Toril comme des maîtres dans leur art. |
@@ -11686,7 +11672,7 @@ Ythryn est maintenant une tombe remplie d'anciens secrets.
 {{footnote Chapitre 7 | La Chute d'Ythryn}}
 \page
 
-![](https://5e.tools/img/adventure/IDRotF/178-map-7.1-the-necropolis.jpg) {height:80%,position:absolute,display:flex,margin:auto,right:1.8cm,top:2.5cm}
+![](https://5e.tools/img/adventure/IDRotF/178-map-7.1-the-necropolis.jpg) {height:87%,position:absolute,display:flex,margin:auto,right:5px,top:35px}
 
 {{pageNumber,auto}}
 {{footnote Chapitre 7 | La Chute d'Ythryn}}
@@ -11796,7 +11782,7 @@ Huit vitraux surplombent un auditorium en ruine. Des bancs scintillants de givre
 {{footnote Chapitre 7 | La Chute d'Ythryn}}
 \page
 ![](https://5e.tools/img/adventure/IDRotF/181-07-002.png) {position:absolute,width:100%,left:0%,top:-30px}
-{{margin-top:410px,wide}}
+{{margin-top:420px,wide}}
 {{sidenote,top:420px,left:50px,color:white
 Tatie Piqûre, Tatie Saccage et Tatie Rapine  
 sont ouvertes aux affaires.
@@ -11870,7 +11856,7 @@ Une voûte de feuilles dorées couronne les arbres à l'intérieur d'un bassin e
 
 Le bosquet est niché dans un creux du sol de la ville. Des évents espacés autour de son mur d'enceinte émettent une vapeur grise et bouffie, qui s'élève au-dessus de la cime des arbres et se disperse en pluie. Au-dessus de l'arboretum, un hémisphère illusoire projette un faux ciel ; maintenant défectueux, le panorama oscille entre une tempête sauvage et un vaste champ d'étoiles.
 }}
-
+***Chêne du Néant.*** Un arbre appelé le Chêne du Néant pousse au coeur de l'arboretum. Pendant des siècles, les mages Néthérisses ont fabriqué leurs baguettes et leurs bâtons à partir du bois de ce chêne. Saturé par la magie profane, l'arbre a développé une conscience mélancolique et un visage noueux. Le Chêne du Néant utilise le bloc de stat  des Sylvanien mais est neutre et parle le commun et le primordial.
   
 
 
@@ -11905,10 +11891,7 @@ ___
 ***Bec.*** *Attaque avec une arme de corps à corps :* +3 pour toucher, portée de 1,5 m, une cible. *Touché :* 3 (1d4 + 1) dégâts perforants.
 }}
 
-
-
-***Chêne du Néant.*** Un arbre appelé le Chêne du Néant pousse au coeur de l'arboretum. Pendant des siècles, les mages Néthérisses ont fabriqué leurs baguettes et leurs bâtons à partir du bois de ce chêne. Saturé par la magie profane, l'arbre a développé une conscience mélancolique et un visage noueux. Le Chêne du Néant utilise le bloc de stat  des Sylvanien mais est neutre et parle le commun et le primordial.
-
+:
 Lorsque les personnages arrivent, le Chêne du Néant est dans un profond sommeil. Pour accomplir le Rite de l'Octade des Arcanes (voir "Rite de l'Octade des Arcanes"), ils doivent fabriquer une baguette avec le bois de cet arbre. Pour ramasser du bois sans réveiller l'arbre, il faut réussir un test de Dextérité (furtivité) DD 20. Si les personnages réveillent l'arbre, ils peuvent le convaincre de se séparer d'une partie de son bois en réussissant un test de Charisme (Persuasion) DD 15, mais seulement s'il croit qu'ils ont l'intention de faire de la magie maléfique avec. Le Chêne du Néant se met facilement en colère et se déracine s'il est poussé au combat. Lorsqu'il attaque, quatre Résinieux jaillissent du sol pour l'aider, agissant sur le même compte d'initiative.
 
 
@@ -11948,7 +11931,7 @@ Le monstre se réveille en tremblant si une source de lumière pénètre à plus
 
 ***Bancs de méditation.*** En s'asseyant sur ces bancs de cristal et en méditant, les citoyens d'Ythryn peuvent unir leur esprit à celui du Pentacle télépathique et obtenir des informations sur leur passé et leur avenir. Une créature qui s'assied sur le banc peut, après 1 minute de méditation, obtenir un renseignement de la table des savoirs d'Ythryn en réussissant un test de Sagesse (perspicacité) DD 15. Si le test échoue par 5 ou plus, les pensées errantes de la créature réveillent la chose dans le puits. Une créature ne peut obtenir qu'un seul aperçu du puits par jour, et seulement tant que le monstre est vivant.
 
-#### Y13. Bazar du Bizarre
+#### Y13. Baazar du Bizarre
 {{descriptive
 Une grande place de marché se trouve à une extrémité de cette esplanade, ses quatre tours brisées penchent vers l'intérieur. Des fanions délavés sont suspendus au-dessus de l'entrée, figés. Un grand bruit résonne à l'intérieur de la salle.
 }}
@@ -12065,10 +12048,10 @@ Les restes d'une tour renversée sont éparpillés autour de vous. Sa base fract
 {{pageNumber,auto}}
 {{footnote Chapitre 7 | La Chute d'Ythryn}}
 \page
-![](https://5e.tools/img/adventure/IDRotF/184-map-7.3-spire-of-iriolarthas.jpg) {width:90%,position:absolute,left:5%,top:3%,}
+![](https://5e.tools/img/adventure/IDRotF/184-map-7.3-spire-of-iriolarthas.jpg) {width:95%,position:absolute,left:2.5%,top:1%,}
 {{artist Stacey Allan and Will Doyle}}
 {{wide,margin-top:490px}}
-{{sidenote,top:530px,left:2cm
+{{sidenote,top:520px,left:40px
 Map 7.3 : Flèche d'Iriolarthas
 }}
 :
@@ -12118,7 +12101,7 @@ La salle de bal est en ruines, entourée de glace, ses meubles sont en désordre
 Trois sorciers de Néthérisse ont choisi de poursuivre leurs réjouissances dans la mort, chacun devenant des Cerebrum (voir annexe C). Les trois sorciers ont été rendus fous par leur existence de mort-vivant. Dissiper l'illusion les met dans une rage folle. Les visiteurs qui gâchent le bal de quelque façon que ce soit sont attaqués.
 
 ***Rejoindre le bal.*** Les personnages peuvent interagir librement avec l'environnement illusoire. La magie réagit à leurs actions, leur permettant de discuter avec les courtisans, de participer à la danse, ou même de goûter aux canapés. Toutes les figurines illusoires ne savent rien du destin d'Ythryn et ne sont intéressées que par les réjouissances et les ragots. Les personnages qui passent au moins 5 minutes à parler aux invités ou aux serviteurs illusoires apprennent un fait aléatoire de la table des savoirs d'Ythryn.
-\column
+
 #### Y19c. Chambres du Conseil
 Ces chambres servaient de bureaux aux bureaucrates qui géraient les opérations quotidiennes de la citadelle. Chaque pièce contient une seule table, une armoire remplie de rouleaux de parchemin en ruine et une commode contenant du matériel d'écriture. Tout est en désordre et couvert de glace.
 
@@ -12135,7 +12118,7 @@ Une lumière changeante verte, violette et bleue se répand dans cette pièce à
 }}
 Cette pièce rituelle est conçue pour servir un objectif macabre : la transformation d'une créature vivante en un **Cerebrum**. Veneranda, une magicienne Néthérisse neutre mauvaise, a extrait son propre cerveau pour en faire un Cerebrum (voir annexe C) qui est fixé sur le corps d'une **horreur casquée** sans tête. Si les personnages la menacent ou l'attaquent, Veneranda retourne l'horreur casquée contre le groupe et attaque. Bien qu'ils soient conjoints, le cerebrum et l'horreur casquée font des jets d'initiative séparés et attaquent comme des créatures distinctes. Le cerveau peut se détacher de l'horreur casquée en tant qu'action bonus.
 
-Contrairement à ses compagnons de la salle de bal (zone Y19b), Veneranda est froidement calculatrice et pleinement consciente du destin d'Ythryn. Si les personnages communiquent avec elle, elle les accueille avec méfiance en Loross (voir l'encadré "Loross : la langue Néthérisse") et tente de découvrir ce qui s'est passé dans le monde au cours des siècles qui ont suivi la chute d'Ythryn. Son unique objectif est de redonner à Ythryn sa gloire passée. Elle ne sait pas pourquoi la cité s'est effondrée, mais elle pense que l'obélisque brisé (voir zone Y21) peut remonter le temps pour réparer les dégâts. Pour activer sa magie, Veneranda dit qu'elle a besoin du bâton de surpuissance d'Iriolarthas, qu'il garde dans son bureau. Elle propose que les personnages s'introduisent dans le bureau d'Iriolarthas, volent son bâton et le lui apportent.
+Contrairement à ses compagnons de la salle de bal (zone Y19b), Veneranda est froidement calculatrice et pleinement consciente du destin d'Ythryn. Si les personnages communiquent avec elle, elle les accueille avec méfiance en Loross (voir l'encadré "Loross : la langue Néthérisse") et tente de découvrir ce qui s'est passé dans le monde au cours des siècles qui ont suivi la chute d'Ythryn. Son unique objectif est de redonner à Ythryn sa gloire passée. Elle ne sait pas pourquoi la cité s'est effondrée, mais elle pense que l'obélisque brisé (voir zone Y21) peut remonter le temps pour réparer les dégâts. Pour activer sa magie, Veneranda dit qu'elle a besoin du bâton de surpuissance d'Iriolarthas, qu'il garde dans son bureau. Elle propose que les personnages s'introduisent dans le bureau d'Iriolarthas, 
 
 {{pageNumber,auto}}
 {{footnote Chapitre 7 | La Chute d'Ythryn}}
@@ -12150,9 +12133,12 @@ Veneranda
 }}
 
 {{artist David Sladek}}
- Elle refuse de les accompagner, en raison du danger probable. S'ils accomplissent cette mission et reviennent avec le bâton, elle les escorte jusqu'à l'obélisque et tente de l'activer. Si les personnages ne sont pas disposés à aider Veneranda à atteindre son objectif, ils perdent rapidement leur utilité et elle tente de les détruire.
+volent son bâton et le lui apportent. Elle refuse de les accompagner, en raison du danger probable. S'ils accomplissent cette mission et reviennent avec le bâton, elle les escorte jusqu'à l'obélisque et tente de l'activer. Si les personnages ne sont pas disposés à aider Veneranda à atteindre son objectif, ils perdent rapidement leur utilité et elle tente de les détruire.
+
+
 
 ***Rituel de transfert de cerveau***. Veneranda peut utiliser l'équipement de cette chambre pour transformer un humanoïde en un **Cérébrum**. Ce rituel dure 24 heures et entraîne la mort et la liquéfaction du corps du sujet. Veneranda ne permet à personne de voir le rituel pendant qu'il se déroule.
+
 #### Y19f. Stockage des bâtons
 {{descriptive
 Cette pièce de forme irrégulière contient six bâtons rangés dans des étagères le long des murs, et de la place pour en ajouter.
@@ -12568,7 +12554,7 @@ Les personnages qui s'aventurent à l'intérieur du musée découvrent que des s
 
 ![](https://5e.tools/img/adventure/IDRotF/190-07-008.mimic.png){position:absolute,height:100%,right:-1px,top:0px,transform:scaleX(-1)}
 {{artist Eric Belisle}}
-{{sidenote,position:absolute,bottom:2cm,left:120px
+{{sidenote,position:absolute,bottom:50px,left:120px
 La taille de la mimique cracheuse lui permet de prendre   
 des formes grandes comme des murs ou des piliers.
 }}
@@ -12598,7 +12584,7 @@ Habitants de l'Underdark, les phaerimm sont des aberrations malveillantes qui so
 
 Huit grands portraits ornent les murs sous le dôme, représentant les huit apprentis d'Iriolarthas, connus sous le nom de Magiciens de l'Étoile d'Ébènes. Les portraits sont suspendus à 6 mètres du sol et une plaque recouverte de givre est fixée au mur juste en dessous de chacun d'eux. Les visages sur les portraits sont représentés comme regardant vers leur maître, Iriolarthas, avec des expressions de respect. Les personnages qui dégagent la glace des plaques peuvent apprendre leurs noms : Haut Abjurateur Taruth, Haut Conjurateur Damorith, Haut Devin Apius, Haut Nécromancien Cadavix, Haut Évocateur Zadulus, Haut Illusionniste Ajamar, Haut Enchanteur Ivira, et Haut Transmutateur Metaltra.
 
-\column
+
 ## Traiter avec la Confrérie des Arcanes
 Dans ce chapitre, deux sorciers de la Confrérie des Arcanes tentent de réaliser leurs grandes ambitions : Vellynne Harpell et Avarice. Tous deux sont décrits dans l'annexe C.
 
@@ -12740,7 +12726,7 @@ Si les personnages n'arrêtent pas Auril, son hiver éternel devient insupportab
 Les diables de glace aident à dégager la voie pour les duergars, qui ne vont nulle part à moins que les personnages ne tuent Xardorok Fléau-Solaire et mettent fin à sa lignée. Une fois que Dix-Cités n'est plus une menace pour sa suprématie, Xardorok fait tout son possible pour conquérir le reste de Valbise. S'ils ne sont pas contrôlés, les duergars deviennent une puissance dominante dans la région. Les démons de la glace, autrefois soumis à Levistus, sont forcés par Asmodée à aider les duergars à transformer le Grand Nord en un royaume vassal secrètement sous l'emprise des Neuf Enfers.
 
 
-{{sidenote,color:white,bottom:2cm,left:500px
+{{sidenote,color:white,bottom:30px,left:500px
 La fin de l'hiver annonce un regain de vie dans le Valbise.
 
 }}
@@ -12774,11 +12760,10 @@ inévitable de Netheril,
 ou à trouver un moyen  
 de l'arrêter.
 
-![](https://i.imgur.com/adOOxgg.png) {mix-blend-mode:multiply,position:absolute,bottom:0px,width:37%,right:2cm}
+![](https://i.imgur.com/adOOxgg.png) {mix-blend-mode:multiply,position:absolute,bottom:-30px,width:40%,right:0}
 {{artist Yvan Gawain Villeneuve}}
-{{sidenote,bottom:350px
-Necalli, le couatl  
-lié à l'obélisque,  
+{{sidenote,bottom:40px
+Necalli, le couatl lié à l'obélisque,  
 prend son envol.
 }}
 
@@ -12859,10 +12844,8 @@ J'ai une résistance aux dégâts de froid.
 ## Doppelganger
 
 Je suis un changeforme. Je n'ai aucun des traits de la race que j'imite, mais je conserve mes attribut de classe, mon passé et mon alignement. J'ai une vision dans le noir jusqu'à 18 m. Je peux utiliser une action pour :
-:
--- lancer de manière innée le sort *détection des pensées*, ne nécessitant aucun composant. Ma caractéristique pour lancer des sorts est l'Intelligence. Le JS Sagesse du sort est de 8 + Maîtrise + modificateur d'Intelligence.
-:
--- me polymorpher en n'importe quel humanoïde que j'ai vu ou reprendre ma véritable forme. Mes statistiques, autres que ma taille, ne changent pas. L'équipement que je porte ou que j'ai sur moi n'est pas transformé. Je reprends ma véritable forme lorsque je meurs.
+- lancer de manière innée le sort *détection des pensées*, ne nécessitant aucun composant. Ma caractéristique pour lancer des sorts est l'Intelligence. Le JS Sagesse du sort est de 8 + Maîtrise + modificateur d'Intelligence.
+- me polymorpher en n'importe quel humanoïde que j'ai vu ou reprendre ma véritable forme. Mes statistiques, autres que ma taille, ne changent pas. L'équipement que je porte ou que j'ai sur moi n'est pas transformé. Je reprends ma véritable forme lorsque je meurs.
 
 
 }}
@@ -13193,7 +13176,7 @@ Dzaan était un Magicien Rouge de Thay qui étudiait la tradition arcanique de l
 
 ![](https://i.imgur.com/SvcjZHF.jpg) {position:absolute,height:450px,mix-blend-mode:darken,top:0,left:60px}
 
-{{sidenote,top:420px,left:80px
+{{sidenote,top:430px,left:50px
 Avarice, son familier corbeau, et ses gargouilles.
 
 }}
@@ -13203,7 +13186,7 @@ Avarice, son familier corbeau, et ses gargouilles.
 {{footnote Annexe C | Créatures }}
 
 \page
-{{monster,frame,wide
+{{monster,frame
 ## Avarice
 *Humanoïde de taille M, Loyal Mauvais*
 ___
@@ -13244,8 +13227,12 @@ Le bâton regagne 1d6 + 4 charges par jour à l'aube. Si sa dernière charge est
 ### Réactions
 ***Réprimande bannissante (se recharge après un Repos Long).*** Lorsqu'Avarice est endommagée par une créature qu'elle peut voir à moins de 18 mètres d'elle, elle peut bannir cette créature dans une prison extradimensionnelle glaciale pendant 1 minute. Pendant ce temps, la créature est neutralisée et subit 5 (1d10) dégâts de froid au début de chacun de ses tours. À la fin de chacun de ses tours, la créature peut effectuer un jet de sauvegarde de Charisme DD 14, s'échapper de la prison en cas de réussite et réapparaître dans l'espace qu'elle a quitté ou dans l'espace inoccupé le plus proche si cet espace est occupé. Une créature qui meurt dans la prison y est piégée indéfiniment.
 }}
+ Les personnages n'ont pas l'occasion de parler avec Dzaan. Ils le rencontrent pour la première fois à Havre-du-Levant, attaché à un pieu et englouti dans les flammes (voir " [Peines et problèmes](#) "). Les Dix-Citadins profitent de l'exécution tant qu'elle dure. Après s'être réchauffés près du feu, ils laissent les cendres de Dzaan se disperser au vent.
 
-{{monster,frame,wide
+***Simulacre de Dzaan.*** A l'insu de ses bourreaux, Dzaan avait utilisé un parchemin de simulacre pour créer une copie de lui-même. Ce simulacre se trouve dans la flèche engloutie, attendant le retour de son créateur. Le simulacre, qui ressemble à Dzaan et agit comme lui, a la moitié des points de vie de Dzaan et ne peut pas récupérer les emplacements de sorts dépensés. 
+
+
+{{monster,frame
 ## Simulacre de Dzaan
 *Construction de taille M, Loyal Mauvais*
 ___
@@ -13289,16 +13276,14 @@ porte une armure en métal). *Touché :* 9 (2d8) dégâts de foudre, et la cible
 
 \page
 
-
-{{margin-top:400px,wide}}
+![](https://cdnb.artstation.com/p/assets/images/images/041/611/899/large/shawn-wood-dzaanandkrintaas-322948-fin-0c.jpg?1632200485) {position:absolute,height:480px,mix-blend-mode:darken,margin:auto,top:0,left:100px}
+{{margin-top:425px,wide}}
 {{sidenote,top:70px,left:50px
 Dzaan et son garde du corps nécrophage, Krintaas
 
 }}
 {{artist [Shawn Wood](https://www.artstation.com/artwork/kDYJzz)}}
-
-***Simulacre de Dzaan.*** A l'insu de ses bourreaux, Dzaan avait utilisé un parchemin de simulacre pour créer une copie de lui-même. Ce simulacre se trouve dans la flèche engloutie, attendant le retour de son créateur. Le simulacre, qui ressemble à Dzaan et agit comme lui, a la moitié des points de vie de Dzaan et ne peut pas récupérer les emplacements de sorts dépensés. 
-
+:
 Il a gaspillé ses emplacements de sorts de 3ème niveau en essayant de joindre Dzaan avec des sorts Communication à distance, en vain, et a dépensé d'autres emplacements de sorts pour l'aider à survivre aux périls de la flèche. Il utilise ses emplacements de sorts restants avec parcimonie. 
 
 La tour Néthérisse engloutie contient une pièce spéciale qui peut transformer le simulacre en une personne réelle, ou n'importe quelle illusion magique en une chose réelle, d'ailleurs. Si ce changement se produit, le simulacre devient effectivement un clone de Dzaan, authentique en tous points. Le bloc de statistiques et les capacités de Dzaan changent comme suit : 
@@ -13321,16 +13306,16 @@ Alors qu'elle s'apprêtait à quitter la Tour de l'Hôte, Nass entendit son maî
 Une nuit, pendant que les autres dormaient, Nass vola un *globe professeur* (voir annexe D) à une de ses camarades magiciennes, Vellynne Harpel ! 
 
 
-![](https://cdnb.artstation.com/p/assets/images/images/041/611/899/large/shawn-wood-dzaanandkrintaas-322948-fin-0c.jpg?1632200485) {position:absolute,height:410px,mix-blend-mode:darken,margin:auto,top:1.5cm,left:150px}
+
 
 
 {{pageNumber,auto}}
 {{footnote Annexe C | Créatures }}
 
 \page
-![](https://5e.tools/img/bestiary/IDRotF/Nass%20Lantomirs%20Ghost.jpg) {width:350px,mix-blend-mode:darken,position:absolute,left:2cm,top:1cm,z-index:1}
+![](https://5e.tools/img/bestiary/IDRotF/Nass%20Lantomirs%20Ghost.jpg) {width:420px,mix-blend-mode:darken,position:absolute,left:0,top:0,z-index:1}
 {{artist Zuzanna Wuzyk}}
-{{margin-top:330px}}
+{{margin-top:390px}}
 
 Deux des compagnons kobolds de Vellynne ont été témoins du vol, et Nass les a tués avec les sorts de *flèche acide de Melf* avant de s'enfuir avec l'orbe. Nass a fui Dix-Cités et s'est dirigé vers la mer de glace mouvante, espérant trouver un livre appelé le Codicille Blanc, un livre de magie et de savoir écrit par les serviteurs d'Auril la Vierge de Glace. La Confrérie des Arcanes pense que ce livre indique comment atteindre une cité magique perdue, enfouie dans la glace. Avant qu'elle ne puisse obtenir le livre, Nass a péri. Elle existe maintenant en tant que fantôme, incapable de se reposer jusqu'à ce qu'elle trouve le livre. Les personnages qui tombent sur les restes gelés de Nass trouvent également son livre de sorts et l'orbe qu'elle a volé à Vellynne.
 
@@ -13373,7 +13358,6 @@ Sortilège (à volonté)::: *main de mage, message, prestidigitation, rayon de g
 3ème niveau (3 emplacements) :: : *contre-sort*
 
 ### Actions
-
 ***Contact flétrissant.*** *Attaque au corps à corps avec une arme :* +5 au toucher, allonge 1,50 m, une cible. *Touché :* 17 (4d6 + 3) dégâts nécrotiques.
 :
 ***Forme éthérée.*** Le fantôme pénètre dans le plan éthéré à partir du plan matériel, ou inversement. Il est visible sur le plan matériel lorsqu'il se trouve à la Frontière éthérée, et inversement, bien qu'il ne puisse affecter ou être affecté par aucune chose venant de l'autre plan.
@@ -13383,15 +13367,11 @@ Sortilège (à volonté)::: *main de mage, message, prestidigitation, rayon de g
 ***Possession (Recharge 6).*** Un humanoïde que le fantôme peut voir et se trouvant à 1,50 mètre de lui doit réussir un jet de sauvegarde de Charisme DD 13 ou être possédé par le fantôme ; le fantôme disparait alors, et la cible est incapable d'agir et perd le contrôle de son corps. Le fantôme contrôle désormais le corps de la cible, mais ne prive pas la cible de sa conscience. Le fantôme ne peut être pris pour cible par aucune attaque, sort, ou autres effets, à part ceux qui repoussent les morts-vivants, et il conserve son alignement, ses valeurs d'Intelligence, de Sagesse et de Charisme, ainsi que son immunité aux effets charmé et effrayé. Pour le reste, il utilise les statistiques de la cible, mais sans avoir accès à ses connaissances, capacités de classe et maîtrises.
 
 La possession dure jusqu'à ce que la cible tombe à 0 point de vie, que le fantôme l'annule par une action bonus, ou que le fantôme soit repoussé ou renvoyé de force par un effet similaire au sort de dissipation du mal et du bien. Lorsque la possession se termine, le fantôme réapparaît dans un espace inoccupé situé à 1,50 mètre du corps. Une cible est immunisée contre la possession du fantôme pendant 24 heures si elle réussit son jet de sauvegarde ou si la possession se termine.
-
 }}
 
 
 
 
-
-{{pageNumber,auto}}
-{{footnote Annexe C | Créatures }}
 
 \page
 ![](https://i.imgur.com/fStAYJE.png) {position:absolute,width:100%,left:0%,top:-20px,mix-blend-mode:darken}
@@ -13433,7 +13413,7 @@ Si elle est blessée, Vellynne peut lancer *Toucher vampirique* et utiliser le s
 {{footnote Annexe C | Créatures }}
 
 \page
-:::
+::::::::
 {{watercolor2,top:-220px,left:-230px,width:700px,background-color:lightblue,opacity:80%}}
 
 {{watercolor8,top:20px,left:30px,width:380px,background-color:black,opacity:20%}}
@@ -13592,16 +13572,16 @@ La troisième forme d'Auril, appelée le Ventre de l'Hiver ou la Reine des Larme
 {{footnote Annexe C | Créatures }}
 
 \page
-![](https://i.imgur.com/d4Ja2B0.png) {position:absolute,width:31%,top:-20px,left:40%,z-index:0,mix-blend-mode:darken}
-![](https://i.imgur.com/CvYLWT7.png) {position:absolute,width:31%,top:-20px,left:40%,z-index:1}
+![](https://i.imgur.com/d4Ja2B0.png) {position:absolute,width:31%,top:0,left:40%,z-index:0,mix-blend-mode:darken}
+![](https://i.imgur.com/CvYLWT7.png) {position:absolute,width:31%,top:0,left:40%,z-index:1}
 {{artist Richard Whitters}}
-{{sidenote,top:210px,left:270px
+{{sidenote,top:220px,left:270px
 Méphite de Glace
 }}
 {{watercolor6,top:20px,left:30px,width:600px,background-color:lightblue,opacity:90%}}
 {{watercolor7,top:20px,left:230px,width:600px,background-color:lightblue,opacity:90%}}
 
-::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::
 {{monster,frame,wide
 ## Auril (Deuxième forme)
 *Elementaire de taille G, Neutre Mauvais*
@@ -13663,7 +13643,7 @@ Auril peut faire 3 actions légendaires, en choisissant parmi les options ci-des
 
 \page
 
-![](https://media-waterdeep.cursecdn.com/avatars/thumbnails/12734/837/1000/1000/637357081582974245.jpeg) {mix-blend-mode:darken,width:310px,wide,display:flex,margin:auto,margin-top:-20px}
+![](https://media-waterdeep.cursecdn.com/avatars/thumbnails/12734/837/1000/1000/637357081582974245.jpeg) {mix-blend-mode:darken,width:370px,wide,display:flex,margin:auto,margin-top:-50px}
 
 {{artist David Rene Christensen}}
 
@@ -13723,7 +13703,7 @@ Auril peut faire 3 actions légendaires, en choisissant parmi les options ci-des
 {{footnote Annexe C | Créatures }}
 
 \page
-![](https://www.dndbeyond.com/avatars/thumbnails/12734/848/1000/1000/637357081601226048.jpeg) {mix-blend-mode:darken,width:400px,display:flex,margin-left:-15px}
+![](https://www.dndbeyond.com/avatars/thumbnails/12734/848/1000/1000/637357081601226048.jpeg) {mix-blend-mode:darken,width:400px,display:flex,margin:auto,margin-top:-10px}
 {{artist David Rene Christensen}}
 ::
 ## Cérébrum
@@ -13781,7 +13761,7 @@ ___
 
 \page
 
-![](https://i.imgur.com/5ZWHAJc.jpg) {mix-blend-mode:darken,width:400px,margin-top:-38px,z-index:1,position:absolute,left:1cm}
+![](https://i.imgur.com/5ZWHAJc.jpg) {mix-blend-mode:darken,width:440px,margin-top:-38px,z-index:1,position:absolute,left:15px}
 
 {{artist Chris Rahn}}
 ::::::::::::::::::::::::
@@ -13903,7 +13883,7 @@ Les chwingas ressemblent à des poupées animées de 15 cm de haut, avec des vis
 Fascination Humanoïde. Les Chwingas trouvent les signes évidents de civilisation fascinants. Ils s'interrogent sur les créatures qui portent une armure, des armes, des outils et font la cuisine. Lorsqu'un chwinga rencontre un ou plusieurs humanoïdes, sa curiosité prend parfois le dessus et il les suit pendant un court moment pour les observer. S'il se prend d'affection pour un humanoïde, le chwinga peut utiliser ses sorts pour aider la créature ou lui offrir un cadeau magique avant de partir. L'aspect qui attire un chwinga vers un humanoïde peut prendre n'importe quelle forme. Dans certains cas, un chwinga peut simplement aimer la façon dont un humanoïde marche ou se coiffe. D'autres fois, il peut être séduit par la capacité d'un humanoïde à jouer de la musique ou à manger de grandes quantités de nourriture.
 
 \column
-::::::::::::::::
+::::::::::::::::::::::::
 {{monster,frame
 ## Chwinga
 *Elementaire de taille TP, Neutre*
@@ -14100,8 +14080,8 @@ Les duergars sont en guerre contre leurs cousins nains et toutes les races vivan
 Le marteleur est une construction bipède avec un duergar attaché à l'intérieur. L'un de ses bras se termine par une pince, l'autre par un grand marteau à la place de la main. La machine transforme la douleur du duergar captif en énergie qui alimente l'appareil, qui est généralement utilisé pour creuser des tunnels et repousser les envahisseurs.
 \column
 
-![](https://www.aidedd.org/dnd/images/duergar.jpg) {width:250px,mix-blend-mode:darken,position:absolute,top:1cm,z-index:1,right:1.5cm}
-::::::::::::::::::
+![](https://www.aidedd.org/dnd/images/duergar.jpg) {width:290px,mix-blend-mode:darken,position:absolute,top:5px,z-index:1,right:50px}
+:::::::::::::::::::
 {{monster,frame
 
 ## Duergar
@@ -14235,11 +14215,11 @@ Les redoutables maîtres de l'esprit duergars opèrent généralement en tant qu
 La Gardepierre est une troupe d'élite duergar, déployée en petit nombre pour renforcer les groupes de guerriers réguliers ou organisée en forces de frappe d'élite pour des missions spécifiques.
 
 
-![](https://i.imgur.com/1Ty3QS9.png) {mix-blend-mode:darken,width:52%,position:absolute,top:130px,left:1cm,z-index:1}
+![](https://i.imgur.com/1Ty3QS9.png) {mix-blend-mode:darken,width:59%,position:absolute,top:100px,left:-10px,z-index:}
 {{artist Chris Rahn}}
-![](https://www.aidedd.org/dnd/images/duergar-stone-guard.jpg) {mix-blend-mode:darken,width:40%,position:absolute,bottom:445px,right:1cm,z-index:1}
+![](https://www.aidedd.org/dnd/images/duergar-stone-guard.jpg) {mix-blend-mode:darken,width:44%,position:absolute,bottom:445px,right:5px,z-index:1}
 
-:::
+::::
 
 {{monster,frame,wide,margin-top:435px
 ## Duergar, Gardepierre
@@ -14273,7 +14253,7 @@ ___
 **_Agrandissement (Recharge après un repos court ou long)_**. Pendant 1 minute, le duergar augmente par magie sa taille, ainsi que celle des objets qu'il porte et transporte. Tant que sa taille est augmentée, le duergar est de taille G, double les dés de dégâts qu'il lance lors d'attaques avec des armes basées sur la Force (bonus inclus ci-dessus), et effectue les jets de Force et les jets de sauvegarde de Force avec un avantage. Si le duergar n'a pas assez de place pour atteindre la taille G, il grandit jusqu'à atteindre la taille maximale possible dans l'espace disponible.
 :
 **_Invisibilité (Recharge 4-6)_**. Le duergar devient invisible par magie pendant 1 heure maximum ou jusqu'à ce qu'il attaque, lance un sort, utilise son action Agrandissement, ou que sa concentration soit brisée (comme s'il se concentrait sur un sort). Tout l'équipement que le duergar porte ou transporte est également invisible.
-
+:
 }}
 
 
@@ -14292,7 +14272,7 @@ Xardorok Fléau-Solaire dirige le clan des duergars Fléau-Solaire qui, jusqu'à
 ***Père de neuf enfants.*** Xardorok a été marié trois fois et a engendré neuf enfants. Il a tué sa première femme, Thizrun, qui complotait pour l'assassiner. Sa deuxième femme, Yrraska, a été tuée dans l'effondrement d'un tunnel avec deux de leurs filles. Sa troisième femme, Marral, a été tuée lors d'un raid contre une enclave de flagelleurs Mentaux, ainsi qu'une autre fille et trois fils. Xardorok a tué son fils aîné, Ulthoon, fils de Thizrun, qui complotait pour le renverser. Ses descendants survivants sont deux fils que lui a donnés Marral, nommés Durth et Nildar.
 
 ***Vêtu de Chardalyn.*** Xardorok porte les objets non magiques suivants, fabriqués à partir de chardalyn : une couronne à neuf branches (deux branches intactes représentant ses deux fils survivants, et sept branches partiellement brisées représentant ses sept enfants morts), une cotte de mailles et un gantelet à pointes.
-:
+
 }}
 
 ![](https://pbs.twimg.com/media/EhYpj6iXgAAj8dl?format=jpg&name=4096x4096) {mix-blend-mode:darken,width:60%,position:absolute,top:0,right:-50px}
@@ -14325,7 +14305,7 @@ A volonté ::: *Décharge occulte* (voir "Actions" ci-dessous), *main de mage*
 1/jour chacun ::: *Immobilisation de personne, suggestion*
 :
 **_Sensibilité au soleil_**. S'il est exposé à la lumière du soleil, le duergar a un désavantage aux jets d'attaque et aux jets de Sagesse (Perception) basés sur la vue.
-:::
+:
 ### Actions
 ***Attaques multiples.*** Xardorok attaque deux fois avec une arme ou lance deux fois la décharge occulte.
 :
@@ -14338,27 +14318,27 @@ A volonté ::: *Décharge occulte* (voir "Actions" ci-dessous), *main de mage*
 ***Invisibilité (Recharge 4-6).*** Xardorok devient magiquement invisible jusqu'à ce qu'il attaque, qu'il lance un sort, qu'il utilise son Agrandissement, ou que sa concentration soit rompue (comme s'il se concentrait sur un sort). Tout équipement que Xardorok porte ou transporte est invisible avec lui.
 ### Réactions
 ***Représailles infernales (2/Jour).*** Lorsque Xardorok reçoit des dégâts d'une créature située à moins de 18 mètres de lui et qu'il peut la voir, la créature est engloutie dans des flammes infernales et doit effectuer un jet de sauvegarde de Dextérité DD 15, subissant 16 (3d10) dégâts de feu en cas d'échec, ou la moitié des dégâts en cas de réussite.
-
+:
 }}
 
 {{pageNumber,auto}}
 {{footnote Annexe C | Créatures }}
 
 \page
-![](https://www.aidedd.org/dnd/images/frost-druid.jpg) {mix-blend-mode:darken,width:38%,position:absolute,top:0,right:40px,z-index:}
-![renard](https://i.imgur.com/kfl50WK.jpg) {mix-blend-mode:darken,width:35%,position:absolute,top:1.5cm,left:150px,transform:rotate(10deg)}
-{{sidenote,left:430px,top:250px
+![](https://www.aidedd.org/dnd/images/frost-druid.jpg) {mix-blend-mode:darken,width:43%,position:absolute,top:0,right:0px,z-index:1}
+![](https://i.imgur.com/kfl50WK.jpg) {mix-blend-mode:darken,width:45%,position:absolute,top:0,left:80px}
+{{sidenote,left:700px,top:250px
 Druide du Givre
 }}
 
-::::::::::::::
+:::::::::::::::::
 {{
 ## Renard
 
 Les renards arctiques blancs du Valbise vivent dans des terriers et sont acclimatés au froid. Ils rôdent aux abords des Dix-Cités et dans les forêts avoisinantes à la recherche de nourriture, chassant les lièvres ou volant les poissons. Ces créatures timides évitent tout contact avec les humanoïdes, mais elles sont parfois utilisées comme monture par les chwingas (voir [Chwinga](#p293)).
 }}
 
-:::::::::::::::::::::::
+:::::::::::::::::::::::::::::
 {{monster,frame,wide
 ## Renard
 *Bête de taille TP, sans alignement*
@@ -14480,8 +14460,8 @@ Les nécromanciens peuvent transformer les os inanimés de géants des glaces mo
 {{footnote Annexe C | Créatures }}
 
 \page
-![](https://i.imgur.com/wMs8X6M.jpg) {width:50%,position:absolute,mix-blend-mode:darken,left:0.5cm,top:0}
-:::::::::::::::::::
+![](https://i.imgur.com/wMs8X6M.jpg) {width:54%,position:absolute,mix-blend-mode:darken,left:0,top:0}
+:::::::::::::::::::::::::::::
 {{monster,frame
 ## Gnoll vampire
 *Mort-vivant de taille M (métamorphe), chaotique mauvais*
@@ -14507,15 +14487,15 @@ ___
 :
 ***Régénération.*** Le vampire récupère 10 points de vie au début de son tour s'il possède au moins 1 point de vie et qu'il n'est ni exposé à la lumière du soleil ou dans une étendue d'eau courante. Si le vampire subit des dégâts radiants ou des dégâts via de l'eau bénite, ce trait ne fonctionne pas au début de son prochain tour.
 :
-***Métamorphe.*** Si le vampire n'est pas exposé à la lumière du soleil ou dans une étendue d'eau courante, il peut utiliser son action pour se métamorphoser en une [**
-Hyène géante**](https://www.aidedd.org/dnd/monstres.php?vf=hyene-geante) ou en un nuage de brouillard de taille M, ou pour reprendre sa forme véritable. Tant qu'il est sous forme de hyène, le vampire ne peut pas parler, sa vitesse de déplacement monte à 15m. Mises à part sa taille et sa vitesse, ses statistiques sont les mêmes quelle que soit sa forme. Tout ce qu'il porte sur lui est transformé avec lui, contrairement à ce qu'il transporte. Il retrouve sa forme véritable s'il meurt. 
+***Métamorphe.*** Si le vampire n'est pas exposé à la lumière du soleil ou dans une étendue d'eau courante, il peut utiliser son action pour se métamorphoser en une **[
+Hyène géante](https://www.aidedd.org/dnd/monstres.php?vf=hyene-geante)** ou en un nuage de brouillard de taille M, ou pour reprendre sa forme véritable. Tant qu'il est sous forme de hyène, le vampire ne peut pas parler, sa vitesse de déplacement monte à 15m. Mises à part sa taille et sa vitesse, ses statistiques sont les mêmes quelle que soit sa forme. Tout ce qu'il porte sur lui est transformé avec lui, contrairement à ce qu'il transporte. Il retrouve sa forme véritable s'il meurt. 
 
-Tant qu'il est sous forme brumeuse, le vampire ne peut effectuer aucune action, parler ou manipuler un objet. Il est en apesanteur, obtient une vitesse de vol de 6 mètres, peut rester en vol stationnaire, pénétrer dans l'espace d'une créature hostile et s'y arrêter. De plus, si de l'air peut passer par un petit espace, le nuage de brume le peut également sans être considéré comme passant dans un espace étroit.
+
 }}
 \column
 
 {{monster,frame
- Le nuage ne peut pas pénétrer dans l'eau. Il a un avantage aux jets de sauvegarde de Force, Dextérité et Constitution, et est immunisé contre tous les dégâts non magiques, à l'exception des dégâts qu'il subit du soleil.
+Tant qu'il est sous forme brumeuse, le vampire ne peut effectuer aucune action, parler ou manipuler un objet. Il est en apesanteur, obtient une vitesse de vol de 6 mètres, peut rester en vol stationnaire, pénétrer dans l'espace d'une créature hostile et s'y arrêter. De plus, si de l'air peut passer par un petit espace, le nuage de brume le peut également sans être considéré comme passant dans un espace étroit. Le nuage ne peut pas pénétrer dans l'eau. Il a un avantage aux jets de sauvegarde de Force, Dextérité et Constitution, et est immunisé contre tous les dégâts non magiques, à l'exception des dégâts qu'il subit du soleil.
 
 :
 ***Nature inhabituelle.*** Le vampire n'a pas besoin d'air.
@@ -14550,7 +14530,7 @@ immunisée contre le Regard Écoeurant de ce vampire pendant 24 heures.
 {{footnote Annexe C | Créatures }}
 
 \page
-
+:::::::::::::::
 ## Gnoll Vampire
 
 Lorsque la faim vorace d'un gnoll est telle qu'il a envie de chair et de sang même après sa mort, il peut se transformer en vampire pour poursuivre sa frénésie dévorante. Un gnoll vampire est un prédateur sauvage qui se nourrit du sang des vivants. Il pousse un caquètement maniaque lorsqu'il sent l'odeur de sa proie et s'approche rapidement pour la tuer, arrachant la chair avec ses griffes, se gavant de viande et de sang, et ne laissant derrière lui que des os, des cartilages et les affaires de la victime éclaboussées de sang.
@@ -14607,11 +14587,6 @@ Augmentation du score de capacité. Votre score de Force augmente de 2, et votre
 
 ***Endurance de la Pierre***. Vous pouvez vous concentrer pour échapper occasionnellement à une blessure. Lorsque vous subissez des dégâts, vous pouvez utiliser votre réaction pour lancer un d 12. Ajoutez votre modificateur de Constitution au nombre obtenu et réduisez les dégâts de ce total. Après avoir utilisé ce trait, vous ne pouvez pas le réutiliser avant d'avoir terminé un repos court ou long.
 
-***Bien Bâti***. Vous comptez pour une taille de plus pour déterminer votre capacité de charge et le poids que vous pouvez pousser, traîner ou soulever.
-
-***Montagnard***. Vous avez une résistance aux dégâts de froid. Vous êtes également acclimaté à la haute altitude, y compris à des altitudes supérieures à 6 000 mètres. 
-
-***Langues***. Vous pouvez parler, lire et écrire le commun et le géant.
 
 
 
@@ -14624,6 +14599,11 @@ Augmentation du score de capacité. Votre score de Force augmente de 2, et votre
 :
 \column
 
+***Bien Bâti***. Vous comptez pour une taille de plus pour déterminer votre capacité de charge et le poids que vous pouvez pousser, traîner ou soulever.
+
+***Montagnard***. Vous avez une résistance aux dégâts de froid. Vous êtes également acclimaté à la haute altitude, y compris à des altitudes supérieures à 6 000 mètres. 
+
+***Langues***. Vous pouvez parler, lire et écrire le commun et le géant.
 
 ### Les Goliaths de l'Épine Dorsale du Monde
 
@@ -14759,7 +14739,7 @@ Cœurs de trolls de glace. Le cœur d'un troll de glace reste froid même après
 {{footnote Annexe C | Créatures }}
 
 \page
-
+::::::::::::
 - Une guenaude ou une créature similaire peut effectuer un rituel qui transforme le cœur en un talisman magique qui agit comme une tache de moisissure brune (voir le Guide du Maître du Donjon). Cet effet dure jusqu'à ce que le cœur soit détruit. 
 
 - Les créatures maîtrisant les fournitures d'alchimiste peuvent extraire suffisamment de fluide résiduel du cœur pour le mélanger à d'autres ingrédients alchimiques, créant ainsi une potion de résistance (froid). Il faut 1 heure pour créer cette potion.
@@ -14797,7 +14777,7 @@ ___
 
 }}
 
-![](https://www.aidedd.org/dnd/images/knucklehead-trout.jpg) {width:42%,mix-blend-mode:darken,position:absolute,top:0cm,right:2cm}
+![](https://www.aidedd.org/dnd/images/knucklehead-trout.jpg) {width:52%,mix-blend-mode:darken,position:absolute,top:-30px,right:0}
 {{artist Claudio Pozas}}
 
 \column
@@ -14891,10 +14871,11 @@ ___
 
 \page
 
-![](https://i.imgur.com/DaOGjCR.png) {position:absolute,top:80px,right:15px,width:50%,transform:scaleX(-1)}
+![](https://i.imgur.com/DaOGjCR.png) {position:absolute,top:80px,right:15px,width:56%}
 {{artist april prime}}
 
 
+::::
 {{monster,frame
 ## Kobold du Valbise, Zombie
 *Mort-vivant de taille P, tout alignement*
@@ -15062,7 +15043,7 @@ ___
 ### Réactions
 ***Frappe préventive***. Le sort vivant effectue une attaque de mêlée contre une créature qui commence son tour dans un rayon de 1,5 mètre du sort vivant.
 }}
-:::::::::::::::
+:
 {{monster,frame
 ## Demi-plan vivant
 *Artificiel de taille M non alignée*
@@ -15103,7 +15084,7 @@ Si une section est réduite à 0 point de vie, le sort vivant et sa chambre sont
 {{footnote Annexe C | Créatures }}
 
 \page
-![magen demos](https://media-waterdeep.cursecdn.com/avatars/12734/859/637357081615109979.png) {width:50%,position:absolute,bottom:60px,left:2cm,z-index:0}
+![magen demos](https://media-waterdeep.cursecdn.com/avatars/12734/859/637357081615109979.png) {width:50%,position:absolute,bottom:60px,left:20px,z-index:0}
 {{artist Nikki Dawes}}
 
 ## Magen
@@ -15124,7 +15105,7 @@ Les magen Galvan peuvent voler. Ils stockent également de l'électricité stati
 
 Les magen Hypnos sont télépathes et utilisent leur pouvoir de suggestion pour contrôler les autres. Leurs créateurs les utilisent pour forcer les ennemis à se retirer ou à se rendre. Un magen hypnos ne porte pas d'armes et se fie entièrement à ses capacités psychiques pour manipuler et blesser les autres créatures.
 
-![](https://media-waterdeep.cursecdn.com/avatars/thumbnails/12734/876/1000/1000/637357081640693844.jpeg) {width:28%,position:absolute,top:1.5cm,right:2cm,mix-blend-mode:darken}
+![](https://media-waterdeep.cursecdn.com/avatars/thumbnails/12734/876/1000/1000/637357081640693844.jpeg) {width:31%,position:absolute,top:10px,right:100px,mix-blend-mode:darken}
 
 \column
 :::::::::::::::::::::::::::::::
@@ -15170,17 +15151,17 @@ ___
 
 
 
-![magen hypnos](https://i.imgur.com/Dh3KA1g.png) {width:15%,position:absolute,top:2cm,right:2cm,z-index:1,}
+![magen hypnos](https://i.imgur.com/Dh3KA1g.png) {width:18%,position:absolute,top:5px,right:34px,z-index:1,}
 
 
 
 <!-- ![](https://i.imgur.com/xJFqDGv.png) {width:35%,position:absolute,top:0,left:130px} -->
 
- ![magen galvan](https://i.imgur.com/0rwpOKk.png) {width:40%,position:absolute,top:2cm,left:2cm} 
+ ![magen galvan](https://i.imgur.com/0rwpOKk.png) {width:50%,position:absolute,top:0,left:30px} 
 
 {{artist April prime, Nikki Dawes}}
 
-{{margin-top:300px,wide}}
+{{margin-top:340px,wide}}
 
 {{monster,frame
 ## Magen, Galvan
@@ -15298,9 +15279,9 @@ ___
 }}
 
 \column
-![](https://i.imgur.com/EKj1B6i.jpg) {position:absolute,top:0px,mix-blend-mode:darken,width:45%,right:50px}
+![](https://i.imgur.com/EKj1B6i.jpg) {position:absolute,top:-35px,mix-blend-mode:darken,width:50%,right:-15px}
 {{artist David Rene Christensen}}
-{{sidenote,top:2cm,left:600px
+{{sidenote,top:50px,left:650px
 Gnome Teuthide
 }}
 
@@ -15343,7 +15324,7 @@ ___
 
 \page
 
-![](https://i.imgur.com/GuJgOvg.jpg) {position:absolute,top:0px,mix-blend-mode:darken,width:45%,right:0px}
+![](https://i.imgur.com/GuJgOvg.jpg) {position:absolute,top:-45px,mix-blend-mode:darken,width:50%,right:-35px}
 {{artist Shawn Wood}}
 {{sidenote,top:300px,left:420px
 Gnome Cérémorphe
@@ -15412,7 +15393,7 @@ ___
 {{footnote Annexe C | Créatures }}
 
 \page
-![](https://www.aidedd.org/dnd/images/mountain-goat.jpg) {position:absolute,mix-blend-mode:darken,width:43%,left:1cm,top:1.5cm}
+![](https://www.aidedd.org/dnd/images/mountain-goat.jpg) {position:absolute,top:-45px,mix-blend-mode:darken,width:48%,left:-5px,top:5px}
 {{artist Leesha Hannigan}}
 {{margin-top:350px}}
 ## Chèvre de montagne
@@ -15480,7 +15461,7 @@ Le Roi des Ours, âgé de trente ans, a une silhouette impressionnante et est r�
 
 {{artist Caio Monteiro}}
 
-:::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::
 {{monster,frame,
 ## Jarund Elkhardt
 *Humanoïde (humain) de taille M, neutre*
@@ -15513,7 +15494,7 @@ ___
 
 }}
 \column
-::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::
 {{monster,frame
 ## Gunvald Halraggson
 *Humanoïde (humain) de taille M, neutre*
@@ -15556,7 +15537,7 @@ ___
 
 \page
 
-![](https://5e.tools/img/adventure/IDRotF/250-08-015.bjornhild.png) {position:absolute,width:64%,top:1.5cm,left:17%}
+![](https://5e.tools/img/adventure/IDRotF/250-08-015.bjornhild.png) {position:absolute,width:68%,top:1%,left:17%}
 {{artist Jesper Ejsing}}
 {{sidenote,top:100px,left:100px
 Reine Bjornhild Solvigsdottir et  
@@ -15599,7 +15580,7 @@ Comme si elle n'était pas assez redoutable, Bjornhild a un tigre à dents de sa
 \page
 ![](https://i.imgur.com/bvHnlTU.png) {width:100%,top:0,left:0,position:absolute}
 {{artist Vilenko Vujicevic}}
-::::::::::
+::::::::::::
 
 {{monster,frame
 ## Bjornhild Solvigsdottir
@@ -15670,19 +15651,19 @@ ___
 ***Serpe***. Attaque avec une arme de corps à corps : +6 pour toucher, portée de 1,5 m, une cible. Touché : 5 (1d4 + 3) points de dégâts perforants, plus 13 (2d12) points de dégâts perforants si la cible n'a aucun allié qu'elle peut voir dans un rayon de 3 mètres. 
 :
 ***Arbalète lourde***. Attaque d'arme à distance : +6 pour toucher, portée de 30/120 m, une cible. Touché : 8 (1d10 + 3) points de dégâts perforants.
-:
+
 }}
 
 {{pageNumber,auto}}
 {{footnote Annexe C | Créatures }}
 
 \page
-![](https://5e.tools/img/adventure/IDRotF/249-08-016.reghed.png) {width:90%,top:2cm,left:1cm,position:absolute}
-{{sidenote,top:500px,left:150px
+![](https://5e.tools/img/adventure/IDRotF/249-08-016.reghed.png) {width:100%,top:0,left:0,position:absolute}
+{{sidenote,top:460px,left:150px
 Chasseurs Regh des quatre tribus
 }}
 {{artist Zoltan Boros, Leesha Hannigan}}
-:::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::
 ## Rennes
 Pour s'assurer de ne pas mourir de faim en hiver, les nomades Regh du Valbise suivent les routes de migration des troupeaux de rennes et veillent à ne pas épuiser les troupeaux au point que les bêtes ne puissent plus prospérer ou se défendre contre d'autres prédateurs naturels.
 
@@ -15690,8 +15671,8 @@ Le renne adulte moyen mesure 1,5 m à l'épaule et pèse 100 kg. Les rennes mâl
 
 ***Caractéristiques***. Un renne utilise le bloc de statistiques de l'**élan** dans le manuel des monstres. Il est acclimaté au froid. Environ un renne sur six au Valbise possède une caractéristique magique rare : des bois phosphorescents qui émettent une faible lumière jusqu'à une distance de 3 mètres.
 
-![](https://www.aidedd.org/dnd/images/seal.jpg) {position:absolute,bottom:50px,left:0,width:43%,mix-blend-mode:darken}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![](https://www.aidedd.org/dnd/images/seal.jpg) {position:absolute,bottom:50px,left:0,width:45%,mix-blend-mode:darken}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ## Phoque
 Les phoques originaires de la mer de glace mouvante s'échouent souvent sur les banquises et les rivages rocheux. Ils sont acclimatés au froid et se nourrissent principalement de petits poissons, de calmars et de palourdes. Les bébés phoques ont une fourrure blanc jaunâtre, qui devient gris argenté à l'âge adulte.
 
@@ -15782,15 +15763,15 @@ L'ours-hibou polaire combine les caractéristiques physiques d'un harfang des ne
 ![](https://i.imgur.com/nBjEIT7.png){width:100%,top:0,left:0,position:absolute}
 {{artist  Andrew Mar}}
 {{margin-top:400px,wide}}
-:
 ## Cachalot
 Le cachalot est un mammifère aquatique à dents qui peut atteindre jusqu'à 20 mètres de long. Leurs prédateurs naturels sont les baleiniers et leurs congénères léviathans, comme les tortues-dragons et les krakens.
+
+
 :::::::::::
 
 ## Thaalud (Percetombe)
 
 Les arcanistes Néthérisses qui ont créé ces créatures les appelaient "thaluud", ce qui signifie "sans visage". Issus de la fusion de la magie et de la terre élémentaire, chacun de ces guerriers asexués et glabres mesure entre 4,5 et 6 mètres et possède une soif de magie, une mémoire héritée (composée des souvenirs des âmes sacrifiées pour leur création) et une haine insensée pour les créatures non humaines qui jettent des sorts.
-::
 {{monster,frame,wide
 ## Cachalot
 *Bête de taille Gig, sans alignement*
@@ -15812,7 +15793,7 @@ ___
 **_Apnée_**. Le cachalot peut retenir son souffle durant 90 minutes.
 :
 **_Ouïe aiguisée_**. Le cachalot a un avantage aux jets de Sagesse (Perception) basés sur l'ouïe.
-::
+
 ### Actions
 
 **_Attaques multiples_**. Le cachalot réalise deux attaques : une de morsure et une avec sa queue.
@@ -15821,15 +15802,16 @@ ___
 :
 **_Queue_**. _Attaque au corps à corps avec une arme_ : +11 au toucher, allonge 4,50 m, une cible. _Touché_ : 18 (3d6 + 8) dégâts contondants, ou 37 (6d6 + 16) dégâts contondants si la cible est un objet.
 
+
 }}
 
 {{pageNumber,auto}}
 {{footnote Annexe C | Créatures }}
 
 \page
-![](https://i.imgur.com/7fPoDsI.png) {width:55%,position:absolute,top:0,left:0,z-index:1}
+![](https://i.imgur.com/7fPoDsI.png) {width:62%,position:absolute,top:-5%,left:-7%,z-index:1}
 {{artist David Sladek}}
-{{margin-top:505px}}
+{{margin-top:525px}}
 
  Les percetombes peuvent creuser la terre et la roche avec leurs griffes ou utiliser leurs masses métalliques pour briser la roche si nécessaire. Ils absorbent l'eau par leur peau et écrasent la roche avec leurs mâchoires pour en extraire des minéraux de subsistance. Ils peuvent également digérer le fer du sang et de la moelle, si une roche riche en minéraux n'est pas disponible.
 
@@ -15882,14 +15864,13 @@ ___
 {{footnote Annexe C | Créatures }}
 
 \page
-![](https://i.imgur.com/R4FewdC.png) {width:45%,position:absolute,top:0%,right:1cm,mix-blend-mode:darken}
+![](https://i.imgur.com/R4FewdC.png) {width:46%,position:absolute,top:0%,right:0%,mix-blend-mode:darken}
 {{artist David Sladek}}
 
 ## Verbeeg
 Les Verbeeg sont des géants qui ressemblent à des humains surdimensionnés, avec des membres chétifs et des visages allongés. Certains ont d'autres caractéristiques qui leur donnent un aspect redoutable. Les Verbeeg fabriquent eux-mêmes leurs armures et leurs armes. Ils préfèrent les lances de jet à toutes les autres armes, et un verbeeg possède généralement plusieurs lances à cet effet.
 
 ***Maraudeurs***. Les Verbeeg se conduisent comme des brigands, volant les gens qu'ils rencontrent dans la nature. Si la nourriture se fait rare, ils tuent ces mêmes personnes et les mangent. Ils préfèrent vivre dans des endroits isolés, partageant souvent leur territoire avec des géants des collines et des ogres. Il n'est pas rare de trouver une bande de géants des collines et d'ogres dirigée par un verbeeg, car les verbeeg sont beaucoup plus intelligents que leurs cousins brutaux. Les Verbeeg apprécient également la compagnie des mammifères et autorisent les ours, les loups, les worgs et autres prédateurs à se réfugier chez eux. Ils attrapent et gardent des chevaux, des mules, des moutons, des chèvres et du bétail pour la nourriture et le commerce.
-:
 
 {{monster,frame
 ## Verbeeg, Longue-foulée
@@ -15926,7 +15907,7 @@ ___
 }}
 
 \column
-:::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::
 ***Longue-foulée***. Certains verbeeg vénèrent les dieux de la nature et aident à défendre le monde naturel. Ces verbeeg au tempérament équilibré sont appelés Longue-foulée et sont dotés de capacités innées de lanceur de sorts.
 
 {{monster,frame
@@ -15965,7 +15946,7 @@ ___
 \page
 ![](https://i.imgur.com/TYbTBNF.png) {width:100%,position:absolute,top:0%,right:0%}
 {{artist Irina Nordsol}}
-{{margin-top:440px,wide}}
+{{margin-top:450px,wide}}
 
 ## Morses
 
@@ -15995,7 +15976,7 @@ ___
 
 **_Défenses_**. _Attaque au corps à corps avec une arme_ : +4 au toucher, allonge 1,50 m, une cible. _Touché_ : 7 (2d4 + 2) dégâts perforants.
 }}
-:::::
+:::::::::
 {{monster,frame
 ## Morse géant
 *Bête de taille TG, sans alignement*
@@ -16086,6 +16067,7 @@ Les nouveaux objets magiques trouvés dans cette aventure sont présentés ci-de
 *Objet merveilleux, très rare*
 :
 Un *abracadabrus* est un coffre en bois orné et constellé de pierres précieuses qui pèse 10 kg à vide. Son compartiment intérieur est un cube mesurant 60 cm de côté.
+
 ![](https://i.imgur.com/F3C3ueo.png) {width:200px,mix-blend-mode:multiply,display:flex,margin:auto,float:right,}
 
 Le coffre possède 20 charges. Une créature peut utiliser une action pour toucher le couvercle fermé du coffre et dépenser 1 des charges du coffre tout en nommant un ou plusieurs objets non magiques ( notamment des matières premières, des aliments et des liquides ) d'une valeur totale de 1 po ou moins. Les objets nommés apparaissent magiquement dans le coffre, à condition qu'ils puissent tous y tenir et que le coffre ne contienne rien d'autre. Par exemple, le coffre peut conjurer une assiette de fraises, un bol de soupe chaude, un flacon d'eau, un animal en peluche ou un sac de vingt chausse-trape. Les aliments et les boissons conjurés par le coffre sont délicieux, et ils se gâtent s'ils ne sont pas consommés au bout de 24 heures. Les pierres et les métaux précieux créés par le coffre disparaissent après 1 minute.
@@ -16097,13 +16079,13 @@ Le coffre récupère 1d20 charges dépensées par jour à l'aube. Si la dernièr
 :
 Ce chaudron est fait de cuivre épais qui est devenu vert avec l'âge. Il mesure 1, 2 m de large, a une ouverture de 1 m de diamètre, pèse 15 kg et peut contenir jusqu'à 110 litres de liquide. Sur ses côtés bombés sont gravées des images de satyres et de nymphes au repos, tenant des louches. Le chaudron est muni d'un couvercle et de poignées latérales. Il repose sur cinq petits pieds griffus qui l'empêchent de basculer.
 
-Si l'on verse de l'eau dans le chaudron et que l'on remue pendant une minute, elle se transforme en un ragoût copieux et chaud, qui peut fournir un repas nourrissant à presque 2 personnes/ litre. Le ragoût reste chaud pendant qu'il est dans le chaudron, puis refroidit naturellement après avoir été retiré. L'extérieur du chaudron reste sans danger au toucher malgré la chaleur du ragoût.
+Si l'on verse de l'eau dans le chaudron et que l'on remue pendant une minute, elle se transforme en un ragoût copieux et chaud, qui peut fournir un repas nourrissant à presque 2 personnes par litre. Le ragoût reste chaud pendant qu'il est dans le chaudron, puis refroidit naturellement après avoir été retiré. L'extérieur du chaudron reste sans danger au toucher malgré la chaleur du ragoût.
 
 Le chaudron peut créer du ragoût trois fois. Il cesse ensuite de fonctionner jusqu'à l'aube suivante, où il retrouve tous ses usages.
 
-![](https://i.imgur.com/ojfdNUm.pngg) {position:absolute,width:35%,transform:rotate(30deg),top:100px,right:2cm}
+![](https://i.imgur.com/ojfdNUm.pngg) {position:absolute,width:35%,transform:rotate(30deg),top:120px}
+:::::::::::::::
 
-::::::::::::::::::
 #### Hameçon du Bonheur du Pêcheur
 *Objet merveilleux, rare*
 :
@@ -16164,7 +16146,10 @@ En plus des connaissances qu'il possède, un Globe professeur peut lancer le sor
 
 
 ![](https://i.imgur.com/YjivlCy.png) {width:200px,display:flex,margin:auto,float:right,}
+{{sidenote,top:210px,left:690px
+Globe Professeur
 
+}}
 
 ***Professeur Skant***. Le Globe professeur appartenant à Vellynne Harpell et volé par Nass Lantomir se fait appeler Professeur Skant. Il est loyal bon, a une Sagesse de 11 et un Charisme de 9. Il parle et lit le Commun, le Draconique, l'Elfique et le Loross (la langue morte de l'Empire de Netheril). Le professeur Skant est un moulin à paroles et suppose que tous les humanoïdes sont des imbéciles. Lorsqu'il s'étend sur ses domaines d'expertise, il adopte un ton involontairement condescendant. Il possède les quatre domaines d'expertise suivants :
 - L'histoire de Netheril (voir l'encadré "Le destin de Netheril", page 232).
@@ -16187,10 +16172,10 @@ Ce cristal vous accorde la télépathie aussi longtemps que vous y restez lié. 
 | 12-15 | 18 mètres | Lumière vive dans un rayon de 3 mètres et lumière faible sur 3 mètres supplémentaires |
 | 16 ou plus | 36 mètres | Lumière vive dans un rayon de 4,50 mètres et lumière faible sur 4,50 mètres supplémentaires |
 
-![](https://www.aidedd.org/dnd/images-om/psi-crystal.jpg) {width:145px,mix-blend-mode:darken,display:flex,margin:auto}
+![](https://www.aidedd.org/dnd/images-om/psi-crystal.jpg) {width:140px,mix-blend-mode:darken,display:flex,margin:auto}
 
 {{artist Claudio Pozas}}
-{{sidenote,left:460px
+{{sidenote,bottom:80px,left:460px
 Cristal Psi
 
 }}
@@ -16269,12 +16254,16 @@ Le livre contient soixante pages de vélin jaune cassant. Sur ces pages sont éc
 4ème niveau ::: *Oeil magique, bannissement, fléau, porte dimensionnelle, tentacules noirs d'Evard, assassin imaginaire.*
 
 
-![codicille](https://i.imgur.com/TYeXotd.jpg) {width:45%,position:absolute,mix-blend-mode:darken,top:50px,right:2cm}
-{{sidenote,top:110px,left:580px
+![codicille](https://i.imgur.com/TYeXotd.jpg) {width:50%,position:absolute,mix-blend-mode:darken,top:50px,right:0px}
+{{sidenote,top:110px,left:620px
 Le Codicille Blanc
 }}
 
+![incantation](https://i.imgur.com/ipPE6bJ.png) {width:50%,position:absolute,mix-blend-mode:darken,bottom:100px,right:10px}
 
+{{sidenote,bottom:100px,left:400px
+Les Incantations d'Iriolarthas
+}}
 
 {{artist Claudi Pozas, Olga Drebas}}
 
@@ -16334,11 +16323,7 @@ Le froid gèle les liquides non magiques dans la zone qui ne sont pas portés ou
 ***Au niveau supérieur***. Lorsque vous lancez ce sort en utilisant un emplacement de sort de 2e niveau ou plus, les dégâts augmentent de 1d8 pour chaque niveau d'emplacement supérieur au 1er.
 
 
-![incantation](https://i.imgur.com/ipPE6bJ.png) {width:50%,position:absolute,mix-blend-mode:darken,bottom:100px,left:1cm}
 
-{{sidenote,bottom:100px,left:290px
-Les Incantations d'Iriolarthas
-}}
 
 
 {{pageNumber,auto}}
@@ -16420,7 +16405,7 @@ C'est une excellente direction artistique !
 12 Avril 2020
 ![](https://i.imgur.com/sZ3XwYB.png) {position:absolute,bottom:0px,right:0,width:105%}
 
-{{sidenote,bottom:15px,color:white,left:460px
+{{sidenote,bottom:15px,color:white,left:560px
 Un Demi-plan vivant glisse sur un mur   
 sous le regard nerveux d'un aventurier
 
@@ -16429,33 +16414,37 @@ sous le regard nerveux d'un aventurier
 
 
 
+\page
 
+{{chapter,none,short
 
-<!--
-
-{{bc-wrapper
-{{backcover
-
-![background](https://sm.ign.com/ign_me/gallery/d/dd-rime-of/dd-rime-of-the-frostmaiden-art-accessories_zj89.jpg) {left:50px;height:150%;bottom:0px,top:-350px}
-
-# Certains secrets valent la peine de mourir
-Au Valbise, les aventures sont des plats qui se mangent froids.
-:
-Sous le ciel nocturne, vous vous tenez devant un imposant glacier et récitez une ancienne comptine qui provoque une fissure dans le mur de glace.  
-Au-delà de cette fissure béante, les Grottes de la Faim attendent. Et au-delà de ce donjon glacé se cache un secret si vieux et si terrifiant que peu osent en parler. Les magiciens fous de la Confrérie des Arcanes désirent ardemment posséder ce que la divinité de la colère de l'hiver a si froidement préservé - tout comme vous ! Quels secrets et trésors fantastiques sont enfouis dans le cœur sans soleil du glacier, et que signifiera leur découverte pour les habitants du Valbise ? Pourrez-vous sauver Dix-Cités de la nuit éternelle de la Vierge de Glace ?
-:
-Valbise : La mélodie de la Vierge de Glace est un récit terrifiant qui revisite les Dix-Cités, ces lieux de civilisation abandonnés et vacillants, et qui donne un aperçu des nombreux endroits effrayants qui entourent ces colonies frontalières.
-___
-
-Un aventure de Donjons & Dragons pour des personnages de niveau 1 à 11 <br><br>
-A utiliser avec les <br> *Player's Hand Book*, *Monster's Manual*, et le <br> *Dungeon's Master guide*.
-
-
-{{logo,words
-
+# Changelog
 }}
 
-}}
-}}
+#### 11/10/2022 v1.0
+Diffusion de la V1
 
--->
+#### 26/10/2022 v1.1
+- Erreur :: Correction du Statblock de Xardorok, l'incantation innée manquait d'informations et parlait de chwinga
+- Centrage du Titre ::(comment j'ai pu ne pas le voir avant ??)
+- Correction :: de légendes de cartes laissé en anglais
+- Chaine foudroyante ::: Correction de la Mise en page qui a sauté lors de la trad
+- Nom de l'artiste manquant:: p254
+- Cerebrum ::: traduction manquante
+- mot non traduit:: dans la case 1 de l'organigramme "chapter" au lieu de "chapitre" (merci megaloopz)
+- Correction de traduction ::: Ombreterre est devenue Underdark
+- Correction :: de plusieurs accord en genre
+- Correction :: de plusieurs passages en anglais oublié
+- p30 ::: Ajout d'un passage manquant
+
+#### 10/11/2022 v1.2
+- **Nombreuses** corrections :: syntaxiques ou de mise en page (merci megaloopz)
+- Ajout :: d'un paragraphe manquant dans le statblock d'Auril - 3eme Forme
+- Rajout :: d'un oubli d'un paragraphe p253
+
+#### 27/01/2023 v1.3
+- Corrections:: de mise en page notamment sur les descriptions d'images
+- 
+
+{{pageNumber,auto}}
+{{footnote Changelog}}
