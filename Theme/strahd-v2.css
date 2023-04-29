@@ -163,7 +163,7 @@ counter-reset:phb-page-numbers 0
 .page .artist {
 	position				: absolute;
 	bottom					: 180px;
-	right						: -40px;
+	right						: -60px;
 	width						: 20%;
 	transform				: rotate(-90deg);
 	font-family			: ScalySansSmallCapsRemake;
@@ -175,7 +175,7 @@ counter-reset:phb-page-numbers 0
 }
 .page:nth-of-type(even) .artist {
 	right						: unset;
-	left						: -40px;
+	left						: -60px;
 }
 .page .artist p {
 	font-family	: ScalySansSmallCapsRemake !important;
@@ -246,7 +246,8 @@ ____________________________________________________ */
 :root {
 	--footnote-size: 10px;
 	--footnote-content:"";
-	
+	--footnote-font-family:'MrEavesRemake';
+	--footnote-letter-spacing: .2px;
 }
 
 .page .footnote{
@@ -258,8 +259,8 @@ ____________________________________________________ */
 	text-align			: left;
 	width						: 400px;
 	font-weight			: 800;
-	font-family			: Marco Polo;
-	letter-spacing	: 1.2px;
+	font-family			: var(--footnote-font-family);
+	letter-spacing	: var(--footnote-letter-spacing);
 	z-index					: -3;
 	
 	
@@ -281,8 +282,8 @@ ____________________________________________________ */
 	text-align			: left;
 	width						: 400px;
 	font-weight			: 800;
-	font-family			: Marco Polo;
-	letter-spacing	: 1.2px;
+	font-family			: var(--footnote-font-family);
+	letter-spacing	: var(--footnote-letter-spacing);
 }
 
 .page:nth-child(even) > .columnWrapper > h1:first-of-type:after {
@@ -303,8 +304,8 @@ ____________________________________________________ */
 	text-align			: left;
 	width						: 400px;
 	font-weight			: 800;
-	font-family			: Marco Polo;
-	letter-spacing	: 1.2px;
+	font-family			: var(--footnote-font-family);
+	letter-spacing	: var(--footnote-letter-spacing);
 }
 
 .page:nth-child(even) > .columnWrapper > .chapter > h1:first-of-type:after {
@@ -342,6 +343,9 @@ ____________________________________________________ */
   display: none;
 }
 
+.page .footnote:has(p:not(:empty)):after {
+  display: none;
+}
 
 /* FRONT COVER _____________________________________________________ */
 /* _________________________________________________________________ */
