@@ -1,0 +1,1 @@
+"C:\Program Files\Google\Chrome\Application\chrome.exe" --headless --disable-gpu --print-to-pdf=D:\Frostmaiden_PrintExport\Output.pdf https://homebrewery.naturalcrit.com/print/ZNVAJZh07-Wj
