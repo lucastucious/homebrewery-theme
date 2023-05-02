@@ -697,7 +697,7 @@ text-transform: unset;
 .page .backcover {
 	position						: absolute;
 	top									: 0px;
-	left								: -20px;
+	left								: 0px;
 	height							: 100%;
 	width								: 450px;
 }
@@ -733,7 +733,7 @@ text-transform: unset;
 	height						: 52px;
 	width							: 230px;
 	margin						: -20px 0px -10px 100px;
-	background-image 	: url(/assets/horizontalRule.svg);
+	background-image 	: url(https://lucastucious.github.io/homebrewery-theme/Theme/img/horizontalRule.svg);
 	background-size		: 100% 50%;
 	background-repeat	: no-repeat;
 	border						: none;
