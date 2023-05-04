@@ -1,858 +1,702 @@
 /* FONT IMPORTS ____________________________________________________ */
 /* _________________________________________________________________ */
-
-@import url('https://rawcdn.githack.com/Kaiburr-kath-hound/HomebreweryStyles/be88dc909ce74e765dc546aed91b1499fa5d6e7b/FrostmaidenFonts.css');
-
-@font-face {
-font-family:"NodestoCaps";
-src:url(https://lucastucious.github.io/solbera-dnd-fonts/Nodesto%20Caps%20Condensed/Nodesto%20Caps%20Condensed.otf)
+ @import url('https://rawcdn.githack.com/Kaiburr-kath-hound/HomebreweryStyles/be88dc909ce74e765dc546aed91b1499fa5d6e7b/FrostmaidenFonts.css');
+ @import "https://fonts.googleapis.com/css2?family=Rock+Salt&family=Nanum+Pen+Script&display=swap";
+ @font-face {
+     font-family:"NodestoCaps";
+     src:url(https://lucastucious.github.io/solbera-dnd-fonts/Nodesto%20Caps%20Condensed/Nodesto%20Caps%20Condensed.otf) 
 }
-@import "https://fonts.googleapis.com/css2?family=Rock+Salt&family=Nanum+Pen+Script&display=swap";
-
-
-
-
 /* GENERAL CODE ____________________________________________________ */
 /* _________________________________________________________________ */
-
-.page {
-height:297mm;
-padding:1cm;
-padding-bottom:1.3cm;
-width:210mm
+ .page {
+     height:297mm;
+     padding:1cm;
+     padding-bottom:1.3cm;
+     width:210mm 
 }
-
-.page#p1 {
-counter-reset:phb-page-numbers 0
+ .page#p1 {
+     counter-reset:phb-page-numbers 0 
 }
-
 /*re-enable toc footnote*/
-.page:has(.toc):after {
-	display:block !important;
-	}
-
-
+ .page:has(.toc):after {
+     display:block !important;
+}
 /* PAGE TEXTURE */
-.page {
-	background-image	: url(https://lucastucious.github.io/homebrewery-theme/Theme/img/strahd/0-bg.png);
-	background-size		: cover;
+ .page {
+     background-image : url(https://lucastucious.github.io/homebrewery-theme/Theme/img/strahd/0-bg.png);
+     background-size : cover;
 }
-.page:nth-of-type(odd) {
-	background-image	: url(https://lucastucious.github.io/homebrewery-theme/Theme/img/strahd/0-bg-odd.jpg);
+ .page:nth-of-type(odd) {
+     background-image : url(https://lucastucious.github.io/homebrewery-theme/Theme/img/strahd/0-bg-odd.jpg);
 }
-
 /* HEADERS */
-.page h1, 
-.page h2, 
-.page h3, 
-.page h4 {
-	letter-spacing	: 1px;
-	color						: #6c0007;
+ .page h1, .page h2, .page h3, .page h4 {
+     letter-spacing : 1px;
+     color : #6c0007;
 }
-
-.page h2 {
-	margin-top:.13cm
-
+ .page h2 {
+     margin-top:.13cm 
 }
-
-.page h1 {
-	font-weight			: normal;
-	letter-spacing	: 0.5px;
-	font-size				: 34px;
+ .page h1 {
+     font-weight : normal;
+     letter-spacing : 0.5px;
+     font-size : 34px;
 }
-
-.page h3 {
-	border-bottom : 2px solid #d7c598;
-	margin-bottom : 0.3em;
+ .page h3 {
+     border-bottom : 2px solid #d7c598;
+     margin-bottom : 0.3em;
 }
-
-.page h4{ 
-	margin-bottom : 0.2em;
+ .page h4{
+     margin-bottom : 0.2em;
 }
-
-.page h5 {
-	text-shadow	: #000 0px 0px 0.1px;
+ .page h5 {
+     text-shadow : #000 0px 0px 0.1px;
 }
-
 /* NOTES */
-.page .note {
-	background-color		: #d2d6db;
+ .page .note {
+     background-color : #d2d6db;
 }
-
 /* IMAGES */
-.page img {
-	position		: absolute;
-	z-index			: -1;
-	user-select	: none;
+ .page img {
+     position : absolute;
+     z-index : -1;
+     user-select : none;
 }
-
-.page .inline {
-	margin:auto;
-	position: unset;
-	display:block;
-	width: 300px;
+ .page .inline {
+     margin:auto;
+     position: unset;
+     display:block;
+     width: 300px;
 }
-
 /* DESCRIPTIVE NOTES */
-.page .descriptive {
-	background-color		: #e7e8eb;
+ .page .descriptive {
+     background-color : #e7e8eb;
 }
-.page .descriptive {
-	border-image				: url(https://lucastucious.github.io/homebrewery-theme/Theme/img/strahd/0-notes.png) 12 stretch;
-	border-image-outset : 4px;
+ .page .descriptive {
+     border-image : url(https://lucastucious.github.io/homebrewery-theme/Theme/img/strahd/0-notes.png) 12 stretch;
+     border-image-outset : 4px;
 }
-
 /* TABLES */
-.page table tr:nth-child(odd) td {
-	background-color		: #dbdee2;
+ .page table tr:nth-child(odd) td {
+     background-color : #dbdee2;
 }
-.page .stanza table, thead, th,td, tr, tbody {
-
-	vertical-align:middle;
+ .page .stanza table, thead, th,td, tr, tbody {
+     vertical-align:middle;
 }
-
-
 /* MONSTER STATBLOCKS */
-.page .monster.frame {
-	background-color		: #f9ecbd;
-	filter: grayscale(.3);
+ .page .monster.frame {
+     background-color : #f9ecbd;
+     filter: grayscale(.3);
 }
-.page .monster table tr:nth-child(odd) td {
-	background-color		: transparent;
+ .page .monster table tr:nth-child(odd) td {
+     background-color : transparent;
 }
-
 /* Adds spacing beneath Headers and Notes */
-.page .note { 
-	margin-top : 5mm; 
+ .page .note {
+     margin-top : 5mm;
 }
-.page .note + .note { 
-	margin-top : 2.5em; 
+ .page .note + .note {
+     margin-top : 2.5em;
 }
-
 /* Adjusts the various spacings of Numbered and Bulleted Lists */
-.page .note ol > li {
-	padding: 0 0 0 0.4em;
-	text-indent: -1.5em;
-	list-style-type: none;
-	counter-increment: item;
+ .page .note ol > li {
+     padding: 0 0 0 0.4em;
+     text-indent: -1.5em;
+     list-style-type: none;
+     counter-increment: item;
 }
-.page .note ul {
-	margin-top: 0.6em;
+ .page .note ul {
+     margin-top: 0.6em;
 }
-
-.page ol {
-	margin: 0.4em 0 0.5em;
-	padding: 0;
+ .page ol {
+     margin: 0.4em 0 0.5em;
+     padding: 0;
 }
-.page ol > li {
-	padding: 0 0 0 1.3em;
-	text-indent: -1.5em;
-	list-style-type: none;
-	counter-increment: item;
+ .page ol > li {
+     padding: 0 0 0 1.3em;
+     text-indent: -1.5em;
+     list-style-type: none;
+     counter-increment: item;
 }
-.page ol > li:before {
-	display: inline-block;
-	width: 1em;
-	padding-right: 0.5em;
-	font-weight: bold;
-	text-align: right;
-	content: counter(item) ".";
+ .page ol > li:before {
+     display: inline-block;
+     width: 1em;
+     padding-right: 0.5em;
+     font-weight: bold;
+     text-align: right;
+     content: counter(item) ".";
 }
-
 /* ARTIST CREDITS */
-.page .artist {
-	position				: absolute;
-	bottom					: 180px;
-	right						: -60px;
-	width						: 20%;
-	transform				: rotate(-90deg);
-	font-family			: ScalySansSmallCapsRemake;
-	font-size				: 13px;
-	text-align			: left;
-	text-transform	: lowercase;
-	color						: #818892;
-	z-index					: 200;
+ .page .artist {
+     position : absolute;
+     bottom : 180px;
+     right : -60px;
+     width : 20%;
+     transform : rotate(-90deg);
+     font-family : ScalySansSmallCapsRemake;
+     font-size : 13px;
+     text-align : left;
+     text-transform : lowercase;
+     color : #818892;
+     z-index : 200;
 }
-.page:nth-of-type(even) .artist {
-	right						: unset;
-	left						: -60px;
+ .page:nth-of-type(even) .artist {
+     right : unset;
+     left : -60px;
 }
-.page .artist p {
-	font-family	: ScalySansSmallCapsRemake !important;
-	font-size		: 13px !important;
+ .page .artist p {
+     font-family : ScalySansSmallCapsRemake !important;
+     font-size : 13px !important;
 }
-
 /* SMALL CAPS */
-.page caps {
-	font-variant	: small-caps;
+ .page caps {
+     font-variant : small-caps;
 }
-.page .backcover caps {
-	font-size			: 120%;
+ .page .backcover caps {
+     font-size : 120%;
 }
-
 /* WATERCOLOR STAIN */
-.page [class*="watercolor"] {
-	background-color	: #7a0000;
+ .page [class*="watercolor"] {
+     background-color : #7a0000;
 }
-
 /* FOOTER IMAGE */
-.page:after {
-	position					: absolute;
-	left							: 0px;
-	bottom						: -10px;
-	width           	: 100%;
-	height						: 70px;
-	z-index						: -5;
-	background-image	: url(https://lucastucious.github.io/homebrewery-theme/Theme/img/strahd/0-footer.png);
+ .page:after {
+     position : absolute;
+     left : 0px;
+     bottom : -10px;
+     width : 100%;
+     height : 70px;
+     z-index : -5;
+     background-image : url(https://lucastucious.github.io/homebrewery-theme/Theme/img/strahd/0-footer.png);
 }
-.page:nth-of-type(even):after {
-	left							: unset;
-	right							: 0%;
+ .page:nth-of-type(even):after {
+     left : unset;
+     right : 0%;
 }
-
-
 /* HYPERLINKS */
-.page a {
-	color						: inherit;
-	text-decoration	: none;
-	font-weight			: inherit;
+ .page a {
+     color: #AC8F66;
+     text-decoration : none;
+     font-weight : inherit;
 }
-.page a:hover{
-	text-decoration	: underline;
+ .page a:hover{
+     text-decoration : underline;
 }
-
 /* QUOTE */
-.page .quote {
-	font-family 		: Cormorant;
-	font-size				: 15px;
-	line-height			: 1em;
-	margin-top			: 0px;
-	padding-bottom	: 4px;
+ .page .quote {
+     font-family : Cormorant;
+     font-size : 15px;
+     line-height : 1em;
+     margin-top : 0px;
+     padding-bottom : 4px;
 }
-
-.page .quote.author p:last-child {
-	font-family 		: BookInsanityRemake;
-	font-size				: 0.34cm;
-	margin-top			: 4px;
-	text-align			: right;
+ .page .quote.author p:last-child {
+     font-family : BookInsanityRemake;
+     font-size : 0.34cm;
+     margin-top : 4px;
+     text-align : right;
 }
-
-
-/* FOOTNOTES
-____________________________________________________ */
+/* FOOTNOTES ____________________________________________________ */
 /* _________________________________________________________________ */
-
-
-:root {
-	--footnote-size: 10px;
-	--footnote-content:"";
-	--footnote-font-family:'MrEavesRemake';
-	--footnote-letter-spacing: .2px;
+ :root {
+     --footnote-size: 10px;
+     --footnote-content:"";
+     --footnote-font-family:'MrEavesRemake';
+     --footnote-letter-spacing: .2px;
 }
-
-.page .footnote{
-  left						: 80px;
-	bottom					: 40px;
-	font-size				: var(--footnote-size);
-	color						: #818892;
-	text-transform	: uppercase;
-	text-align			: left;
-	width						: 400px;
-	font-weight			: 800;
-	font-family			: var(--footnote-font-family);
-	letter-spacing	: var(--footnote-letter-spacing);
-	z-index					: -3;
-	
-	
+ .page .footnote{
+     left : 80px;
+     bottom : 40px;
+     font-size : var(--footnote-size);
+     color : #818892;
+     text-transform : uppercase;
+     text-align : left;
+     width : 400px;
+     font-weight : 800;
+     font-family : var(--footnote-font-family);
+     letter-spacing : var(--footnote-letter-spacing);
+     z-index : -3;
 }
-.page:nth-child(even) .footnote{
-	left						: unset;
-	right						: 80px;
-	text-align			: right;
+ .page:nth-child(even) .footnote{
+     left : unset;
+     right : 80px;
+     text-align : right;
 }
-
-.page > .columnWrapper > h1:first-of-type:after {
-  content         : attr(id);
-	position        : absolute;
-	left						: 80px;
-	bottom					: 30px;
-	font-size				: var(--footnote-size);
-	color						: #818892;
-	text-transform	: uppercase;
-	text-align			: left;
-	width						: 400px;
-	font-weight			: 800;
-	font-family			: var(--footnote-font-family);
-	letter-spacing	: var(--footnote-letter-spacing);
+ .page > .columnWrapper > h1:first-of-type:after {
+     content : attr(id);
+     position : absolute;
+     left : 80px;
+     bottom : 30px;
+     font-size : var(--footnote-size);
+     color : #818892;
+     text-transform : uppercase;
+     text-align : left;
+     width : 400px;
+     font-weight : 800;
+     font-family : var(--footnote-font-family);
+     letter-spacing : var(--footnote-letter-spacing);
 }
-
-.page:nth-child(even) > .columnWrapper > h1:first-of-type:after {
-	left						: unset;
-	right						: 80px;
-	text-align			: right;
+ .page:nth-child(even) > .columnWrapper > h1:first-of-type:after {
+     left : unset;
+     right : 80px;
+     text-align : right;
 }
-
-
-.page > .columnWrapper > .chapter > h1:first-of-type:after {
-  content         : attr(id);
-	position        : absolute;
-	left						: 80px;
-	bottom					: 30px;
-	font-size				: var(--footnote-size);
-	color						: #818892;
-	text-transform	: uppercase;
-	text-align			: left;
-	width						: 400px;
-	font-weight			: 800;
-	font-family			: var(--footnote-font-family);
-	letter-spacing	: var(--footnote-letter-spacing);
+ .page > .columnWrapper > .chapter > h1:first-of-type:after {
+     content : attr(id);
+     position : absolute;
+     left : 80px;
+     bottom : 30px;
+     font-size : var(--footnote-size);
+     color : #818892;
+     text-transform : uppercase;
+     text-align : left;
+     width : 400px;
+     font-weight : 800;
+     font-family : var(--footnote-font-family);
+     letter-spacing : var(--footnote-letter-spacing);
 }
-
-.page:nth-child(even) > .columnWrapper > .chapter > h1:first-of-type:after {
-	left						: unset;
-	right						: 80px;
-	text-align			: right;
+ .page:nth-child(even) > .columnWrapper > .chapter > h1:first-of-type:after {
+     left : unset;
+     right : 80px;
+     text-align : right;
 }
-
-.page:has(.footnote) .chapter h1:after {
-	display:none;
+ .page:has(.footnote) .chapter h1:after {
+     display:none;
 }
-
-.page:has(.footnote) h1:after {
-	display:none;
+ .page:has(.footnote) h1:after {
+     display:none;
 }
-
 /* PAGE NUMBER */
-.page .pageNumber{
-	left 						: 35px;
-	bottom					: 34px;
-	font-size				: 16px;
-	color						: #818892;
-	text-align			: left;
-	font-family			: Marco Polo;
-	font-weight			: 100;
-	z-index					: -3;
+ .page .pageNumber{
+     left : 35px;
+     bottom : 34px;
+     font-size : 16px;
+     color : #818892;
+     text-align : left;
+     font-family : Marco Polo;
+     font-weight : 100;
+     z-index : -3;
 }
-.page:nth-child(even) .pageNumber{
-	left								: unset;
-	right 							: 35px;
-	text-align					: right;
+ .page:nth-child(even) .pageNumber{
+     left : unset;
+     right : 35px;
+     text-align : right;
 }
-
-.page span.footnote:not(:empty)::after {
-  display: none;
+ .page span.footnote:not(:empty)::after {
+     display: none;
 }
-
-.page .footnote:has(p:not(:empty)):after {
-  display: none;
+ .page .footnote:has(p:not(:empty)):after {
+     display: none;
 }
-
 /* FRONT COVER _____________________________________________________ */
 /* _________________________________________________________________ */
-
-.page .frontCover{
-	position		: absolute;
-	top					: 0;
-	left				: 0;
-	height			: 100%;
-	padding			: 1cm 0px;
-	text-align	: center; 
-
+ .page .frontCover{
+     position : absolute;
+     top : 0;
+     left : 0;
+     height : 100%;
+     padding : 1cm 0px;
+     text-align : center;
 }
-
-.page .frontCover img {
-	position		: absolute;
-	top					: 0px; 
-	right				: 0px;
-	height			: 100%;
-	min-width		: 100%;
-	cursor: unset;
-    z-index: -1;
+ .page .frontCover img {
+     position : absolute;
+     top : 0px;
+     right : 0px;
+     height : 100%;
+     min-width : 100%;
+     cursor: unset;
+     z-index: -1;
 }
-
-
-.page .frontCover h1 {
-
-	font-size						: 5.5em;
-	    margin-top: .2cm;
-	    margin-bottom: .2cm;
-text-transform: unset;
+ .page .frontCover h1 {
+     font-size : 5.5em;
+     margin-top: .2cm;
+     margin-bottom: .2cm;
+     text-transform: unset;
 }
-
-.page small {
-	position					: relative;
-	text-transform		: lowercase;
-	bottom						: 6px;
+ .page small {
+     position : relative;
+     text-transform : lowercase;
+     bottom : 6px;
 }
-
-
-.page .frontCover h2 {
-	font-family					: Nodesto;
-	font-size						: 5em;
+ .page .frontCover h2 {
+     font-family : Nodesto;
+     font-size : 5em;
 }
-
-.page .frontCover .footnote {
-	position						: absolute;
-	bottom							: 3.5em;
-	left								: 0px;
-	width								: 100%;
-	font-family					: VeraCruz;
-	letter-spacing			: 0.6px;
-	text-transform			: none;
-	text-align					: center;
-	transform						: scaleX(90%);
-	z-index							: 10;
-	-webkit-text-stroke	: unset;
+ .page .frontCover .footnote {
+     position : absolute;
+     bottom : 3.5em;
+     left : 0px;
+     width : 100%;
+     font-family : VeraCruz;
+     letter-spacing : 0.6px;
+     text-transform : none;
+     text-align : center;
+     transform : scaleX(90%);
+     z-index : 10;
+     -webkit-text-stroke : unset;
 }
-
-
-
-
-
 /* CREDITS PAGE ____________________________________________________ */
 /* _________________________________________________________________ */
-
-.page .credits h1+p::first-letter, 
-.page .credits h1+p::first-line {
-	all	: unset;
+ .page .credits h1+p::first-letter, .page .credits h1+p::first-line {
+     all : unset;
 }
-
-.page .credits h1 {
-	font-size	: 40px;
-	color							: #58180D;
-
+ .page .credits h1 {
+     font-size : 40px;
+     color : #58180D;
 }
-
-.page .credits h2, 
-.page .credits h5 {
-	margin-bottom	:14px;
+ .page .credits h2, .page .credits h5 {
+     margin-bottom :14px;
 }
-
-.page .credits p {
-	font-family	: Martel_SansRegular;
-	font-style	: normal;
-	font-size		: 0.83em;
-	line-height	: 1.5em;
-	text-indent	: -1em; 
-	margin-left	: 1em;
+ .page .credits p {
+     font-family : Martel_SansRegular;
+     font-style : normal;
+     font-size : 0.83em;
+     line-height : 1.5em;
+     text-indent : -1em;
+     margin-left : 1em;
 }
-
-.page .credits strong {
-	font-family	: Martel_SansExtraBold;
+ .page .credits strong {
+     font-family : Martel_SansExtraBold;
 }
-
-.page .credits a {
-	color				: #6c0007;
-	font-weight	: 900;
+ .page .credits a {
+     color : #6c0007;
+     font-weight : 900;
 }
-
-		.page .frontcredit {
-			position						: relative;
-			right								: 10px;
-			width               : 340px;
-			height              : 240px;
-			margin-top					: 15px;
-			margin-bottom				: 110px;
-		}
-
-		.page .frontcredit::before {
-			content							: '';
-			position						: absolute;
-			top									: 4px;
-			left								: -20px;
-			height							: 98%;
-			width								: 109.2%;
-			background-image		: url(https://i.imgur.com/VToJGxP.png);
-			background-size			: 100% 100%;
-		}
-
-		.page .frontcredit img {
-			position							: relative;
-			top										: 5px;
-			left									: -18px;
-			width									: 108.5%;
-			height								: 234px;
-			-webkit-mask-image		: url(https://i.imgur.com/PN6zgvK.png);
-			-webkit-mask-position	: top;
-			-webkit-mask-size			: 100% 234px;
-			-webkit-mask-repeat		: no-repeat;
-		}
-
-		.page .frontcredit h5 {
-			margin-top		: 10px;
-			margin-bottom	: -2px;
-			text-shadow		: #000 0px 0px 0.1px;
-		}
-
-		.page .frontcredit p {
-			text-indent	: 0em; 
-			margin-left	: 0em;
-		}
-
-
-.page .credits .footnote {
-	bottom					: 20px;
-	left						: 0px;
-	width						: 100%;
-	font-size				: 1em;
-	text-transform	: none;
-	text-align			: left;
-	color						: black;
+ .page .frontcredit {
+     position : relative;
+     right : 10px;
+     width : 340px;
+     height : 240px;
+     margin-top : 15px;
+     margin-bottom : 110px;
 }
-
-.page .credits .footnote p {
-	padding			: 4.5em;
-	text-indent	: 0px;
+ .page .frontcredit::before {
+     content : '';
+     position : absolute;
+     top : 4px;
+     left : -20px;
+     height : 98%;
+     width : 109.2%;
+     background-image : url(https://i.imgur.com/VToJGxP.png);
+     background-size : 100% 100%;
 }
-
-
+ .page .frontcredit img {
+     position : relative;
+     top : 5px;
+     left : -18px;
+     width : 108.5%;
+     height : 234px;
+     -webkit-mask-image : url(https://i.imgur.com/PN6zgvK.png);
+     -webkit-mask-position : top;
+     -webkit-mask-size : 100% 234px;
+     -webkit-mask-repeat : no-repeat;
+}
+ .page .frontcredit h5 {
+     margin-top : 10px;
+     margin-bottom : -2px;
+     text-shadow : #000 0px 0px 0.1px;
+}
+ .page .frontcredit p {
+     text-indent : 0em;
+     margin-left : 0em;
+}
+ .page .credits .footnote {
+     bottom : 20px;
+     left : 0px;
+     width : 100%;
+     font-size : 1em;
+     text-transform : none;
+     text-align : left;
+     color : black;
+}
+ .page .credits .footnote p {
+     padding : 4.5em;
+     text-indent : 0px;
+}
 /* TABLE OF CONTENTS _______________________________________________ */
 /* _________________________________________________________________ */
-	
-.page .toc h3 {
-	font-family			: BookInsanityRemake;
-	font-size				: 13.5px;
-	font-weight			: 800;
-	letter-spacing	: 0px;
-	border-bottom		: unset;
-	color						: #6c0007;
+ .page .toc h3 {
+     font-family : BookInsanityRemake;
+     font-size : 13.5px;
+     font-weight : 800;
+     letter-spacing : 0px;
+     border-bottom : unset;
+     color : #6c0007;
 }
-
-.page .toc h4 {
-	margin-top			: 2px;
-	margin-bottom		: 0px;
-	font-family			: BookInsanityRemake;
-	font-weight			: 100;
-	color						: black;
-	font-size				: 13px;
-	letter-spacing	: 0px;
+ .page .toc h4 {
+     margin-top : 2px;
+     margin-bottom : 0px;
+     font-family : BookInsanityRemake;
+     font-weight : 100;
+     color : black;
+     font-size : 13px;
+     letter-spacing : 0px;
 }
-	
-.page .toc ul li + li h3 {
-	margin-top	: 8px;
+ .page .toc ul li + li h3 {
+     margin-top : 8px;
 }
-
-.page .toc a {
-	font-weight	: inherit;
+ .page .toc a {
+     font-weight : inherit;
 }
-
-.page .toc.wide {
-	columns			:3;
+ .page .toc.wide {
+     columns :3;
 }
-
 /* CHAPTER HEADING _________________________________________________ */
 /* _________________________________________________________________ */
-
-.page .chapter {
-	column-span				: all;
-	display						: block;
-	padding-bottom		: 28px;
+ .page .chapter {
+     column-span : all;
+     display : block;
+     padding-bottom : 28px;
 }
-
-.page .chapter h1 {
-	font-weight			: normal;
-	letter-spacing	: 0.5px;
-	margin-bottom		: -10px;
-	font-size				: 34px;
+ .page .chapter h1 {
+     font-weight : normal;
+     letter-spacing : 0.5px;
+     margin-bottom : -10px;
+     font-size : 34px;
 }
-
-.page .chapter+p::first-letter,
-.page .chapter+.quote::first-letter {
-	float                   : left;
-	font-family             : SolberaImitationRemake;
-	line-height             : 1em;
-	font-size               : 14.3em;
-	margin-left             : -40px;
-	margin-top              : -70px;
-	margin-bottom           : -22px;
-	padding-left            : 45px;
-	padding-right						: 2px;
-	color                   : rgba(0, 0, 0);
+ .page .chapter+p::first-letter, .page .chapter+.quote::first-letter {
+     float : left;
+     font-family : SolberaImitationRemake;
+     line-height : 1em;
+     font-size : 14.3em;
+     margin-left : -40px;
+     margin-top : -70px;
+     margin-bottom : -22px;
+     padding-left : 45px;
+     padding-right : 2px;
+     color : rgba(0, 0, 0);
 }
-
-.page h1+p::first-letter,
-.page h1+.quote::first-letter {
-	float                   : left;
-	font-family             : SolberaImitationRemake;
-	line-height             : 1em;
-	margin-left             : -40px;
-	margin-top              : -10px;
-	margin-bottom           : -22px;
-	padding-left            : 40px;
-	padding-right						: 4px;
-	color                   : rgba(0, 0, 0);
+ .page h1+p::first-letter, .page h1+.quote::first-letter {
+     float : left;
+     font-family : SolberaImitationRemake;
+     line-height : 1em;
+     margin-left : -40px;
+     margin-top : -10px;
+     margin-bottom : -22px;
+     padding-left : 40px;
+     padding-right : 4px;
+     color : rgba(0, 0, 0);
 }
-
-.page .chapter::after {
-	content						: '';
-	position					: absolute;
-	width							: 280px;
-	height						: 280px;
-	top								: 10px;
-	left							: 0px;
-	z-index						: -1;
-	background-image	: url(https://lucastucious.github.io/homebrewery-theme/Theme/img/strahd/0-chapter-circle.png);
-	background-size		: cover;
+ .page .chapter::after {
+     content : '';
+     position : absolute;
+     width : 280px;
+     height : 280px;
+     top : 10px;
+     left : 0px;
+     z-index : -1;
+     background-image : url(https://lucastucious.github.io/homebrewery-theme/Theme/img/strahd/0-chapter-circle.png);
+     background-size : cover;
 }
-
-.page h1+.quote::first-letter,
-.page .chapter+.quote::first-letter {
-	font-size				: 88px;
-	margin-left			: -4px;
+ .page h1+.quote::first-letter, .page .chapter+.quote::first-letter {
+     font-size : 88px;
+     margin-left : -4px;
 }
-
-.page .chapter+.quote::first-line,
-.page .chapter+p:first-line {
-	font-variant 		: small-caps;
-	font-family 		: BookInsanityRemake;
-	font-size				: 15px;
-	text-transform	: lowercase;
-	line-height			: 14px;
+ .page .chapter+.quote::first-line, .page .chapter+p:first-line {
+     font-variant : small-caps;
+     font-family : BookInsanityRemake;
+     font-size : 15px;
+     text-transform : lowercase;
+     line-height : 14px;
 }
-
-
-
 /* STRAHD TOMES_____________________________________________________ */
 /* _________________________________________________________________ */
-
-.page .tome {
-	position						: relative;
-	border-width        : 1px;
-	border-image				: url(https://lucastucious.github.io/homebrewery-theme/Theme/img/strahd/0-tome-double.png) 38 27;
-	border-image-outset	: 22px 10px;
-	border-image-width	: 20px;
-	padding             : 0.13cm 0.16cm;
-  margin-top				: 35px;
-	margin-bottom				: 35px;
+ .page .tome {
+     position : relative;
+     border-width : 1px;
+     border-image : url(https://lucastucious.github.io/homebrewery-theme/Theme/img/strahd/0-tome-double.png) 38 27;
+     border-image-outset : 22px 10px;
+     border-image-width : 20px;
+     padding : 0.13cm 0.16cm;
+     margin-top : 35px;
+     margin-bottom : 35px;
 }
-
-.page .tome h5 {
-	font-size : 0.375cm;
+ .page .tome h5 {
+     font-size : 0.375cm;
 }
-
-.page .tome p {
-	display        : block;
-	padding-bottom : 0px;
-	padding-left	 : 14px;
-	padding-right	 : 14px;
+ .page .tome p {
+     display : block;
+     padding-bottom : 0px;
+     padding-left : 14px;
+     padding-right : 14px;
 }
-
-.page .tome + .note { 
-	margin-top : 2.5em; 
+ .page .tome + .note {
+     margin-top : 2.5em;
 }
-
-.page .tome ol > li {
-	padding: 0 0 0 0.4em;
-	text-indent: -1.5em;
-	list-style-type: none;
-	counter-increment: item;
+ .page .tome ol > li {
+     padding: 0 0 0 0.4em;
+     text-indent: -1.5em;
+     list-style-type: none;
+     counter-increment: item;
 }
-.page .tome ul {
-	margin-top: 0.6em;
+ .page .tome ul {
+     margin-top: 0.6em;
 }
-
-.page .quote.tome p::first-line {
-	font-variant 		: small-caps;
-	font-family 		: BookInsanityRemake;
-	font-size				: 15px;
-	text-transform	: lowercase;
-	line-height			: 14px;
-	font-weight:bold;
+ .page .quote.tome p::first-line {
+     font-variant : small-caps;
+     font-family : BookInsanityRemake;
+     font-size : 15px;
+     text-transform : lowercase;
+     line-height : 14px;
+     font-weight:bold;
 }
-
-.page .quote.tome p + p::first-line {
-	font-variant 		: unset;
-	font-family 		: inherit;
-	font-size				: inherit;
-	text-transform	: inherit;
-	line-height			: inherit;
+ .page .quote.tome p + p::first-line {
+     font-variant : unset;
+     font-family : inherit;
+     font-size : inherit;
+     text-transform : inherit;
+     line-height : inherit;
 }
-
-.page .quote.tome.author p:last-child {
-	font-family 		: Cormorant;
-	font-size				: 0.4cm;
-	margin-top			: 4px;
-	text-align			: right;
+ .page .quote.tome.author p:last-child {
+     font-family : Cormorant;
+     font-size : 0.4cm;
+     margin-top : 4px;
+     text-align : right;
 }
-
-
-
 /* BACK COVER CODE__________________________________________________ */
 /* _________________________________________________________________ */
-
-.page .backcover:before {
-	content							: '';
-	position						: absolute;
-	top									: 0px;
-	left								: -20px;
-	height							: 100%;
-	width								: 450px;
-	background-image		: url(https://lucastucious.github.io/homebrewery-theme/Theme/img/backcover.png);
-	background-position	: bottom center;
-	background-size			: cover;
-	background-repeat		: no-repeat;
-	z-index							: -1;
+ .page .backcover:before {
+     content : '';
+     position : absolute;
+     top : 0px;
+     left : -20px;
+     height : 100%;
+     width : 450px;
+     background-image : url(https://lucastucious.github.io/homebrewery-theme/Theme/img/backcover.png);
+     background-position : bottom center;
+     background-size : cover;
+     background-repeat : no-repeat;
+     z-index : -1;
 }
-
-.page .backcover {
-	position						: absolute;
-	top									: 0px;
-	left								: 0px;
-	height							: 100%;
-	width								: 450px;
+ .page .backcover {
+     position : absolute;
+     top : 0px;
+     left : 0px;
+     height : 100%;
+     width : 450px;
 }
-
-.page .backcover h1 {
-	text-align			: center;
-	min-width				: 500px;
-	margin-top			: -10px;
-	margin-bottom		: 15px;
-	padding					: 80px 80px 0px 0px;
-	font-family			: Nodesto;
-	font-size				: 480%;
-	font-weight			: normal;
-	letter-spacing	: -1px;
-	line-height			: 0.85em;
-	color						: #ED1C24;
+ .page .backcover h1 {
+     text-align : center;
+     min-width : 500px;
+     margin-top : -10px;
+     margin-bottom : 15px;
+     padding : 80px 80px 0px 0px;
+     font-family : Nodesto;
+     font-size : 480%;
+     font-weight : normal;
+     letter-spacing : -1px;
+     line-height : 0.85em;
+     color : #ED1C24;
 }
-
-.page .backcover p {  
-	padding				: 0px 80px 0px 60px;
-	font-family		: martel_sanssemibold;
-	font-weight		: normal;
-	font-size			: 12px;
-	line-height		: 1.8em;
-	text-indent		: 0em;
-	color					: white;
+ .page .backcover p {
+     padding : 0px 80px 0px 60px;
+     font-family : martel_sanssemibold;
+     font-weight : normal;
+     font-size : 12px;
+     line-height : 1.8em;
+     text-indent : 0em;
+     color : white;
 }
-
-.page .backcover hr {
-	visibility				: visible;
-	position					: relative;
-	top								: 35px;
-	height						: 52px;
-	width							: 230px;
-	margin						: -20px 0px -10px 100px;
-	background-image 	: url(https://lucastucious.github.io/homebrewery-theme/Theme/img/horizontalRule.svg);
-	background-size		: 100% 50%;
-	background-repeat	: no-repeat;
-	border						: none;
+ .page .backcover hr {
+     visibility : visible;
+     position : relative;
+     top : 35px;
+     height : 52px;
+     width : 230px;
+     margin : -20px 0px -10px 100px;
+     background-image : url(https://lucastucious.github.io/homebrewery-theme/Theme/img/horizontalRule.svg);
+     background-size : 100% 50%;
+     background-repeat : no-repeat;
+     border : none;
 }
-
-.page .backcover p:last-child {
-	font-family	: Martel_SansExtraBold;
-	text-align	: center;
-	font-size		: 11px;
-	margin-top	: 30px;
+ .page .backcover p:last-child {
+     font-family : Martel_SansExtraBold;
+     text-align : center;
+     font-size : 11px;
+     margin-top : 30px;
 }
-
-.page .backcover img {
-	position	: absolute;
-	top				: -2%;
-	height		: 109%;
-	left			: 40%;
-	z-index		: -10;
+ .page .backcover img {
+     position : absolute;
+     top : -2%;
+     height : 109%;
+     left : 40%;
+     z-index : -10;
 }
-
-
 /* HOMEBREWERY LOGO _______________________________________________ */
-
-.page .logo{
-	content						: '';
-	position					: absolute;
-	left							: 34.5%;
-	bottom						: 0px;
-	min-height				: 200px;
-	background-image	: url(https://lucastucious.github.io/homebrewery-theme/Theme/img/homebrewery-logo.png);
-	
-	background-size		: 135px;
-	background-repeat	: no-repeat;
-	
+ .page .logo{
+     content : '';
+     position : absolute;
+     left : 34.5%;
+     bottom : 0px;
+     min-height : 200px;
+     background-image : url(https://lucastucious.github.io/homebrewery-theme/Theme/img/homebrewery-logo.png);
+     background-size : 135px;
+     background-repeat : no-repeat;
 }
-
-.page .logo.words:before {
-	content						: 'Made with The Homebrewery';
-	position					: absolute;
-	bottom						: 210px;
-	left							: -14px;
-	font-family				: Nodesto;
-	font-size					: 150%;
-	-webkit-transform	: scale(1.6, 1.0);
-	color							: white;
+ .page .logo.words:before {
+     content : 'Made with The Homebrewery';
+     position : absolute;
+     bottom : 210px;
+     left : -14px;
+     font-family : Nodesto;
+     font-size : 150%;
+     -webkit-transform : scale(1.6, 1.0);
+     color : white;
 }
-
 /* FLAVOR _______________________________________________ */
-
-
-:root {
---base-text-color:maroon;
---base-text-font:'rock salt';
---base-text-size:12px;
---greeting-color:inherit;
---greeting-font:inherit;
---note-color:inherit;
---note-font:inherit;
---signature-color:inherit;
---signature-font:inherit
+ :root {
+     --base-text-color:maroon;
+     --base-text-font:'rock salt';
+     --base-text-size:12px;
+     --greeting-color:inherit;
+     --greeting-font:inherit;
+     --note-color:inherit;
+     --note-font:inherit;
+     --signature-color:inherit;
+     --signature-font:inherit 
 }
-
-
-.flavor {
-color:var(--base-text-color);
-font-family:var(--base-text-font);
-font-size:var(--base-text-size);
-margin-bottom:10px
+ .flavor {
+     color:var(--base-text-color);
+     font-family:var(--base-text-font);
+     font-size:var(--base-text-size);
+     margin-bottom:10px 
 }
-
-.flavor p {
-color:var(--note-color);
-font-family:var(--note-font);
-font-size:inherit;
-text-align:center;
-transform:rotate(0deg)
+ .flavor p {
+     color:var(--note-color);
+     font-family:var(--note-font);
+     font-size:inherit;
+     text-align:center;
+     transform:rotate(0deg) 
 }
-
-.flavor.greeting p:first-child {
-color:var(--greeting-color);
-font-family:var(--greeting-font);
-font-size:inherit;
-font-weight:unset;
-height:auto;
-padding-top:0;
-text-align:left;
-transform:rotate(0deg)
+ .flavor.greeting p:first-child {
+     color:var(--greeting-color);
+     font-family:var(--greeting-font);
+     font-size:inherit;
+     font-weight:unset;
+     height:auto;
+     padding-top:0;
+     text-align:left;
+     transform:rotate(0deg) 
 }
-
-.flavor.sig p:last-child {
-border:none;
-color:var(--signature-color);
-font-family:var(--signature-font);
-font-size:inherit;
-font-weight:unset;
-height:auto;
-padding-top:0;
-text-align:right;
-transform:rotate(-4deg)
+ .flavor.sig p:last-child {
+     border:none;
+     color:var(--signature-color);
+     font-family:var(--signature-font);
+     font-size:inherit;
+     font-weight:unset;
+     height:auto;
+     padding-top:0;
+     text-align:right;
+     transform:rotate(-4deg) 
 }
-
-.flavor.sig.wide p:last-child {
-margin-top:8px
+ .flavor.sig.wide p:last-child {
+     margin-top:8px 
 }
-
-
-
-
-
-
 /* custom for each brews*/
-
-
  .page:nth-child(odd) .footnote:after{
      content: '';
-
 }
  .page:nth-child(even) .footnote:after {
-     content: 'Fleshing Out Curse of Strahd  - FR';
-
+     content: 'Fleshing Out Curse of Strahd - FR';
 }
-
+ 
